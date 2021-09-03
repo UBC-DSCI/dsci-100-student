@@ -29,22 +29,18 @@ concession form (available on the Canvas page).
 
 # What is the structure of the class?
 
-**Tues/Thurs may swap here; I haven't settled on the exact schedule pattern yet. But aside from Tues/Thurs swap, this is all correct.**
-
 Each week (starting on Thursday) will have the following pattern:
 
-- I will release pre-lecture reading material a few days earlier (usually on
-  Tuesday)
-- In lecture on Thursday, I will begin with a brief lecture to introduce a new
+- I will release pre-lecture reading material a few days earlier (usually on Mon/Tues)
+- In class on Thursday, I will begin with a brief lecture to introduce a new
   concept. Then you'll do a worksheet to practice the concept.
-- Your lecture worksheet will be due Saturday at 10pm pacific time.
+- Your lecture worksheet will be due Saturday at 11:59pm pacific time.
 - Then you'll have until the next tutorial with no lecture/tutorial assignments
   due. Woohoo!
-- On Tuesday, the TAs will run a tutorial to reinforce the concept we learned
+- In class on Tuesday, the TAs will run a tutorial to reinforce the concept we learned
   on Thursday. You'll do another worksheet to practice the concept. The
 tutorial worksheets are generally harder than the lecture worksheets.
-- The tutorial worksheet will be due at the beginning of lecture on Thursday at
-  6pm pacific time.
+- The tutorial worksheet will be due at the beginning of lecture on Thursday.
 
 There will be 3 quizzes throughout the semester; the first two are held in
 class, and the last is during the exam period, but they'll all be the same
