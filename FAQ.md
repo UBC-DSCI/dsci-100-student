@@ -4,20 +4,22 @@
 recordings of the lectures to the Canvas page, and all of your coursework will
 be completed on our course server electronically, so you won't miss anything.
 
-**If you will be late by more than a few weeks:** note that this semester you
-are required to be here in Vancouver. We hold our quizzes in-person (for
-both sections!), and the first quiz happens usually at the end of the 4th week
-/ beginning of the 5th week of class. Attendance is mandatory. Please contact
-the course instructor in the event your arrival in Vancouver is delayed longer
-than a few weeks.
+**If you will be absent beyond Oct 8, please do not take this course.**
+You are required to be present in Vancouver for this course. We hold 
+our quizzes in-person (for *all* sections, online and in-person!), and attendance
+is mandatory. If you have concerns, contact science advising 
+and talk to them about your options.
 
 # What if I get sick during the semester?
 
 ### DO NOT COME TO CLASS.
 
-I will continue recording and posting lecture videos on Canvas throughout the semester, so you will not miss anything.
+I will continue recording and posting lecture videos on Canvas throughout the
+semester, so you will not miss anything.
 
 You can complete all of your assignments electronically (and remotely).
+
+I will drop the lowest worksheet and tutorial grade from the semester.
 
 # What if I get sick right before a quiz?
 
@@ -81,12 +83,12 @@ Hi! Welcome to DSCI100 -- glad to have you on board. Since we have a new
 assignment in every class session, there are already a few assignments to catch
 up on:
 
-If you registered after a class session (Tues/Thurs 6pm pacific time) already
+If you registered after a class session already
 happened, then the assignment from that class session will be due exactly 1
 week after your registration date & time.
 
 
-If you registered before a class session (Tues / Thurs 6pm) happens, the
+If you registered before a class session happens, the
 assignment from that class is due at the normal time.
 
 # I'm going to be late / absent for a class! Who do I notify?

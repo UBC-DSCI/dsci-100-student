@@ -34,6 +34,11 @@ Your precautions will help reduce risk and keep everyone safer.
 To reduce the risk of COVID-19 transmission, please **sit in the same seat/area in the classroom each day**. 
 This will minimize your contacts. 
 
+## Eating/drinking in class
+
+**Eating is not permitted in class.** Please avoid drinking. If you drink something in class,
+you must lift your mask only between sips (see below).
+
 ## Interacting with Instructors
 **Do not approach the front of the classroom under any circumstances.** 
 In order to minimize contact, the teaching team will remain at the front of the classroom,
