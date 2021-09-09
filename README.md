@@ -97,7 +97,7 @@ minutes late. Please be patient!*
 | TA | Anahita |  | Monday 4-5pm | Zoom |
 | TA | Prayus |  | Tuesday 10-11am | Zoom |
 | TA | Ruby |  | Tuesday 2-3pm | Zoom |
-| TA | Eric |  | Tuesday 4-5pm | Zoom |
+| TA | Eric |  | Tuesday 6-7pm | Zoom |
 | TA | Jonathan |  | Wednesday 7-8pm | Zoom |
 | TA | Rachel |  | Wednesday 9-10pm | Zoom |
 | TA | Kaylee |  | Thursday 5-6pm | Zoom |
