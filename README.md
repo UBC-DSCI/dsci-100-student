@@ -92,7 +92,18 @@ minutes late. Please be patient!*
 
 | Position | Name  | Email | Office Hours | Office Location |
 |-------|-------|--------------|-----------------|----------------|
-| Instructor | Trevor Campbell | trevor[-at-]stat.ubc.ca |  | Zoom |
+| Instructor | Trevor Campbell | trevor[-at-]stat.ubc.ca | Thursday 5-6pm | Zoom |
+| TA | Daisy |  | Monday 3-4pm | Zoom |
+| TA | Anahita |  | Monday 4-5pm | Zoom |
+| TA | Prayus |  | Tuesday 10-11am | Zoom |
+| TA | Ruby |  | Tuesday 2-3pm | Zoom |
+| TA | Eric |  | Tuesday 4-5pm | Zoom |
+| TA | Jonathan |  | Wednesday 7-8pm | Zoom |
+| TA | Rachel |  | Wednesday 9-10pm | Zoom |
+| TA | Kaylee |  | Thursday 5-6pm | Zoom |
+| TA | Eros |  | Thursday 3-4pm | Zoom |
+| TA | Amirali |  | Friday 9-10am | Zoom |
+| TA | Ding |  | Friday 1-2pm | Zoom |
 
 ## Assessment
 In each class (lecture and tutorial) there will be an assignment:
