@@ -101,7 +101,7 @@ minutes late. Please be patient!*
 | TA | Jonathan |  | Wednesday 7-8pm | Zoom |
 | TA | Rachel |  | Wednesday 9-10pm | Zoom |
 | TA | Kaylee |  | Thursday 5-6pm | Zoom |
-| TA | Eros |  | Thursday 3-4pm | Zoom |
+| TA | Eros |  | Thursday 2-3pm | Zoom |
 | TA | Amirali |  | Friday 9-10am | Zoom |
 | TA | Ding |  | Friday 1-2pm | Zoom |
 
