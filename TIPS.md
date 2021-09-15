@@ -37,6 +37,15 @@ can be found through the top bar, under Kernel > Restart & Run all. A solid
 understanding of the concept (achieved through *readings, worksheets, and asking
 questions in lectures, tutorials, and office hours*) will make tutorials easier.
 
+For both worksheets and tutorials, we encourage *having the textbook open while you work*! 
+Sometimes things don't stick if you take notes on the textbook before you do the hands-on
+activities, but having the textbook open helps you
+form better connections between the material and the applications of each
+point. We also recommend *giving the whole assignment a scan before
+you start on it*. This is true especially if you're busy. Doing a quick scan is
+helpful to gauge the workload of the assignment so you don't end up rushing it
+30 minutes before it's due!
+
 **Quizzes** are held three times during the term to test your understanding of the
 concepts. The first two will be during the regular term, and the third will be
 in Exam Week. They are not cumulative. Preparation for quizzes is similar to
