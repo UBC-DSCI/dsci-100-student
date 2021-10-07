@@ -1,23 +1,25 @@
-# DSCI 310: Reproducible and trustworthy workflows for data science
+# DSCI 100: Introduction to Data Science
 
 ## Time and Place
-- Lecture: SCARF 209, Tues/Thurs 9:00-10:30
-- Tutorial: ORCH 4074, Fri 9:00-10:00 
+- Section 001: Online (Zoom), Tues/Thurs 15:30-17:00
+- Section 004: In-Person, Tues/Thurs 11:00-12:30
 
 ## Course Description
-Data science methods to automate the running and testing of code and analytic reports, manage data analysis software dependencies, package and deploy software for data analysis, and collaborate with others using version control.
+Use of data science tools to summarize, visualize, and analyze data. Sensible
+workflows and clear interpretations are emphasized.
 
-**Pre-reqs:** DSCI 100 and either (a) one of CPSC 203, CPSC 210, CPEN 221 or (b) one of MATH 210, ECON 323 and one of CPSC 107, CPSC 110.
-
-*See the Faculty of Science Credit Exclusion Lists: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414*
-
-**Long Version:** Data Science skills and tools are increasingly in demand across a large variety of disciplines. DSCI 310 aims to further students’ existing data science knowledge with reproducible and trustworthy workflows in the areas of creating and deploying data analysis, reports, and software. Particular focus will be placed on teaching the skills and tools currently used in academic research and industry settings. 
-
-Without deliberate and conscious effort towards project organization, tool choice, and workflows, complex and large data science projects can quickly grow out-of-hand and become irreproducible and untrustworthy. This course will focus on reproducible and trustworthy workflows for writing computer scripts, analytic reports and data analysis pipelines, as well as packaging, automated testing and deployment of software written for data analysis. An emphasis is also placed on how to collaborate effectively with others using version control tools, such as Git and GitHub. Such workflows act to mitigate chaos and maximize transparency, reproducibility, and productivity. 
-
-While the course will be based on the use of the two leading languages in data science, Python and R, and related current tools (conda, Docker, Git, GitHub, Jupyter, etc.), the concepts and skills taught in the course aim to be discipline and tool agnostic, focussing on the importance of reproducible and trustworthy workflows for data analysis and the implications of failing to implement these when performing a data analysis.
-
-Students who have completed this course will be able to complete complex data analysis projects with minimal technical debt – meaning that others can transparently follow how the analysis was done, reproduce the analysis for themselves if desired, and easily pickup on, and further extend the analysis in new areas. Strategies for collaboration on data science projects will also be emphasized.
+**Long Version:** In recent years, virtually all areas of inquiry have seen an uptake in the use
+of data science tools. Skills in the areas of assembling, analyzing, and
+interpreting data are more critical than ever. This course is designed as a
+first experience in honing such skills. Students who have completed this course
+will be able to implement a data science workflow in the R programming
+language, by “scraping” (downloading) data from the internet, “wrangling”
+(managing) the data intelligently, and creating tables and/or figures that
+convey a justifiable story based on the data. They will be adept at using tools
+for finding patterns in data and making predictions about future data. There
+will be an emphasis on intelligent and reproducible workflow, and clear
+communications of findings. No previous programming skills necessary; beginners
+are welcome!
 
 ## Dealing With COVID-19
 
@@ -38,12 +40,32 @@ not hesitate to provide feedback on how we can improve your learning
 experience. 
 
 ## Textbook
-TBD
+This course uses [Data Science: A First Introduction](https://ubc-dsci.github.io/introduction-to-datascience/). 
+This textbook is open source and will always be freely available on the web. 
 
 ## Hardware & Software
-Students are required to bring a laptop to both lectures and tutorials. Students
+Students are required to bring a laptop, chromebook or tablet to both lectures and tutorials. Students
 who do not own a laptop, chromebook, or tablet may be able to 
 [loan a laptop from the UBC library](https://services.library.ubc.ca/computers-technology/technology-borrowing/). 
+
+For both online and in-person sections,
+students will need to have the latest version of [Zoom video conferencing](https://zoom.us) installed.
+This software is available for download [at this link](https://ca01web.zoom.us/download).
+
+All other required software will be provided by the instructors. Students will learn to perform their analysis using the 
+[R programming language](https://cran.r-project.org/). Worksheets and tutorial problem sets as
+well as the final project analysis, development, and reports will be done using
+[Jupyter Notebooks](http://jupyter.org/) accessed via [Canvas](https://canvas.ubc.ca). 
+
+
+## Prerequisite Knowledge
+- distance between points on a graph
+- percentages, average
+- powers, roots, basic operations, logarithm, exponential
+- equation of a line / plane
+
+As an example, British Columbia's Math 12 or Pre-Calculus 12 courses would
+satisfy the prerequisite.
 
 ## Learning Outcomes
 By the end of the course, students will be able to:
@@ -71,24 +93,34 @@ minutes late. Please be patient!*
 | Position | Name  | Email | Office Hours | Office Location |
 |-------|-------|--------------|-----------------|----------------|
 | Instructor | Trevor Campbell | trevor[-at-]stat.ubc.ca | Thursday 5-6pm | Zoom |
-| TA | TBD |  | TBD | TBD |
+| TA | Daisy |  | Monday 3-4pm | Zoom |
+| TA | Anahita |  | Monday 4-5pm | Zoom |
+| TA | Prayus |  | Tuesday 10-11am | Zoom |
+| TA | Ruby |  | Tuesday 2-3pm | Zoom |
+| TA | Eric |  | Tuesday 6-7pm | Zoom |
+| TA | Jonathan |  | Wednesday 7-8pm | Zoom |
+| TA | Rachel |  | Wednesday 9-10pm | Zoom |
+| TA | Kaylee |  | Thursday 5-6pm | Zoom |
+| TA | Eros |  | Thursday 2-3pm | Zoom |
+| TA | Amirali |  | Friday 9-10am | Zoom |
+| TA | Ding |  | Friday 1-2pm | Zoom |
 
 ## Assessment
-TBD
+In each class (lecture and tutorial) there will be an assignment:
+
+- Lecture and tutorial worksheet **due dates are posted on Canvas.**
+- To open the assignment, click the link (e.g. `worksheet_01`) from Canvas.
+- To submit your assignment, just make sure your work is saved **on our server** (`File -> Save and Checkpoint` to be sure).
+- At the deadline, our server will automatically snapshot your work.
 
 ### Course breakdown
 
-| Deliverable	| Grade |	Learning objectives addressed |
-|-------------|-------|-------------------------------|
-|Lecture worksheets	| 5% |	1, 2, 4, 5 |
-|Project proposal |	10%	| 3, 6 |
-|Project milestone 1	| 10%	| 3, 4, 6 |
-|Mid-term Exam |	10%	 | 1, 2, part of 4 |
-|Project milestone 2	| 10%	| 3, 4, 5, 6 |
-|Individual peer review	5%	| 2 |
-|Final project	| 20%	| 3, 4, 5, 6 |
-|Teamwork	| 10% |	6 |
-|Final Exam	| 20%	| 1, 2, 4, 5 |
+| Deliverable | Percent Grade |
+|-------------|---------------|
+| Lecture worksheets | 5 |
+| Tutorial problem sets | 15 |
+| Group project | 20 |
+| Three quizzes | 60 |
 
 ### Group project breakdown
 
@@ -100,7 +132,24 @@ TBD
 | Group contract | 1 |
 
 ## Schedule
-TBD
+
+| Topic | Description | 
+|-------|-------------|
+| Introduction | Learn to use the R programming language and Jupyter notebooks as you walk through a real world data Science application that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization. | 
+| Reading in data locally and from the web |  Learn to read in various cases of data sets locally and from the web. Once read in, these data sets will be used to walk through a real world data Science application that includes wrangling the data into a useable format and creating an effective data visualization. | 
+| Cleaning and wrangling data | This week will be centered around tools for cleaning and wrangling data. Again, this will be in the context of a real world data science application and we will continue to practice working through a whole case study that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization. |
+| Effective data visualization | Expand your data visualization knowledge and tool set beyond what we have seen and practiced so far. We will move beyond scatter plots and learn other effective ways to visualize data, as well as some general rules of thumb to follow when creating visualations. All visualization tasks this week will be applied to real world data sets. Again, this will be in the context of a real world data science application and we will continue to practice working through a whole case study that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization. |
+| Version control | Collaboration with version control | 
+| Quiz 1 | |
+| Classification | Introduction to classification using K-nearest neighbours (k-nn) |
+| Classification, continued | Classification continued | 
+Regression | Introduction to regression using K-nearest neighbours (k-nn). We will focus on prediction in cases where there is a response variable of interest and a single explanatory variable. |
+| Regression, continued | Continued exploration of k-nn regression in higher dimensions. We will also begin to compare k-nn to linear models in the context of regression. | 
+| Quiz 2 | |
+| Clustering |  Introduction to clustering using K-means  | 
+| Introduction to statistical inference | Introduce sampling and estimation for sample means and proportions. |
+| Introduction to statistical inference, continued | Introduce confidence intervals, and calculating them via boostrapping.  |
+|  Quiz 3  | |
 
 ## Policies
 
@@ -151,7 +200,14 @@ in mind that your grade may go up or down as a result of re-grading. Please see
 Canvas for instructions on submitting re-grade requests.
 
 ### Device/Browser
-TBD
+Students are responsible for using a device and browser compatible with all
+functionality of Canvas. Chrome or Firefox browsers are recommended; Safari has
+had issues with Canvas quizzes in the past.
+
+While classes are remote due to the ongoing pandemic, students are responsible
+to have a stable internet connection and a functioning webcam and microphone.
+Absence of any of these will not be considered a valid reason not to take a
+quiz/exam or submit an assignment on time.
 
 ### Missed Final Exam 
 Students who miss the final quiz must report to their faculty advising office
@@ -204,4 +260,3 @@ The above attribution policy applies only to assignments. **No code or text may 
 ## Attribution
 
 Parts of this syllabus (particularly the policies) have been copied and derived from the [UBC MDS Policies](https://ubc-mds.github.io/policies/).
-
