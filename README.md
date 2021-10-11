@@ -260,4 +260,3 @@ The above attribution policy applies only to assignments. **No code or text may 
 ## Attribution
 
 Parts of this syllabus (particularly the policies) have been copied and derived from the [UBC MDS Policies](https://ubc-mds.github.io/policies/).
-
