@@ -1,8 +1,12 @@
 # DSCI 100: Introduction to Data Science
 
 ## Time and Place
-- Section 001: Online (Zoom), Tues/Thurs 15:30-17:00
-- Section 004: In-Person, Tues/Thurs 11:00-12:30
+- Section 002: In-Person*, Tues/Thurs 15:30 - 17:00
+- Section 005: (Zoom/Online), Tues/Thurs 12:30 - 14:00
+- Section 006: In-Person*, Tues/Thurs 16:00 - 17:30
+- Section 007: In-Person*, Mon/Fri 15:00	- 16:30
+
+*All lectures and tutorials will be online until January 24, 2022 (https://science.ubc.ca/students/blog/update-2021w-term-two). 
 
 ## Course Description
 Use of data science tools to summarize, visualize, and analyze data. Sensible
@@ -90,21 +94,14 @@ clear, reproducible, and shareable.
 right before their office hours, and they may run a few 
 minutes late. Please be patient!*
 
-| Position | Name  | Email | Office Hours | Office Location |
-|-------|-------|--------------|-----------------|----------------|
-| Instructor | Trevor Campbell | trevor[-at-]stat.ubc.ca | Thursday 5-6pm | Zoom |
-| TA | Daisy |  | Monday 3-4pm | Zoom |
-| TA | Anahita |  | Monday 4-5pm | Zoom |
-| TA | Prayus |  | Tuesday 10-11am | Zoom |
-| TA | Ruby |  | Tuesday 2-3pm | Zoom |
-| TA | Eric |  | Tuesday 6-7pm | Zoom |
-| TA | Jonathan |  | Wednesday 7-8pm | Zoom |
-| TA | Rachel |  | Wednesday 9-10pm | Zoom |
-| TA | Kaylee |  | Thursday 5-6pm | Zoom |
-| TA | Eros |  | Thursday 2-3pm | Zoom |
-| TA | Amirali |  | Friday 9-10am | Zoom |
-| TA | Ding |  | Friday 1-2pm | Zoom |
-
+| Section | Position | Name         | Email | Office Hours | Office Location |
+|---------|----------|--------------|--------------|-----------------|----------------|
+| 002 | Instructor | Lindsey Heagy |  |  |  |
+| 002 | Instructor | Melissa Lee | melissa.lee[-at-]stat.ubc.ca |  | Zoom |
+| 005 | Instructor |  |  |  |  |
+| 006 | Instructor |  |  |  |  |
+| 007 | Instructor |  |  |  |  |
+| n/a | TA |  |  n/a |  |  |
 ## Assessment
 In each class (lecture and tutorial) there will be an assignment:
 
