@@ -97,7 +97,7 @@ minutes late. Please be patient!*
 | Section | Position | Name         | Email | Office Hours | Office Location |
 |---------|----------|--------------|--------------|-----------------|----------------|
 | 002 | Instructor | Lindsey Heagy |  |  |  |
-| 002 | Instructor | Melissa Lee | melissa.lee[-at-]stat.ubc.ca |  | Zoom |
+| 002 | Instructor | Melissa Lee | melissa.lee[-at-]stat.ubc.ca | Fridays 10:30 - 11:30 AM  | Zoom |
 | 005 | Instructor |  |  |  |  |
 | 006 | Instructor |  |  |  |  |
 | 007 | Instructor |  |  |  |  |
