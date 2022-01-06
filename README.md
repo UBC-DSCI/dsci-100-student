@@ -121,7 +121,7 @@ In each class (lecture and tutorial) there will be an assignment:
 | Tutorial problem sets | 14 |
 | Group project | 20 |
 | Three quizzes | 60 |
-| Regrade percent | 1 |
+| Bonus regrade percent | 1 |
 
 ### Group project breakdown
 
