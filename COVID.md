@@ -41,10 +41,8 @@ you must lift your mask only between sips (see below).
 
 ## Interacting with Instructors
 **Do not approach the front of the classroom under any circumstances.** 
-In order to minimize contact, the teaching team will remain at the front of the classroom,
-and students will remain in the seating area. 
 You are welcome to raise your hand to ask questions while I lecture as usual.
-We will offer *assistance-at-a-distance (TM)* on your in-class assignments via Zoom with screen sharing.
+We will offer *assistance-at-a-distance (TM)* on your in-class assignments.
 
 ## Masks
 **Masks are required for all indoor classes** (per the BC Public Health Officer
@@ -62,7 +60,7 @@ vaccination in our community overall, the lower the chance of spreading the
 virus. Please arrange to get vaccinated if you have not already done so. 
 
 ## Instructor health
-**If I (Trevor, the instructor) become ill:** I will not attend the in-person class. If I am well enough to continue teaching,
+**If I (the instructor) become ill:** I will not attend the in-person class. If I am well enough to continue teaching,
 I will run the class remotely on Zoom. If I am not well enough to teach, I will find a substitute instructor
 who will run the class either in-person or online. You will be notified in advance as early as possible what the 
 plan is.
