@@ -100,8 +100,11 @@ minutes late. Please be patient!*
 | 002 | Instructor | Melissa Lee | melissa.lee[-at-]stat.ubc.ca | Fridays 10:30 - 11:30 AM  | Zoom |
 | 005 | Instructor |  |  |  |  |
 | 006 | Instructor |  |  |  |  |
-| 007 | Instructor |  |  |  |  |
+| 007 | Instructor/Course coordinator |  |  |  |  |
 | n/a | TA |  |  n/a |  |  |
+
+**Please contact the course coordinator at XXX about any administrative questions.**
+
 ## Assessment
 In each class (lecture and tutorial) there will be an assignment:
 
