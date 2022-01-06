@@ -118,9 +118,10 @@ In each class (lecture and tutorial) there will be an assignment:
 | Deliverable | Percent Grade |
 |-------------|---------------|
 | Lecture worksheets | 5 |
-| Tutorial problem sets | 15 |
+| Tutorial problem sets | 14 |
 | Group project | 20 |
 | Three quizzes | 60 |
+| Regrade percent | 1 |
 
 ### Group project breakdown
 
@@ -193,7 +194,7 @@ In short: whatever grade the autograder returns after 5 minutes (assuming the
 teaching team did not make an error) is the grade that will be assigned.
 
 ### Re-grading
-Students get a free 2% at the end of the course. If you want questions regraded, you can fill out a form at the end of the term documenting in detail what you want regraded. Regrading is only offered if the teaching team makes a mistake. If the total sum of value of possible points via regrading is greater than 2%, you can submit (please do so before the last day of class); otherwise the regrade request is rejected. 
+Students get a free 1% at the end of the course. If you want questions regraded, you can fill out a form at the end of the term documenting in detail what you want regraded. Regrading is only offered if the teaching team makes a mistake. If the total sum of value of possible points via regrading is greater than 1%, you can submit (please do so before the last day of class); otherwise the regrade request is rejected. 
 
 Note if there was a mistake with the autograder, such that you received 0 on an assignment when you shouldn't have, please contact the course coordinator as soon as possible rather than waiting until the end of the term. 
 
