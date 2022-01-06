@@ -99,7 +99,7 @@ minutes late. Please be patient!*
 | 002 | Instructor | Lindsey Heagy |  |  |  |
 | 002 | Instructor | Melissa Lee | melissa.lee[-at-]stat.ubc.ca | Fridays 10:30 - 11:30 AM  | Zoom |
 | 005 | Instructor |  |  |  |  |
-| 006 | Instructor |  |  |  |  |
+| 006 | Instructor | Quan Nguyen | quan.nguyen[-at]ubc.ca | Fridays 14:00-15:00 PM | Zoom |
 | 007 | Instructor/Course coordinator |  |  |  |  |
 | n/a | TA |  |  n/a |  |  |
 
