@@ -4,7 +4,7 @@
 recordings of the lectures to the Canvas page, and all of your coursework will
 be completed on our course server electronically, so you won't miss anything.
 
-**If you will be absent beyond Oct 8, please do not take this course.**
+**If you will be absent beyond the add/drop date, please do not take this course.**
 You are required to be present in Vancouver for this course. We hold 
 our quizzes in-person (for *all* sections, online and in-person!), and attendance
 is mandatory. If you have concerns, contact science advising 
@@ -33,16 +33,14 @@ concession form (available on the Canvas page).
 
 Each week (starting on Thursday) will have the following pattern:
 
-- I will release pre-lecture reading material a few days earlier (usually on Mon/Tues)
-- In class on Thursday, I will begin with a brief lecture to introduce a new
+- I will release pre-lecture reading material on Monday
+- In class, I will begin with a brief lecture to introduce a new
   concept. Then you'll do a worksheet to practice the concept.
-- Your lecture worksheet will be due Saturday at 11:59pm pacific time.
-- Then you'll have until the next tutorial with no lecture/tutorial assignments
-  due. Woohoo!
-- In class on Tuesday, the TAs will run a tutorial to reinforce the concept we learned
-  on Thursday. You'll do another worksheet to practice the concept. The
+- Your lecture worksheet will be due **Saturday at 11:59pm pacific time**.
+- In tutorial, the TAs will run a tutorial to reinforce the concept we learned
+  in lecture. You'll do another worksheet to practice the concept. The
 tutorial worksheets are generally harder than the lecture worksheets.
-- The tutorial worksheet will be due at the beginning of lecture on Thursday.
+- The tutorial worksheet will be due **Saturday at 11:59 pacific time**.
 
 There will be 3 quizzes throughout the semester; the first two are held in
 class, and the last is during the exam period, but they'll all be the same
@@ -66,9 +64,7 @@ server.
 
 # How do I get my assignment regraded?
 
-*Per the syllabus:* ask the TA who graded the assignment to take a second look
-at it. You can post on Piazza using a private message to the teaching team and
-we will respond there.
+*Please see the course syllabus:* 
 
 *Note:* We will only regrade to correct mistakes that we made when grading.
 Please see the syllabus for our policy regarding autograding.
@@ -115,7 +111,7 @@ tutorials, or group project. Myself, the TAs and your fellow classmates will be
 available to help you work through the problems.
 
 **Office Hours:** The TAs and I will hold office hours at various times
-throughout the week via Zoom. I encourage you to ask
+throughout the week via Zoom/in-person. See the course syllabus for times/locations. I encourage you to ask
 questions about the worksheets, tutorials, the project or any other questions
 about the course material.
 
@@ -125,7 +121,7 @@ answering their questions.
 
 **Email:** **For questions about the course material, please post your questions on Piazza.**
 If you have personal questions that do not pertain to the course
-material itself you can email me. Please note: I respond to emails M - F,
+material itself you can email the course coordinator (please see syllabus for emails). Please note: I respond to emails Monday to Friday,
 and I try my best to answer you as promptly as possible. However, given the
 large class size I may take a few days to respond.
 
