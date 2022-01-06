@@ -109,7 +109,7 @@ minutes late. Please be patient!*
 In each class (lecture and tutorial) there will be an assignment:
 
 - Lecture and tutorial worksheet **due dates are posted on Canvas.**
-- To open the assignment, click the link (e.g. `worksheet_01`) from Canvas.
+- To open the assignment, click the link (e.g. `worksheet_intro`) from Canvas.
 - To submit your assignment, just make sure your work is saved **on our server** (`File -> Save and Checkpoint` to be sure).
 - At the deadline, our server will automatically snapshot your work.
 
