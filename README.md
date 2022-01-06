@@ -98,12 +98,12 @@ minutes late. Please be patient!*
 |---------|----------|--------------|--------------|-----------------|----------------|
 | 002 | Instructor | Lindsey Heagy |  |  |  |
 | 002 | Instructor | Melissa Lee | melissa.lee[-at-]stat.ubc.ca | Fridays 10:30 - 11:30 AM  | Zoom |
-| 005 | Instructor |  |  |  |  |
-| 006 | Instructor |  |  |  |  |
-| 007 | Instructor/Course coordinator |  |  |  |  |
+| 005 | Instructor | Rodolfo Lourenzutti |  |  |  |
+| 006 | Instructor | Quan Nguyen |  |  |  |
+| 007 | Instructor/Course coordinator | Jack Davis |  |  |  |
 | n/a | TA |  |  n/a |  |  |
 
-**Please contact the course coordinator at XXX about any administrative questions, for instance if you are sick and need to miss a quiz.**
+**Please contact the course coordinator, Jack Davis, about any administrative questions (e.g. if you are sick and need to miss a quiz).**
 
 ## Assessment
 In each class (lecture and tutorial) there will be an assignment:
