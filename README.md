@@ -103,7 +103,7 @@ minutes late. Please be patient!*
 | 007 | Instructor/Course coordinator |  |  |  |  |
 | n/a | TA |  |  n/a |  |  |
 
-**Please contact the course coordinator at XXX about any administrative questions.**
+**Please contact the course coordinator at XXX about any administrative questions, for instance if you are sick and need to miss a quiz.**
 
 ## Assessment
 In each class (lecture and tutorial) there will be an assignment:
