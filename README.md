@@ -193,11 +193,9 @@ In short: whatever grade the autograder returns after 5 minutes (assuming the
 teaching team did not make an error) is the grade that will be assigned.
 
 ### Re-grading
-If you have concerns about the way your work was graded, please contact the TA
-who graded it within one week of having the grade returned to you. After this
-one-week window, we may deny your request for re-evaluation. Also, please keep
-in mind that your grade may go up or down as a result of re-grading. Please see
-Canvas for instructions on submitting re-grade requests.
+Students get a free 2% at the end of the course. If you want questions regraded, you can fill out a form at the end of the term documenting in detail what you want regraded. Regrading is only offered if the teaching team makes a mistake. If the total sum of value of possible points via regrading is greater than 2%, you can submit (please do so before the last day of class); otherwise the regrade request is rejected. 
+
+Note if there was a mistake with the autograder, such that you received 0 on an assignment when you shouldn't have, please contact the course coordinator as soon as possible rather than waiting until the end of the term. 
 
 ### Device/Browser
 Students are responsible for using a device and browser compatible with all
