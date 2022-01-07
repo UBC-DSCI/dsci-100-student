@@ -101,7 +101,7 @@ minutes late. Please be patient!*
 | 005 | Instructor | Rodolfo Lourenzutti |  |  |  |
 | 006 | Instructor | Quan Nguyen |  |  |  |
 | 007 | Instructor/Course coordinator | Jack Davis |  |  |  |
-| n/a | TA |  |  n/a |  |  |
+| n/a | TA | TBA |  n/a |  |  |
 
 **Please contact the course coordinator, Jack Davis, about any administrative questions (e.g. if you are sick and need to miss a quiz).**
 
