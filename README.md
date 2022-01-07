@@ -97,7 +97,7 @@ minutes late. Please be patient!*
 | Section | Position | Name         | Email | Office Hours | Office Location |
 |---------|----------|--------------|--------------|-----------------|----------------|
 | 002 | Instructor | Lindsey Heagy |  |  |  |
-| 002 | Instructor | Melissa Lee | melissa.lee[-at-]stat.ubc.ca | Fridays 10:30 - 11:30 AM  | Zoom |
+| 002 | Instructor | Melissa Lee | melissa.lee[-at-]stat.ubc.ca | Fridays 10:15 - 11:15 AM  | Zoom |
 | 005 | Instructor | Rodolfo Lourenzutti |  |  |  |
 | 006 | Instructor | Quan Nguyen |  |  |  |
 | 007 | Instructor/Course coordinator | Jack Davis |  |  |  |
