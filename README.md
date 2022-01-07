@@ -112,6 +112,7 @@ In each class (lecture and tutorial) there will be an assignment:
 - To open the assignment, click the link (e.g. `worksheet_intro`) from Canvas.
 - To submit your assignment, just make sure your work is saved **on our server** (`File -> Save and Checkpoint` to be sure).
 - At the deadline, our server will automatically snapshot your work.
+- You **must access the lecture and tutorial worksheets through our Canvas course page** (as opposed to the worksheets publicly available via Github). Otherwise your worksheets may not be marked! 
 
 ### Course breakdown
 
