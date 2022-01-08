@@ -5,7 +5,7 @@ recordings of one section of the lectures on the Canvas page, and all of your co
 be completed on our course server electronically, so you won't miss anything.
 
 **If you will be absent beyond the add/drop date, please do not take an in-person section of this course.**
-Unless the current restrictions are extended beyond Jan 24, you are required to be present in Vancouver for this course. We hold our quizzes in-person, and attendance is mandatory. If you have concerns,\ contact science advising and talk to them about your options.
+Unless the current restrictions are extended beyond Jan 24, you are required to be present in Vancouver for this course. We hold our quizzes in-person, and attendance is mandatory. If you have concerns, contact science advising and talk to them about your options.
 
 # What if I get sick during the semester?
 
