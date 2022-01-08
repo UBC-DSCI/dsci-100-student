@@ -31,7 +31,7 @@ are welcome!
 
 The [COVID-19 pandemic](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen)
 has affected us all in different ways. It's okay to not be okay, and you should
-never hesitate to reach out to me if you need support. Just ask! UBC also has
+never hesitate to reach out to your instructor if you need support. Just ask! UBC also has
 [great student support resources](https://students.ubc.ca/covid19) related to
 COVID-19 (and otherwise).
 
@@ -99,8 +99,8 @@ minutes late. Please be patient!*
 | 002 | Instructor | Lindsey Heagy |  |  |  |
 | 002 | Instructor | Melissa Lee | melissa.lee[-at-]stat.ubc.ca | Fridays 10:15 - 11:15 AM  | Zoom |
 | 005 | Instructor | Rodolfo Lourenzutti |  |  |  |
-| 006 | Instructor | Quan Nguyen |  |  |  |
-| 007 | Instructor/Course coordinator | Jack Davis |  |  |  |
+| 006 | Instructor | Quan Nguyen | quan.nguyen[-at-]ubc.ca | Fridays 14:00-15:00 PM | Zoom |
+| 007 | Instructor/Course coordinator | Jack Davis | jack.davis[-at-]stat.ubc.ca  | Wednesdays 11:30 AM - 12:30 PM  | Zoom |
 | n/a | TA | TBA |  n/a |  |  |
 
 **Please contact the course coordinator, Jack Davis, about any administrative questions (e.g. if you are sick and need to miss a quiz).**

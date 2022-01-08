@@ -1,21 +1,17 @@
 # What if my travel to Vancouver is delayed?
 
-**If you will be late by a few weeks:** don't panic! I will be posting
-recordings of the lectures to the Canvas page, and all of your coursework will
+**If you will be late by a few weeks:** don't panic! There will be
+recordings of one section of the lectures on the Canvas page, and all of your coursework will
 be completed on our course server electronically, so you won't miss anything.
 
-**If you will be absent beyond the add/drop date, please do not take this course.**
-You are required to be present in Vancouver for this course. We hold 
-our quizzes in-person, and attendance
-is mandatory. If you have concerns, contact science advising 
-and talk to them about your options.
+**If you will be absent beyond the add/drop date, please do not take an in-person section of this course.**
+Unless the current restrictions are extended beyond Jan 24, you are required to be present in Vancouver for this course. We hold our quizzes in-person, and attendance is mandatory. If you have concerns,\ contact science advising and talk to them about your options.
 
 # What if I get sick during the semester?
 
 ### DO NOT COME TO CLASS.
 
-I will continue recording and posting lecture videos on Canvas throughout the
-semester, so you will not miss anything.
+Video recording of lectures videos will continue to be posted to Canvas, so you will not miss anything.
 
 You can complete all of your assignments electronically (and remotely).
 
@@ -25,16 +21,15 @@ I will drop the lowest worksheet and tutorial grade from the semester.
 
 ### DO NOT COME TO THE QUIZ.
 
-I will make alternate arrangements if you get sick right before/during a quiz.
-Please contact me as far in advance as possible, and fill out an academic
+Your instructor or the coordinator will make alternate arrangements if you get sick right before/during a quiz. Please contact your instructor as far in advance as possible, and fill out an academic
 concession form (available on the Canvas page).
 
 # What is the structure of the class?
 
-Each week (starting on Thursday) will have the following pattern:
+Each week will have the following pattern:
 
-- I will release pre-lecture reading material on Monday
-- In class, I will begin with a brief lecture to introduce a new
+- Your instructor will release pre-lecture reading material on Monday
+- In class, your instructor will begin with a brief lecture to introduce a new
   concept. Then you'll do a worksheet to practice the concept.
 - Your lecture worksheet will be due **Saturday at 11:59pm pacific time**.
 - In tutorial, the TAs will run a tutorial to reinforce the concept we learned
@@ -89,10 +84,10 @@ assignment from that class is due at the normal time.
 
 # I'm going to be late / absent for a class! Who do I notify?
 
-I do not need to be informed when you'll be absent from a regular class. 
-I understand that, from time to time, you will not be able to 
+Your instructor does not need to be informed when you'll be absent from a regular class. 
+We understand that, from time to time, you will not be able to 
 attend the lecture/tutorial sessions. There are no marks assigned 
-for attending class. I am hoping the
+for attending class. We hope that the
 flexibility of this course will allow you to access the learning materials
 wherever you are and whenever you need them. 
 
@@ -121,12 +116,9 @@ answering their questions.
 
 **Email:** **For questions about the course material, please post your questions on Piazza.**
 If you have personal questions that do not pertain to the course
-material itself you can email the course coordinator (please see syllabus for emails). Please note: I respond to emails Monday to Friday,
-and I try my best to answer you as promptly as possible. However, given the
-large class size I may take a few days to respond.
+material itself you can email the course coordinator (please see syllabus for emails). Please note: Most instructors only respond to emails Monday to Friday, and try their best to answer you as promptly as possible. However, given the large class size it may take a few days to respond.
 
-**Do not send me email at my `mail.ubc.ca` or `.ubc.ca` account; I don't check
-those. Please send it to the email address listed on the syllabus.**
+**Please send emails it to the email address listed on the syllabus. Those are the most likely to be checked regularly.**
 
 # How do I do well in this course?
 **Most importantly:** complete the lecture and tutorial worksheets. These

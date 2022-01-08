@@ -9,13 +9,13 @@ for COVID, or are required to quarantine. **Stay home**.
 
 **Seriously. STAY HOME. You won't miss anything.**
 
-I will be posting recorded lectures to the Canvas page.
+One instructor for this term will be posting recorded lectures to the Canvas page.
 
 All of your assignments can be completed remotely.
 
-I will drop your lowest worksheet and tutorial grade at the end of the semester.
+Your instructor will drop your lowest worksheet and tutorial grade at the end of the semester.
 
-I will make alternate arrangements for those who are ill right before/during quizzes
+Your instructor and/or the course coordinator will make alternate arrangements for those who are ill right before/during quizzes
 (either reweight grades, offer an alternate quiz time, etc.). 
 Please fill out an academic concession form (may be found on the Canvas page) and email
 it to me in advance of the quiz. 
