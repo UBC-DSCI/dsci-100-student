@@ -80,8 +80,8 @@ appropriate sanctions.
 
 If someone violates the Code of Conduct during a DSCI 100 event or in an online
 space outside of organised events, we ask that you report it to the
-Instructor(s). The current instructor(s) of DSCI100 is(are) Trevor Campbell. An
-email to trevor[-at-]stat.ubc.ca will be seen by Trevor Campbell. To report a DSCI
+Instructor(s). The current instructor(s) of DSCI100 is(are) Jack Davis, Lindsey Heagy, Melissa Lee, Rodolfo Lourenzutti, and Quan Nguyen. An
+email message to the email adresses listed in the course syllabus will be seen by each respective instructor. To report a DSCI
 100 code of conduct violation that will not be seen by your instructor, an
 alternative contact person is Bruce Dunham, Professor of Teaching in the
 Department of Statistics at UBC. His email is b.dunham[-at-]stat.ubc.ca.

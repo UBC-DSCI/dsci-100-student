@@ -6,7 +6,7 @@ be completed on our course server electronically, so you won't miss anything.
 
 **If you will be absent beyond the add/drop date, please do not take this course.**
 You are required to be present in Vancouver for this course. We hold 
-our quizzes in-person (for *all* sections, online and in-person!), and attendance
+our quizzes in-person, and attendance
 is mandatory. If you have concerns, contact science advising 
 and talk to them about your options.
 

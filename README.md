@@ -96,22 +96,25 @@ minutes late. Please be patient!*
 
 | Section | Position | Name         | Email | Office Hours | Office Location |
 |---------|----------|--------------|--------------|-----------------|----------------|
-| 002 | Instructor | Lindsey Heagy |  |  |  |
-| 002 | Instructor | Melissa Lee | melissa.lee[-at-]stat.ubc.ca | Fridays 10:30 - 11:30 AM  | Zoom |
-| 005 | Instructor |  |  |  |  |
-| 006 | Instructor | Quan Nguyen | quan.nguyen[-at]ubc.ca | Fridays 14:00-15:00 PM | Zoom |
-| 007 | Instructor/Course coordinator |  |  |  |  |
-| n/a | TA |  |  n/a |  |  |
+| 002 | Instructor | Lindsey Heagy |  lheagy[-at-]eoas.ubc.ca | Wednesdays 12:00 - 1:00 PM  | Zoom |
+| 002 | Instructor | Melissa Lee | melissa.lee[-at-]stat.ubc.ca | Fridays 10:15 - 11:15 AM  | Zoom |
+| 005 | Instructor | Rodolfo Lourenzutti |  |  |  |
+| 006 | Instructor | Quan Nguyen |  |  |  |
+| 007 | Instructor/Course coordinator | Jack Davis |  |  |  |
+| n/a | TA | TBA |  n/a |  |  |
 
-**Please contact the course coordinator at XXX about any administrative questions, for instance if you are sick and need to miss a quiz.**
+**Please contact the course coordinator, Jack Davis, about any administrative questions (e.g. if you are sick and need to miss a quiz).**
+
+When sending emails, please include DSCI 100 in the subject line. 
 
 ## Assessment
 In each class (lecture and tutorial) there will be an assignment:
 
 - Lecture and tutorial worksheet **due dates are posted on Canvas.**
-- To open the assignment, click the link (e.g. `worksheet_01`) from Canvas.
+- To open the assignment, click the link (e.g. `worksheet_intro`) from Canvas.
 - To submit your assignment, just make sure your work is saved **on our server** (`File -> Save and Checkpoint` to be sure).
 - At the deadline, our server will automatically snapshot your work.
+- You **must access the lecture and tutorial worksheets through our Canvas course page** (as opposed to the worksheets publicly available via Github). Otherwise your worksheets may not be marked! 
 
 ### Course breakdown
 
@@ -121,7 +124,7 @@ In each class (lecture and tutorial) there will be an assignment:
 | Tutorial problem sets | 14 |
 | Group project | 20 |
 | Three quizzes | 60 |
-| Regrade percent | 1 |
+| Bonus regrade percent | 1 |
 
 ### Group project breakdown
 
@@ -196,7 +199,7 @@ teaching team did not make an error) is the grade that will be assigned.
 ### Re-grading
 Students get a free 1% at the end of the course. If you want questions regraded, you can fill out a form at the end of the term documenting in detail what you want regraded. Regrading is only offered if the teaching team makes a mistake. If the total sum of value of possible points via regrading is greater than 1%, you can submit (please do so before the last day of class); otherwise the regrade request is rejected. Note: If you submit a regrade request, you may get less than 1% via regrade.
 
-Note if there was a mistake with the autograder, such that you received 0 on an assignment when you shouldn't have, please contact the course coordinator as soon as possible rather than waiting until the end of the term. 
+Note if you received 0 on an assignment when you shouldn't have, please contact the course coordinator as soon as possible rather than waiting until the end of the term. 
 
 ### Device/Browser
 Students are responsible for using a device and browser compatible with all
