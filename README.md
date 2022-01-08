@@ -105,6 +105,8 @@ minutes late. Please be patient!*
 
 **Please contact the course coordinator, Jack Davis, about any administrative questions (e.g. if you are sick and need to miss a quiz).**
 
+When sending emails, please include DSCI 100 in the subject line. 
+
 ## Assessment
 In each class (lecture and tutorial) there will be an assignment:
 
