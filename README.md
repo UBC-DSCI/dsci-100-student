@@ -96,7 +96,7 @@ minutes late. Please be patient!*
 
 | Section | Position | Name         | Email | Office Hours | Office Location |
 |---------|----------|--------------|--------------|-----------------|----------------|
-| 002 | Instructor | Lindsey Heagy |  |  |  |
+| 002 | Instructor | Lindsey Heagy |  lheagy[-at-]eoas.ubc.ca | Wednesdays 12:00 - 1:00 PM  | Zoom |
 | 002 | Instructor | Melissa Lee | melissa.lee[-at-]stat.ubc.ca | Fridays 10:15 - 11:15 AM  | Zoom |
 | 005 | Instructor | Rodolfo Lourenzutti |  |  |  |
 | 006 | Instructor | Quan Nguyen | quan.nguyen[-at-]ubc.ca | Fridays 14:00-15:00 PM | Zoom |
@@ -104,6 +104,8 @@ minutes late. Please be patient!*
 | n/a | TA | TBA |  n/a |  |  |
 
 **Please contact the course coordinator, Jack Davis, about any administrative questions (e.g. if you are sick and need to miss a quiz).**
+
+When sending emails, please include DSCI 100 in the subject line. 
 
 ## Assessment
 In each class (lecture and tutorial) there will be an assignment:
