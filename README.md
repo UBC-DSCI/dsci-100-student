@@ -100,7 +100,7 @@ minutes late. Please be patient!*
 | 002 | Instructor | Melissa Lee | melissa.lee[-at-]stat.ubc.ca | Fridays 10:15 - 11:15 AM  | Zoom |
 | 005 | Instructor | Rodolfo Lourenzutti |  |  |  |
 | 006 | Instructor | Quan Nguyen | quan.nguyen[-at-]ubc.ca | Fridays 14:00-15:00 PM | Zoom |
-| 007 | Instructor/Course coordinator | Jack Davis | jack.davis[-at-]stat.ubc.ca  | Wednesdays 11:30 AM - 12:30 PM  | Zoom |
+| 007 | Instructor/Course coordinator | Jack Davis | jack_davis[-at-]stat.ubc.ca  | Wednesdays 11:30 AM - 12:30 PM  | Zoom |
 | n/a | TA | TBA |  n/a |  |  |
 
 **Please contact the course coordinator, Jack Davis, about any administrative questions (e.g. if you are sick and need to miss a quiz).**
