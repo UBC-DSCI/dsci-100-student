@@ -108,8 +108,8 @@ minutes late. Please be patient!*
 When sending emails, please include DSCI 100 in the subject line. 
 
 ## Assessment
-- Quiz 1: (invigilated online) Feb 10,  7:30 PM - 8:15 PM (Pacific Time) 
-- Quiz 2: (invigilated in-person) Mar 24, 7:30 PM - 8:15 PM (Pacific Time) 
+- Quiz 1: (invigilated online) Feb 10,  7:30 PM - 8:30 PM (Pacific Time) 
+- Quiz 2: (invigilated in-person) Mar 24, 7:30 PM - 8:30 PM (Pacific Time) 
 - Quiz 3: (invigilated in-person) To be scheduled by Classroom Services 
 
 In each class (lecture and tutorial) there will be an assignment:
