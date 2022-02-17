@@ -98,7 +98,7 @@ minutes late. Please be patient!*
 |---------|----------|--------------|--------------|-----------------|----------------|
 | 002 | Instructor | Lindsey Heagy |  lheagy[-at-]eoas.ubc.ca | Wednesdays 12:00 - 1:00 PM  | Zoom |
 | 002 | Instructor | Melissa Lee | melissa.lee[-at-]stat.ubc.ca | Fridays 10:15 - 11:15 AM  | Zoom |
-| 005 | Instructor | Rodolfo Lourenzutti |  |  |  |
+| 005 | Instructor | Rodolfo Lourenzutti |  | Fridays 11:30am to 12:30 pm | Zoom |
 | 006 | Instructor | Quan Nguyen | quan.nguyen[-at-]ubc.ca | Fridays 14:00-15:00 PM | Zoom |
 | 007 | Instructor/Course coordinator | Jack Davis | jack_davis[-at-]stat.ubc.ca  | Wednesdays 11:30 AM - 12:30 PM  | Zoom |
 | n/a | TA | TBA |  n/a |  |  |
