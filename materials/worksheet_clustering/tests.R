@@ -66,11 +66,11 @@ test_1.0 <- function(){
 }
 
 test_1.1 <- function(){
-    properties <- c(beer_plot$layers[[1]]$mapping, beer_plot$mapping)
-    labels <- beer_plot$labels    
     test_that('Did not create a plot named beer_plot', {
         expect_true(exists("beer_plot")) 
     })
+    properties <- c(beer_plot$layers[[1]]$mapping, beer_plot$mapping)
+    labels <- beer_plot$labels    
     test_that('ibu should be on the x-axis.', {
         expect_true("ibu" == rlang::get_expr(properties$x))
         })
