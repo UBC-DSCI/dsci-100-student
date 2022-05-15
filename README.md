@@ -1,12 +1,8 @@
 # DSCI 100: Introduction to Data Science
 
 ## Time and Place
-- Section 002: In-Person*, Tues/Thurs 15:30 - 17:00
-- Section 005: (Zoom/Online), Tues/Thurs 12:30 - 14:00
-- Section 006: In-Person*, Tues/Thurs 16:00 - 17:30
-- Section 007: In-Person*, Mon/Fri 15:00	- 16:30
 
-*All lectures and tutorials will be online until January 24, 2022 (https://science.ubc.ca/students/blog/update-2021w-term-two). 
+- Section 002: In-Person*, Tues/Thurs 10:30 - 13:30
 
 ## Course Description
 Use of data science tools to summarize, visualize, and analyze data. Sensible
@@ -50,11 +46,7 @@ This textbook is open source and will always be freely available on the web.
 ## Hardware & Software
 Students are required to bring a laptop, chromebook or tablet to both lectures and tutorials. Students
 who do not own a laptop, chromebook, or tablet may be able to 
-[loan a laptop from the UBC library](https://services.library.ubc.ca/computers-technology/technology-borrowing/). 
-
-For both online and in-person sections,
-students will need to have the latest version of [Zoom video conferencing](https://zoom.us) installed.
-This software is available for download [at this link](https://ca01web.zoom.us/download).
+[loan a laptop from the UBC library](https://services.library.ubc.ca/computers-technology/technology-borrowing/).
 
 All other required software will be provided by the instructors. Students will learn to perform their analysis using the 
 [R programming language](https://cran.r-project.org/). Worksheets and tutorial problem sets as
@@ -94,23 +86,20 @@ clear, reproducible, and shareable.
 right before their office hours, and they may run a few 
 minutes late. Please be patient!*
 
-| Section | Position | Name         | Email | Office Hours | Office Location |
-|---------|----------|--------------|--------------|-----------------|----------------|
-| 002 | Instructor | Lindsey Heagy |  lheagy[-at-]eoas.ubc.ca | Wednesdays 12:00 - 1:00 PM  | Zoom |
-| 002 | Instructor | Melissa Lee | melissa.lee[-at-]stat.ubc.ca | Fridays 10:15 - 11:15 AM  | Zoom |
-| 005 | Instructor | Rodolfo Lourenzutti |  | Fridays 11:30am to 12:30 pm | Zoom |
-| 006 | Instructor | Quan Nguyen | quan.nguyen[-at-]ubc.ca | Fridays 14:00-15:00 PM | Zoom |
-| 007 | Instructor/Course coordinator | Jack Davis | jack_davis[-at-]stat.ubc.ca  | Wednesdays 11:30 AM - 12:30 PM  | Zoom |
-| n/a | TA | TBA |  n/a |  |  |
+| Section | Position                      | Name        | Email                        | Office Hours | Office Location |
+|---------|-------------------------------|-------------|------------------------------|--------------|-----------------|
+| 002     | Instructor/Course coordinator | Daniel Chen | daniel.chen[-at-]stat.ubc.ca | TBD          | Zoom + TBD      |
+| n/a     | TA                            | TBA         | n/a                          |              |                 |
 
-**Please contact the course coordinator, Jack Davis, about any administrative questions (e.g. if you are sick and need to miss a quiz).**
+**Please contact the course coordinator, Daniel Chen, about any administrative questions (e.g. if you are sick and need to miss a quiz).**
 
-When sending emails, please include DSCI 100 in the subject line. 
+When sending emails, please include DSCI 100 in the subject line.
 
 ## Assessment
-- Quiz 1: (invigilated online) Feb 10,  7:30 PM - 8:30 PM (Pacific Time) 
-- Quiz 2: (invigilated in-person) Mar 24, 7:30 PM - 8:30 PM (Pacific Time) 
-- Quiz 3: (invigilated in-person) To be scheduled by Classroom Services 
+
+- Quiz 1: (invigilated in-person) June 2, 10:30 AM - 11:30 AM (Pacific Time)
+- Quiz 2: (invigilated in-person) June 16, 10:30 AM - 11:30 AM (Pacific Time)
+- Quiz 3: (invigilated in-person) To be scheduled by Classroom Services
 
 In each class (lecture and tutorial) there will be an assignment:
 
@@ -121,45 +110,49 @@ In each class (lecture and tutorial) there will be an assignment:
 - You **must access the lecture and tutorial worksheets through our Canvas course page** (as opposed to the worksheets publicly available via Github). Otherwise your worksheets may not be marked! 
 
 
-
 ### Course breakdown
 
-| Deliverable | Percent Grade |
-|-------------|---------------|
-| Lecture worksheets | 5 |
-| Tutorial problem sets | 14 |
-| Group project | 20 |
-| Three quizzes | 60 |
-| Bonus regrade percent | 1 |
+| Deliverable           | Percent Grade |
+|-----------------------|---------------|
+| Lecture worksheets    | 5             |
+| Tutorial problem sets | 14            |
+| Group project         | 20            |
+| Three quizzes         | 60            |
+| Bonus regrade percent | 1             |
 
 ### Group project breakdown
 
-| Deliverable | Percent Grade |
-|-------------|---------------|
-| Proposal | 3 |
-| Final report | 11 |
-| Team work | 5 |
-| Group contract | 1 |
+| Deliverable    | Percent Grade |
+|----------------|---------------|
+| Proposal       | 3             |
+| Final report   | 11            |
+| Team work      | 5             |
+| Group contract | 1             |
 
 ## Schedule
 
-| Topic | Description | 
-|-------|-------------|
-| Introduction | Learn to use the R programming language and Jupyter notebooks as you walk through a real world data Science application that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization. | 
-| Reading in data locally and from the web |  Learn to read in various cases of data sets locally and from the web. Once read in, these data sets will be used to walk through a real world data Science application that includes wrangling the data into a useable format and creating an effective data visualization. | 
-| Cleaning and wrangling data | This week will be centered around tools for cleaning and wrangling data. Again, this will be in the context of a real world data science application and we will continue to practice working through a whole case study that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization. |
-| Effective data visualization | Expand your data visualization knowledge and tool set beyond what we have seen and practiced so far. We will move beyond scatter plots and learn other effective ways to visualize data, as well as some general rules of thumb to follow when creating visualations. All visualization tasks this week will be applied to real world data sets. Again, this will be in the context of a real world data science application and we will continue to practice working through a whole case study that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization. |
-| Version control | Collaboration with version control | 
-| Quiz 1 | |
-| Classification | Introduction to classification using K-nearest neighbours (k-nn) |
-| Classification, continued | Classification continued | 
-Regression | Introduction to regression using K-nearest neighbours (k-nn). We will focus on prediction in cases where there is a response variable of interest and a single explanatory variable. |
-| Regression, continued | Continued exploration of k-nn regression in higher dimensions. We will also begin to compare k-nn to linear models in the context of regression. | 
-| Quiz 2 | |
-| Clustering |  Introduction to clustering using K-means  | 
-| Introduction to statistical inference | Introduce sampling and estimation for sample means and proportions. |
-| Introduction to statistical inference, continued | Introduce confidence intervals, and calculating them via boostrapping.  |
-|  Quiz 3  | |
+Lectures will happen on Tuesdays, and tutorials will happen on Thursdays.
+Below is the schedule for Tuesday lectures and Quizes.
+
+<!-- Note: viewing this part with no soft wrapping is more manageable -->
+| Session | Date    | Topic                                            | Description  |
+| ------- | ------- | ------------------------------------------------ | ------------ |
+| 1       | May 17  | Introduction                                     | Learn to use the R programming language and Jupyter notebooks as you walk through a real world data Science application that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization.                                                                                                                                                                                                                                                                                                                                                                          |
+| 1       | May 17  | Reading in data locally and from the web         | Learn to read in various cases of data sets locally and from the web. Once read in, these data sets will be used to walk through a real world data Science application that includes wrangling the data into a useable format and creating an effective data visualization.                                                                                                                                                                                                                                                                                                                                                          |
+| 3       | May 24  | Cleaning and wrangling data                      | This week will be centered around tools for cleaning and wrangling data. Again, this will be in the context of a real world data science application and we will continue to practice working through a whole case study that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization.                                                                                                                                                                                                                                                                         |
+| 3       | May 24  | Effective data visualization                     | Expand your data visualization knowledge and tool set beyond what we have seen and practiced so far. We will move beyond scatter plots and learn other effective ways to visualize data, as well as some general rules of thumb to follow when creating visualations. All visualization tasks this week will be applied to real world data sets. Again, this will be in the context of a real world data science application and we will continue to practice working through a whole case study that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization. |
+| 5       | May 31  | Version control                                  | Collaboration with version control                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 5       | May 31  | Classification                                   | Introduction to classification using K-nearest neighbours (k-nn)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 6       | June 2  | Quiz 1                                           | Information until and includeing "Version Control". Classification will not be on Quiz 1.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 7       | June 7  | Classification, continued                        | Classification continued                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| 7       | June 7  | Regression                                       | Introduction to regression using K-nearest neighbours (k-nn). We will focus on prediction in cases where there is a response variable of interest and a single explanatory variable.                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 9       | June 14 | Regression, continued                            | Continued exploration of k-nn regression in higher dimensions. We will also begin to compare k-nn to linear models in the context of regression.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 9       | June 14 | Clustering                                       | Introduction to clustering using K-means                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| 10      | June 16 | Quiz 2                                           | Covers upto and including Regression II. Clusing will not be covered on this quiz.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 11      | June 21 | Introduction to statistical inference            | Introduce sampling and estimation for sample means and proportions.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 11      | June 21 | Introduction to statistical inference, continued | Introduce confidence intervals, and calculating them via boostrapping.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|         | TBD     | Quiz 3                                           | To be Scheduled by To be scheduled by Classroom Services                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+
 
 ## Policies
 
