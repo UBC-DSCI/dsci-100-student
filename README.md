@@ -141,16 +141,16 @@ Below is the schedule for Tuesday lectures and Quizes.
 | 3 | May 24 | Cleaning and wrangling data              | This week will be centered around tools for cleaning and wrangling data. Again, this will be in the context of a real world data science application and we will continue to practice working through a whole case study that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization. |
 | 3 | May 24 | Effective data visualization             | Expand your data visualization knowledge and tool set beyond what we have seen and practiced so far. We will move beyond scatter plots and learn other effective ways to visualize data, as well as some general rules of thumb to follow when creating visualations. All visualization tasks this week will be applied to real world data sets. Again, this will be in the context of a real world data science application and we will continue to practice working through a whole case study that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization. |
 | 5 | May 31 | Version control                          | Collaboration with version control |
-|  | June 2 | Quiz 1                                   |  |
-| 5 | June 7 | Classification                           | Introduction to classification using K-nearest neighbours (k-nn) |
+| 5 | May 31 | Classification                           | Introduction to classification using K-nearest neighbours (k-nn) |
+| 6 | June 2 | Quiz 1 | Information until and includeing "Version Control". Classification will not be on Quiz 1. |
 | 7 | June 7 | Classification, continued                | Classification continued |
 | 7 | June 7 | Regression | Introduction to regression using K-nearest neighbours (k-nn). We will focus on prediction in cases where there is a response variable of interest and a single explanatory variable. |
 | 9 | June 14 | Regression, continued | Continued exploration of k-nn regression in higher dimensions. We will also begin to compare k-nn to linear models in the context of regression. | 
-| | June 16 | Quiz 2 | |
 | 9 | June 14 | Clustering |  Introduction to clustering using K-means  | 
+| 10 | June 16 | Quiz 2 | Covers upto and including Regression II. Clusing will not be covered on this quiz. |
 | 11 | June 21 | Introduction to statistical inference | Introduce sampling and estimation for sample means and proportions. |
 | 11 | June 21 | Introduction to statistical inference, continued | Introduce confidence intervals, and calculating them via boostrapping.  |
-|  Quiz 3  | |
+|    | TBD     | Quiz 3  | To be Scheduled by To be scheduled by Classroom Services |
 
 ## Policies
 
