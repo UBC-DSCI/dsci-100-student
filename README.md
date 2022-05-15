@@ -46,11 +46,7 @@ This textbook is open source and will always be freely available on the web.
 ## Hardware & Software
 Students are required to bring a laptop, chromebook or tablet to both lectures and tutorials. Students
 who do not own a laptop, chromebook, or tablet may be able to 
-[loan a laptop from the UBC library](https://services.library.ubc.ca/computers-technology/technology-borrowing/). 
-
-For both online and in-person sections,
-students will need to have the latest version of [Zoom video conferencing](https://zoom.us) installed.
-This software is available for download [at this link](https://ca01web.zoom.us/download).
+[loan a laptop from the UBC library](https://services.library.ubc.ca/computers-technology/technology-borrowing/).
 
 All other required software will be provided by the instructors. Students will learn to perform their analysis using the 
 [R programming language](https://cran.r-project.org/). Worksheets and tutorial problem sets as
