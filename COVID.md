@@ -9,7 +9,7 @@ for COVID, or are required to quarantine. **Stay home**.
 
 **Seriously. STAY HOME. You won't miss anything.**
 
-One instructor for this term will be posting recorded lectures to the Canvas page.
+Previous lecture recordings will be posted to the Canvas page.
 
 All of your assignments can be completed remotely.
 
@@ -69,5 +69,3 @@ plan is.
 If they are able to continue their duties remotely, they will do so.
 If they are not, either another TA will fill in for them, or their work
 will be postponed until they are well.
-
-
