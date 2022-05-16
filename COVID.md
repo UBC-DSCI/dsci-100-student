@@ -9,7 +9,7 @@ for COVID, or are required to quarantine. **Stay home**.
 
 **Seriously. STAY HOME. You won't miss anything.**
 
-One instructor for this term will be posting recorded lectures to the Canvas page.
+Previous lecture recordings will be posted to the Canvas page.
 
 All of your assignments can be completed remotely.
 
@@ -39,11 +39,6 @@ This will minimize your contacts.
 **Eating is not permitted in class.** Please avoid drinking. If you drink something in class,
 you must lift your mask only between sips (see below).
 
-## Interacting with Instructors
-**Do not approach the front of the classroom under any circumstances.** 
-You are welcome to raise your hand to ask questions while I lecture as usual.
-We will offer *assistance-at-a-distance (TM)* on your in-class assignments.
-
 ## Masks
 **Masks are required for all indoor classes** (per the BC Public Health Officer
 orders). A mask is a medical or non-medical device that covers *both* the nose and mouth.
@@ -51,6 +46,7 @@ You must wear the mask for the full duration of in-class meetings.
 Please do not eat in class; if you need to drink water/coffee/tea/etc, please keep your mask
 on between sips. You may be asked to remove your mask briefly on occasion 
 (e.g., for an exam ID check), but otherwise, your mask should remain on.
+Please see the [UBC policy](https://covid19.ubc.ca/latest-updates/) for latest updates.
 
 ## Vaccination
 COVID-19 vaccines are available to you, free, and on campus. 
@@ -69,5 +65,3 @@ plan is.
 If they are able to continue their duties remotely, they will do so.
 If they are not, either another TA will fill in for them, or their work
 will be postponed until they are well.
-
-
