@@ -1,7 +1,7 @@
 # What if my travel to Vancouver is delayed?
 
 **If you will be late by a few weeks:** don't panic! There will be
-recordings of one section of the lectures on the Canvas page, and all of your coursework will
+recordings of a previous section of the lectures on the Canvas page, and all of your coursework will
 be completed on our course server electronically, so you won't miss anything.
 
 **If you will be absent beyond the add/drop date, please do not take an in-person section of this course.**
@@ -36,6 +36,9 @@ Each week will have the following pattern:
   in lecture. You'll do another worksheet to practice the concept. The
 tutorial worksheets are generally harder than the lecture worksheets.
 - The tutorial worksheet will be due **Saturday at 11:59 pacific time**.
+- In the summer, due to the double pace,
+  the first set of lecture worksheets and tutorial worksheets will be due on **Saturday at 11:59 pacific time**
+  and the second set of lecture worksheets and tutorial worksheets will be due on **Sunday at 11:59 pacific time**.
 
 There will be 3 quizzes throughout the semester; the first two are held in
 class, and the last is during the exam period, but they'll all be the same
@@ -47,7 +50,7 @@ group.
 # How do I submit an assignment?
 
 **Lecture / Tutorial Worksheets:** You must complete all of your lecture and
-tutorial worksheets on our JupyterHub server. Once you are done working, just
+tutorial worksheets on our JupyterHub server. Once you are done working,
 go to File -> Save and Checkpoint, and make sure the checkpoint is "a few
 seconds ago" at the top of your screen. We will show you how to do this in
 class. You don't need to click "submit" anywhere -- our server will
