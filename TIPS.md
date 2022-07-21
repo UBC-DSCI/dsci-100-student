@@ -5,7 +5,6 @@ survival guide on Piazza based on their own past experiences taking the class.
 There are a lot of good tips & advice here, so I made it part of the official
 course Canvas page. Thanks TAs!*
 
-
 ## A message from TAs past and present
 
 Hi everyone! We’ve put together this guide to
