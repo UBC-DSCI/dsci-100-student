@@ -40,13 +40,9 @@ This will minimize your contacts.
 you must lift your mask only between sips (see below).
 
 ## Masks
-**Masks are required for all indoor classes** (per the BC Public Health Officer
-orders). A mask is a medical or non-medical device that covers *both* the nose and mouth.
-You must wear the mask for the full duration of in-class meetings.
-Please do not eat in class; if you need to drink water/coffee/tea/etc, please keep your mask
-on between sips. You may be asked to remove your mask briefly on occasion 
-(e.g., for an exam ID check), but otherwise, your mask should remain on.
-Please see the [UBC policy](https://covid19.ubc.ca/latest-updates/) for latest updates.
+**Masks no longer required in UBC public indoor spaces after June 30** Please see the [UBC policy](https://covid19.ubc.ca/latest-updates/) for latest updates.
+
+"We appreciate some members of our community may wish to continue wearing masks, and we ask all our students, faculty and staff to be respectful of these decisions. Individuals may also want to use their discretion regarding mask wearing when gathering in small spaces. As we have seen during the last two years, it is important to show empathy for one another, understanding that everyone has different circumstances as we move through the pandemic."
 
 ## Vaccination
 COVID-19 vaccines are available to you, free, and on campus. 
