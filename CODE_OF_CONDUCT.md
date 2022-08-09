@@ -80,7 +80,7 @@ appropriate sanctions.
 
 If someone violates the Code of Conduct during a DSCI 100 event or in an online
 space outside of organised events, we ask that you report it to the
-Instructor(s). The current instructor(s) of DSCI100 is(are) Daniel Chen. An
+Instructor(s). The current instructor(s) of DSCI100 is(are) Quan Nguyen, Trevor Campbell, Joel Ostblom, and Daniel Chen. An
 email message to the email adresses listed in the course syllabus will be seen by each respective instructor. To report a DSCI
 100 code of conduct violation that will not be seen by your instructor, an
 alternative contact person is Bruce Dunham, Professor of Teaching in the
