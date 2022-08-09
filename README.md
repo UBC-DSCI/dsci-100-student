@@ -2,7 +2,12 @@
 
 ## Time and Place
 
-- Section 002: In-Person*, Tues/Thurs 10:30 - 13:30
+| Section        | Date       | Time            | Instructor      |
+|----------------|------------|-----------------|-----------------|
+| DSCI 100 - 001 | Tues/Thurs | 3:30-5:00 pm    | Quan Nguyen     |
+| DSCI 100 - 004 | Tues/Thurs | 11am - 12.30pm  | Trevor Campbell |
+| DSCI 100 - 008 | Tues/Thurs | 08.00 - 09.30am | Joel Ostblom    |
+| DSCI 100 - 009 | Mon/Wed    | 4-5:30 PM       | Daniel Chen     |
 
 ## Course Description
 Use of data science tools to summarize, visualize, and analyze data. Sensible
@@ -86,10 +91,14 @@ clear, reproducible, and shareable.
 right before their office hours, and they may run a few 
 minutes late. Please be patient!*
 
-| Section | Position                      | Name        | Email                        | Office Hours | Office Location |
-|---------|-------------------------------|-------------|------------------------------|--------------|-----------------|
-| 002     | Instructor/Course coordinator | Daniel Chen | daniel.chen[-at-]stat.ubc.ca | TBD          | Zoom + TBD      |
-| n/a     | TA                            | TBA         | n/a                          |              |                 |
+| Section |            Position           |       Name      |             Email            | Office Hours | Office Location |
+|---------|:-----------------------------:|:---------------:|:----------------------------:|:------------:|:---------------:|
+| 001     | Instructor/Course coordinator | Quan Nguyen     | quan.nguyen[-at-]ubc.ca      | TBD          | Zoom + TBD      |
+| 004     | Instructor                    | Trevor Campbell | trevor[-at-]stat.ubc.ca      | TBD          | Zoom + TBD      |
+| 008     | Instructor                    | Joel Ostblom    | joel.ostblom[-at-]ubc.ca     | TBD          | Zoom + TBD      |
+| 009     | Instructor                    | Daniel Chen     | daniel.chen[-at-]stat.ubc.ca | TBD          | Zoom + TBD      |
+|         |                               |                 |                              |              |                 |
+| n/a     | TA                            | TBA             | n/a                          |              |                 |
 
 **Please contact the course coordinator, Daniel Chen, about any administrative questions (e.g. if you are sick and need to miss a quiz).**
 
@@ -97,8 +106,8 @@ When sending emails, please include DSCI 100 in the subject line.
 
 ## Assessment
 
-- Quiz 1: (invigilated in-person) June 2, 10:30 AM - 11:30 AM (Pacific Time)
-- Quiz 2: (invigilated in-person) June 16, 10:30 AM - 11:30 AM (Pacific Time)
+- Quiz 1: (invigilated in-person) TBD (Pacific Time)
+- Quiz 2: (invigilated in-person) TBD (Pacific Time)
 - Quiz 3: (invigilated in-person) To be scheduled by Classroom Services
 
 In each class (lecture and tutorial) there will be an assignment:
