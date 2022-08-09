@@ -100,14 +100,14 @@ minutes late. Please be patient!*
 |         |                               |                 |                              |              |                 |
 | n/a     | TA                            | TBA             | n/a                          |              |                 |
 
-**Please contact the course coordinator, Daniel Chen, about any administrative questions (e.g. if you are sick and need to miss a quiz).**
+**Please contact the course coordinator, Quan Nguyen, about any administrative questions (e.g. if you are sick and need to miss a quiz).**
 
 When sending emails, please include DSCI 100 in the subject line.
 
 ## Assessment
 
-- Quiz 1: (invigilated in-person) TBD (Pacific Time)
-- Quiz 2: (invigilated in-person) TBD (Pacific Time)
+- Quiz 1: (invigilated in-person) Same time & location of week 5's tutorial
+- Quiz 2: (invigilated in-person) Same time & location of week 9's tutorial
 - Quiz 3: (invigilated in-person) To be scheduled by Classroom Services
 
 In each class (lecture and tutorial) there will be an assignment:
