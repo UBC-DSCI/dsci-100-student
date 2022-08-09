@@ -4,10 +4,12 @@
 recordings of a previous section of the lectures on the Canvas page, and all of your coursework will
 be completed on our course server electronically, so you won't miss anything.
 
-**If you will be absent beyond the add/drop date, please do not take an in-person section of this course.**
-Unless the current restrictions are extended beyond Jan 24, you are required to be present in Vancouver for this course. We hold our quizzes in-person, and attendance is mandatory. If you have concerns, contact science advising and talk to them about your options.
+**If you will be absent beyond the add/drop date, please contact your instructor.**
+You are required to be present in Vancouver for this course. We hold our quizzes in-person, and attendance is mandatory. If you have concerns, contact science advising and talk to them about your options.
 
 # What if I get sick during the semester?
+
+Please follow the [UBC CAMPUS RULES & GUIDANCE DOCUMENTS](https://srs.ubc.ca/covid-19/ubc-campus-rules-guidance-documents/) and the [BC CDC's guideline](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/if-you-have-covid-19) for self-isolation policy
 
 ### DO NOT COME TO CLASS.
 
@@ -15,7 +17,7 @@ Video recording of lectures videos will continue to be posted to Canvas, so you 
 
 You can complete all of your assignments electronically (and remotely).
 
-I will drop the lowest worksheet and tutorial grade from the semester.
+We will drop the lowest worksheet and tutorial grade from the semester.
 
 # What if I get sick right before a quiz?
 
@@ -36,9 +38,7 @@ Each week will have the following pattern:
   in lecture. You'll do another worksheet to practice the concept. The
 tutorial worksheets are generally harder than the lecture worksheets.
 - The tutorial worksheet will be due **Saturday at 11:59 pacific time**.
-- In the summer, due to the double pace,
-  the first set of lecture worksheets and tutorial worksheets will be due on **Saturday at 11:59 pacific time**
-  and the second set of lecture worksheets and tutorial worksheets will be due on **Sunday at 11:59 pacific time**.
+
 
 There will be 3 quizzes throughout the semester; the first two are held in
 class, and the last is during the exam period, but they'll all be the same
