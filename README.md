@@ -117,7 +117,7 @@ In each class (lecture and tutorial) there will be an assignment:
 
 Notes:  
 
-- Section 009 in week 1 will have both lecture + tutorial on the same day because Monday Sep 5th is Labor Day.
+- All sections in week 1 will have both lecture + tutorial on the same day because Monday Sep 5th is Labor Day and Tuesday Sep 6th is UBC Imagine Day
 - Section 009 in week 6 will have both lecture + tutorial on the same day because Monday, Oct 10 is Thanksgiving
 
 | Week | Topic                                            | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
