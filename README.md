@@ -72,7 +72,7 @@ By the end of the course, students will be able to:
 |         |                               |                 |                              |              |                 |
 | n/a     |              TA               |       TBA       |             n/a              |              |                 |
 
-**Please contact the course coordinator, Quan Nguyen, about any administrative questions (e.g. if you are sick and need to miss a quiz).**
+**Please contact the course coordinator, Quan Nguyen, about any administrative questions. Please read the course policy (e.g., late registration, missing quiz/assignment due to sickness) below before contacting**.
 
 When sending emails, please include DSCI 100 in the subject line.
 
@@ -81,6 +81,8 @@ When sending emails, please include DSCI 100 in the subject line.
 -   Quiz 1: (invigilated in-person) Same time & location of week 5's tutorial
 -   Quiz 2: (invigilated in-person) Same time & location of week 9's tutorial
 -   Quiz 3: (invigilated in-person) To be scheduled by Classroom Services
+
+Note: Since DSCI 100 is a large course with multiple sections (hence, multiple versions of quizzes), the instructors reserve the rights to scale grades in order to maintain equity among sections according the [UBC campus wide policies and regulations](https://www.calendar.ubc.ca/Vancouver/index.cfm?tree=3,42,96,0).
 
 In each class (lecture and tutorial) there will be an assignment:
 
@@ -141,7 +143,7 @@ Students who register for the class late have 1 week from their registration dat
 
 Students **must be present** at the invigilation venue (in class, on Zoom, examination centre, etc) to take quizzes; otherwise they will be considered to have missed the quiz and will be assigned a grade of zero.
 
-Students who will miss a quiz **must provide a self-declaration prior to the quiz** and make arrangements (e.g., schedule an oral make-up quiz) with the Instructor. Failing to present a declaration within a reasonable timeframe before the quiz will result in a grade of zero.
+Students who will miss a quiz **must provide a self-declaration of academic concession prior to the quiz** (see Canvas homepage for the academic concession form) and make arrangements with the Instructor. Failing to present a declaration within a reasonable timeframe before the quiz will result in a grade of zero.
 
 There will be **no extensions for the lecture and tutorial worksheets**; late assignments will receive a grade of zero. Instead, we will drop the lowest grade on tutorials and worksheets for the semester.
 
@@ -174,6 +176,8 @@ Students who miss the final quiz must report to their faculty advising office wi
 ### Academic Concession Policy
 
 Please see [UBC's concession policy](http://www.calendar.ubc.ca/vancouver/index.cfm?tree=3,329,0,0) for detailed information on dealing with missed coursework, quizzes, and exams under circumstances of an acute and unanticipated nature.
+
+See our Canvas homepage for the academic concession form.
 
 ### Academic Integrity
 
