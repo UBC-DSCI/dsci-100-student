@@ -65,12 +65,23 @@ By the end of the course, students will be able to:
 
 | Section |           Position            |      Name       |            Email             | Office Hours | Office Location |
 |---------|:-----------------------------:|:---------------:|:----------------------------:|:------------:|:---------------:|
-| 001     | Instructor/Course coordinator |   Quan Nguyen   |   quan.nguyen[-at-]ubc.ca    |     TBD      |   Zoom + TBD    |
-| 004     |          Instructor           | Trevor Campbell |   trevor[-at-]stat.ubc.ca    |     TBD      |   Zoom + TBD    |
+| 001     | Instructor/Course coordinator |   Quan Nguyen   |   quan.nguyen[-at-]ubc.ca    | Fridays 11-12 AM     |   Zoom    |
+| 004     |          Instructor           | Trevor Campbell |   trevor[-at-]stat.ubc.ca    | Tuesdays 12:30-13:30 |   ESB 4182 |
 | 008     |          Instructor           |  Joel Ostblom   |   joel.ostblom[-at-]ubc.ca   |     TBD      |   Zoom + TBD    |
 | 009     |          Instructor           |   Daniel Chen   | daniel.chen[-at-]stat.ubc.ca |     TBD      |   Zoom + TBD    |
 |         |                               |                 |                              |              |                 |
-| n/a     |              TA               |       TBA       |             n/a              |              |                 |
+| 001     |          TA                   |  Eros Rojas           |             n/a              |              |                 |
+| 001     |          TA                   |  Anthony Huang        |             n/a              |              |                 |
+| 001     |          TA                   |  Atabak Eghbal        |             n/a              |              |                 |
+| 004     |          TA                   |  Ding Ma              |             n/a              |              |                 |
+| 004     |          TA                   |  Iris Xui             |             n/a              |              |                 |
+| 004     |          TA                   |  Ali Mehrabian        |             n/a              |              |                 |
+| 008     |          TA                   |  Fares Burwag         |             n/a              |              |                 |
+| 008     |          TA                   |  Shruti V. Seetharam  |             n/a              |              |                 |
+| 008     |          TA                   |  Richard Yang         |             n/a              |              |                 |
+| 009     |          TA                   |  Eric Li              |             n/a              |              |                 |
+| 009     |          TA                   |  Izzy Zhang           |             n/a              |              |                 |
+| 009     |          TA                   |  Hannah Martin        |             n/a              |              |                 |
 
 **Please contact the course coordinator, Quan Nguyen, about any administrative questions. Please read the course policy (e.g., late registration, missing quiz/assignment due to sickness) below before contacting**.
 
