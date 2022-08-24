@@ -68,7 +68,7 @@ By the end of the course, students will be able to:
 | 001     | Instructor/Course coordinator |   Quan Nguyen   |   quan.nguyen[-at-]ubc.ca    | Fridays 11-12 AM     |   Zoom    |
 | 004     |          Instructor           | Trevor Campbell |   trevor[-at-]stat.ubc.ca    | Tuesdays 12:30-13:30 |   ESB 4182 |
 | 008     |          Instructor           |  Joel Ostblom   |   joel.ostblom[-at-]ubc.ca   |     TBD      |   Zoom + TBD    |
-| 009     |          Instructor           |   Daniel Chen   | daniel.chen[-at-]stat.ubc.ca |     TBD      |   Zoom + TBD    |
+| 009     |          Instructor           |   Daniel Chen   | daniel.chen[-at-]stat.ubc.ca |     Mondays 5:30 - 6:30 pm      |   ESB 4182    |
 |         |                               |                 |                              |              |                 |
 | 001     |          TA                   |  Eros Rojas           |             n/a              |              |                 |
 | 001     |          TA                   |  Anthony Huang        |             n/a              |              |                 |
