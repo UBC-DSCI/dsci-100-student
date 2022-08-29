@@ -73,16 +73,21 @@ By the end of the course, students will be able to:
 | 001     |          TA                   |  Eros Rojas           |             n/a              |              |                 |
 | 001     |          TA                   |  Anthony Huang        |             n/a              |              |                 |
 | 001     |          TA                   |  Atabak Eghbal        |             n/a              |              |                 |
+| 001     |          TA                   |  Tony Liang           |             n/a              |              |                 |
+| 001     |          TA                   |  Moira Renata         |             n/a              |              |                 |
 | 004     |          TA                   |  Ding Ma              |             n/a              |              |                 |
 | 004     |          TA                   |  Iris Xui             |             n/a              |              |                 |
 | 004     |          TA                   |  Ali Mehrabian        |             n/a              |              |                 |
+| 004     |          TA                   |  Nour Hanafi          |             n/a              |              |                 |
 | 008     |          TA                   |  Fares Burwag         |             n/a              |              |                 |
 | 008     |          TA                   |  Shruti V. Seetharam  |             n/a              |              |                 |
 | 008     |          TA                   |  Richard Yang         |             n/a              |              |                 |
+| 008     |          TA                   |  Angelique Clara Hanzell         |             n/a              |              |                 |
 | 009     |          TA                   |  Eric Li              |             n/a              |              |                 |
 | 009     |          TA                   |  Izzy Zhang           |             n/a              |              |                 |
 | 009     |          TA                   |  Hannah Martin        |             n/a              |              |                 |
-
+| 009     |          TA                   |  Alex Bastin        |             n/a              |              |                 |
+| 009     |          TA                   |  Kaylee Li        |             n/a              |              |                 |
 **Please contact the course coordinator, Quan Nguyen, about any administrative questions. Please read the course policy (e.g., late registration, missing quiz/assignment due to sickness) below before contacting**.
 
 When sending emails, please include DSCI 100 in the subject line.
