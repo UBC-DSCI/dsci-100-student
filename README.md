@@ -94,8 +94,8 @@ When sending emails, please include DSCI 100 in the subject line.
 
 ## Assessment
 
--   Quiz 1: (invigilated in-person) Same time & location of week 5's tutorial
--   Quiz 2: (invigilated in-person) Same time & location of week 10's tutorial
+-   Quiz 1: (invigilated in-person) Same time & location of week 5's tutorial (Wednesday Oct 5 for section 009, and Thursday Oct 6 for 001, 004, 008)
+-   Quiz 2: (invigilated in-person) Same time & location of week 10's lecture (Monday Nov 7 for section 009, and Tuesday Nov 8 for 001, 004, 008)
 -   Quiz 3: (invigilated in-person) To be scheduled by Classroom Services
 
 **Note**: Since DSCI 100 is a large course with multiple sections (hence, multiple versions of quizzes), the instructors reserve the rights to scale grades in order to maintain equity among sections according the [UBC campus wide policies and regulations](https://www.calendar.ubc.ca/Vancouver/index.cfm?tree=3,42,96,0).
