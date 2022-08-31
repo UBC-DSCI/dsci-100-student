@@ -74,9 +74,8 @@ By the end of the course, students will be able to:
 | 001     |          TA                   |  Anthony Huang        |             n/a              |              |                 |
 | 001     |          TA                   |  Atabak Eghbal        |             n/a              |              |                 |
 | 001     |          TA                   |  Tony Liang           |             n/a              |              |                 |
-| 001     |          TA                   |  Moira Renata         |             n/a              |              |                 |
+| 004     |          TA                   |  Moira Renata         |             n/a              |              |                 |
 | 004     |          TA                   |  Ding Ma              |             n/a              |              |                 |
-| 004     |          TA                   |  Iris Xui             |             n/a              |              |                 |
 | 004     |          TA                   |  Ali Mehrabian        |             n/a              |              |                 |
 | 004     |          TA                   |  Nour Hanafi          |             n/a              |              |                 |
 | 008     |          TA                   |  Fares Burwag         |             n/a              |              |                 |
