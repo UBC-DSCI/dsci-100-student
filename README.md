@@ -87,6 +87,7 @@ By the end of the course, students will be able to:
 | 009     |          TA                   |  Hannah Martin        |             n/a              |              |                 |
 | 009     |          TA                   |  Alex Bastin        |             n/a              |              |                 |
 | 009     |          TA                   |  Kaylee Li        |             n/a              |              |                 |
+
 **Please contact the course coordinator, Quan Nguyen, about any administrative questions. Please read the course policy (e.g., late registration, missing quiz/assignment due to sickness) below before contacting**.
 
 When sending emails, please include DSCI 100 in the subject line.
