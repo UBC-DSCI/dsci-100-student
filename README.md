@@ -78,15 +78,15 @@ By the end of the course, students will be able to:
 | 004     |          TA                   |  Ding Ma              |             n/a              |  Tuesday 4-5pm|Zoom  |
 | 004     |          TA                   |  Ali Mehrabian        |             n/a              |  Friday 2-3pm | Zoom   |
 | 004     |          TA                   |  Nour Hanafi          |             n/a              |  Thursday 4-5pm|Zoom   |
-| 008     |          TA                   |  Fares Burwag         |             n/a              |              |                 |
+| 008     |          TA                   |  Fares Burwag         |             n/a              | Monday 12-1pm |  Zoom |
 | 008     |          TA                   |  Shruti V. Seetharam  |             n/a              |  Monday 2-3pm |Zoom     |
 | 008     |          TA                   |  Richard Yang         |             n/a              |  Wednesday 8-9 am |Zoom       |
 | 008     |          TA                   |  Angelique Clara Hanzell         |             n/a              | Friday 5-6pm |Zoom |
 | 009     |          TA                   |  Eric Li              |             n/a              |  Thursday 6-7pm | Zoom   |
 | 009     |          TA                   |  Izzy Zhang           |             n/a              | Tuesday 11-12pm | Zoom    |
-| 009     |          TA                   |  Hannah Martin        |             n/a              | Wednesday 5:30-6:30pm|Zoom      |
+| 009     |          TA                   |  Hannah Martin        |             n/a              | Wednesday 5:30-6:30pm| ICICS lab room 011      |
 | 009     |          TA                   |  Alex Bastin        |             n/a              | Wednesday 6-7pm  | Zoom   |
-| 009     |          TA                   |  Kaylee Li        |             n/a              | Thursday 1-2pm | In-person ICCS 104 |
+| 009     |          TA                   |  Kaylee Li        |             n/a              | Thursday 1-2pm | ICCS 104 |
 
 **Please contact the course coordinator, Quan Nguyen, about any administrative questions. Please read the course policy (e.g., late registration, missing quiz/assignment due to sickness) below before contacting**.
 
