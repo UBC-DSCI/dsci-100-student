@@ -70,23 +70,23 @@ By the end of the course, students will be able to:
 | 008     |          Instructor           |  Joel Ostblom   |   joel.ostblom[-at-]ubc.ca   |     Fridays 12-1pm      |   Zoom    |
 | 009     |          Instructor           |   Daniel Chen   | daniel.chen[-at-]stat.ubc.ca |     Mondays 5:30 - 6:30 pm      |   ESB 4182    |
 |         |                               |                 |                              |              |                 |
-| 001     |          TA                   |  Eros Rojas           |             n/a              |              |                 |
-| 001     |          TA                   |  Anthony Huang        |             n/a              |              |                 |
-| 001     |          TA                   |  Atabak Eghbal        |             n/a              |              |                 |
-| 001     |          TA                   |  Tony Liang           |             n/a              |              |                 |
-| 004     |          TA                   |  Moira Renata         |             n/a              |              |                 |
-| 004     |          TA                   |  Ding Ma              |             n/a              |              |                 |
-| 004     |          TA                   |  Ali Mehrabian        |             n/a              |              |                 |
-| 004     |          TA                   |  Nour Hanafi          |             n/a              |              |                 |
-| 008     |          TA                   |  Fares Burwag         |             n/a              |              |                 |
-| 008     |          TA                   |  Shruti V. Seetharam  |             n/a              |              |                 |
-| 008     |          TA                   |  Richard Yang         |             n/a              |              |                 |
-| 008     |          TA                   |  Angelique Clara Hanzell         |             n/a              |              |                 |
-| 009     |          TA                   |  Eric Li              |             n/a              |              |                 |
-| 009     |          TA                   |  Izzy Zhang           |             n/a              |              |                 |
-| 009     |          TA                   |  Hannah Martin        |             n/a              |              |                 |
-| 009     |          TA                   |  Alex Bastin        |             n/a              |              |                 |
-| 009     |          TA                   |  Kaylee Li        |             n/a              |              |                 |
+| 001     |          TA                   |  Eros Rojas           |             n/a              |  Wednesday 3-4pm | Zoom |
+| 001     |          TA                   |  Anthony Huang        |             n/a              | Tuesday 2-3pm | Zoom  |
+| 001     |          TA                   |  Atabak Eghbal        |             n/a              | Friday 6-7pm| Zoom   |
+| 001     |          TA                   |  Tony Liang           |             n/a              |  Tuesday 5-6pm| Zoom   |
+| 004     |          TA                   |  Moira Renata         |             n/a              |  Wednesday 11-12am |Zoom |
+| 004     |          TA                   |  Ding Ma              |             n/a              |  Tuesday 4-5pm|Zoom  |
+| 004     |          TA                   |  Ali Mehrabian        |             n/a              |  Friday 2-3pm | Zoom   |
+| 004     |          TA                   |  Nour Hanafi          |             n/a              |  Thursday 4-5pm|Zoom   |
+| 008     |          TA                   |  Fares Burwag         |             n/a              | Monday 12-1pm |  Zoom |
+| 008     |          TA                   |  Shruti V. Seetharam  |             n/a              |  Monday 2-3pm |Zoom     |
+| 008     |          TA                   |  Richard Yang         |             n/a              |  Wednesday 8-9 am |Zoom       |
+| 008     |          TA                   |  Angelique Clara Hanzell         |             n/a              | Friday 5-6pm |Zoom |
+| 009     |          TA                   |  Eric Li              |             n/a              |  Thursday 6-7pm | Zoom   |
+| 009     |          TA                   |  Izzy Zhang           |             n/a              | Tuesday 11-12pm | ESB 1043    |
+| 009     |          TA                   |  Hannah Martin        |             n/a              | Wednesday 5:30-6:30pm| ICICS lab room 011      |
+| 009     |          TA                   |  Alex Bastin        |             n/a              | Wednesday 6-7pm  | Zoom   |
+| 009     |          TA                   |  Kaylee Li        |             n/a              | Thursday 1-2pm | ICCS 104 |
 
 **Please contact the course coordinator, Quan Nguyen, about any administrative questions. Please read the course policy (e.g., late registration, missing quiz/assignment due to sickness) below before contacting**.
 
