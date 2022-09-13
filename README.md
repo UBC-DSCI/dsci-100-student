@@ -73,7 +73,7 @@ By the end of the course, students will be able to:
 | 001     |          TA                   |  Eros Rojas           |             n/a              |  Wednesday 3-4pm | Zoom |
 | 001     |          TA                   |  Anthony Huang        |             n/a              | Tuesday 2-3pm | ICCS 146  |
 | 001     |          TA                   |  Atabak Eghbal        |             n/a              | Friday 6-7pm| Zoom   |
-| 001     |          TA                   |  Tony Liang           |             n/a              |  Tuesday 5-6pm| Zoom   |
+| 001     |          TA                   |  Tony Liang           |             n/a              |  Tuesday 5-6pm| ICCS 146   |
 | 004     |          TA                   |  Moira Renata         |             n/a              |  Wednesday 11-12am |Zoom |
 | 004     |          TA                   |  Ding Ma              |             n/a              |  Tuesday 4-5pm|Zoom  |
 | 004     |          TA                   |  Ali Mehrabian        |             n/a              |  Friday 2-3pm | Zoom   |
