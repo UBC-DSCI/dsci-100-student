@@ -81,7 +81,7 @@ By the end of the course, students will be able to:
 | 008     |          TA                   |  Fares Burwag         |             n/a              | Monday 12-1pm |  Zoom |
 | 008     |          TA                   |  Shruti V. Seetharam  |             n/a              |  Monday 2-3pm |Zoom     |
 | 008     |          TA                   |  Richard Yang         |             n/a              |  Wednesday 8-9 am |Zoom       |
-| 008     |          TA                   |  Angelique Clara Hanzell         |             n/a              | Friday 5-6pm |Zoom |
+| 008     |          TA                   |  Angelique Clara Hanzell         |             n/a              | Friday 5-6pm |ICCS X139 |
 | 009     |          TA                   |  Eric Li              |             n/a              |  Thursday 6-7pm | Zoom   |
 | 009     |          TA                   |  Izzy Zhang           |             n/a              | Tuesday 11-12pm | ESB 1043    |
 | 009     |          TA                   |  Hannah Martin        |             n/a              | Wednesday 5:30-6:30pm| ICICS lab room 011      |
