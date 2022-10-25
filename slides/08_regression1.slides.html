@@ -14658,8 +14658,30 @@ div.jp-OutputPrompt {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="DSCI-100---Introduction-to-Data-Science">DSCI 100 - Introduction to Data Science<a class="anchor-link" href="#DSCI-100---Introduction-to-Data-Science">&#182;</a></h2><h3 id="Lecture-8---Regression-with-k-nearest-neighbours">Lecture 8 - Regression with k-nearest neighbours<a class="anchor-link" href="#Lecture-8---Regression-with-k-nearest-neighbours">&#182;</a></h3><p><img src= "https://github.com/allisonhorst/stats-illustrations/raw/master/rstats-artwork/monster_support.jpg" width=600>
+<h2 id="DSCI-100---Introduction-to-Data-Science">DSCI 100 - Introduction to Data Science<a class="anchor-link" href="#DSCI-100---Introduction-to-Data-Science">&#182;</a></h2><h3 id="Lecture-8---Regression-with-k-nearest-neighbours">Lecture 8 - Regression with k-nearest neighbours<a class="anchor-link" href="#Lecture-8---Regression-with-k-nearest-neighbours">&#182;</a></h3><p><img src= "https://github.com/allisonhorst/stats-illustrations/raw/main/rstats-artwork/monster_support.jpg" width=600>
 Source: Artwork by @allison_horst</p>
+
+</div>
+</div>
+</div>
+</div></section></section><section><section>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h2 id="Housekeeping">Housekeeping<a class="anchor-link" href="#Housekeeping">&#182;</a></h2><ul>
+<li>Quiz 1 grades out next week or earlier (probably earlier). Proposal grades soon after that.</li>
+<li><p>Quiz 2 is coming up soon. See Canvas for details.</p>
+</li>
+<li><p>The upcoming tutorial is a project work session</p>
+</li>
+<li>Reminder about projects: <ul>
+<li>Part of the group project mark is "teamwork". All members will have the opportunity to evaluate your group members at the end of the year and the evaluations will affect your final project mark</li>
+</ul>
+</li>
+</ul>
 
 </div>
 </div>
@@ -14717,7 +14739,11 @@ Source: Artwork by @allison_horst</p>
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <ul>
 <li>Suppose we want to predict the price of a home given a 2000 sq footage</li>
-<li>What are some ways you might predict the price? </li>
+<li>If the points were on a straight line it would be easy, but there seems to be other variables that also influence the price.</li>
+<li>You can see that we have no observations of a house of size exactly 2,000 square feet<ul>
+<li>What are some ways you might predict the price? (encourage them to use general english terms when discussing, no math jargon needed)</li>
+</ul>
+</li>
 </ul>
 
 </div>
@@ -14773,7 +14799,7 @@ Source: Artwork by @allison_horst</p>
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h3 id="K-nearest-neighbours-regression">K nearest neighbours regression<a class="anchor-link" href="#K-nearest-neighbours-regression">&#182;</a></h3><p>If we do that for a range of house sizes, we can draw the curve of predictions ($k = 14$):</p>
+<h3 id="K-nearest-neighbours-regression">K nearest neighbours regression<a class="anchor-link" href="#K-nearest-neighbours-regression">&#182;</a></h3><p>If we do that for a range of house sizes, we can draw the curve of predictions:</p>
 <p><img src="https://ubc-dsci.github.io/introduction-to-datascience/_main_files/figure-html/07-predict-all-1.png" width="600"/></p>
 
 </div>
@@ -14835,15 +14861,9 @@ Source: Artwork by @allison_horst</p>
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h3 id="1.-Is-our-model-any-good?">1. Is our model any good?<a class="anchor-link" href="#1.-Is-our-model-any-good?">&#182;</a></h3><p>Suppose the blue line depicts our predictions from k-nn regression.</p>
-<p>The red lines depict the error in our predictions, i.e., the difference between the $i^\text{th}$ test data response and our prediction $\hat{y}_i$:</p>
+<h3 id="1.-Is-our-model-any-good?">1. Is our model any good?<a class="anchor-link" href="#1.-Is-our-model-any-good?">&#182;</a></h3><p><b><font color="blue">The blue line</font></b> depicts our predictions from k-nn regression.</p>
 <center>
-<table>
-<tr>
-    <td><img src="img/k-nn_regr.jpeg" width="300"/></td>
-    <td><img src="img/rmse.jpg" width="300"/></td>
-</tr>
-</table>
+<img src="img/k-nn_regr.jpeg" width="700"/>
 </center>
 </div>
 </div>
@@ -14857,7 +14877,37 @@ Source: Artwork by @allison_horst</p>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <ul>
-<li>small datasets: the nearest neighbours are the same and thus the mean in a certain area is the same therefore we have flat lines</li>
+<li>small datasets: the nearest neighbours are the same and thus the mean in a certain area is the same therefore we have this step-wise line</li>
+</ul>
+
+</div>
+</div>
+</div>
+</div>
+</aside></section></section><section><section>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h3 id="1.-Is-our-model-any-good?">1. Is our model any good?<a class="anchor-link" href="#1.-Is-our-model-any-good?">&#182;</a></h3><p><b><font color="blue">The blue line</font></b> depicts our predictions from k-nn regression. <b><font color="red">The red lines</font></b> depict the error in our predictions, i.e., the difference between the $i^\text{th}$ test data response and our prediction $\hat{y}_i$:</p>
+<center>
+<img src="img/rmse.jpg" width="600"/>
+</center>
+</div>
+</div>
+</div>
+</div><aside class="notes">
+
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<ul>
+<li>We now have the errors for individual points. How could you combine these errors to report a single measure of error for our model?</li>
 </ul>
 
 </div>
@@ -14875,6 +14925,17 @@ Source: Artwork by @allison_horst</p>
 <ul>
 <li>Not out of 1, but instead in units of the target variable (bit harder to interpret)</li>
 </ul>
+
+</div>
+</div>
+</div>
+</div><div class="fragment">
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <table>
 <tr>
 <td>
@@ -14893,7 +14954,24 @@ $$RMSPE = \sqrt{\frac{1}{n}\sum\limits_{i=1}^{n}(y_i - \hat{y_i})^2}$$
 </div>
 </div>
 </div>
-</div></section></section><section><section>
+</div><aside class="notes">
+
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<ul>
+<li>Average because we don't want the number of predictions to impact the overall error.</li>
+<li>Squared diff since error can be positive or egative, could also have used absolute value (different type of metric that is also used)</li>
+</ul>
+
+</div>
+</div>
+</div>
+</div>
+</aside></div></section></section><section><section>
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -14922,7 +15000,7 @@ $$RMSPE = \sqrt{\frac{1}{n}\sum\limits_{i=1}^{n}(y_i - \hat{y_i})^2}$$
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h3 id="Final-model-from-k-nn-regression">Final model from k-nn regression<a class="anchor-link" href="#Final-model-from-k-nn-regression">&#182;</a></h3><p>For this model, RMSPE is 91620.4. How can we interpret this?</p>
+<h3 id="Final-model-from-k-nn-regression">Final model from k-nn regression<a class="anchor-link" href="#Final-model-from-k-nn-regression">&#182;</a></h3><p>For this model, RMSPE is 91,620.4. How can we interpret this?</p>
 <p><img src="https://ubc-dsci.github.io/introduction-to-datascience/_main_files/figure-html/07-predict-all-1.png" width="700"/></p>
 
 </div>
@@ -14937,7 +15015,13 @@ $$RMSPE = \sqrt{\frac{1}{n}\sum\limits_{i=1}^{n}(y_i - \hat{y_i})^2}$$
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <ul>
-<li>Prices tend to be +/- 90000 off that line</li>
+<li>Prices tend to be +/- 90,000 off that line</li>
+<li>Not that great for a house that is predicted to cost e.g 200,000 in total</li>
+<li>What is a good error depends on the application</li>
+<li>We can't compare 90,000 USD of this model to an error in other units from another model<ul>
+<li>Therefore we sometimes report errors as proportions, but we're no getting into that in this course.</li>
+</ul>
+</li>
 </ul>
 
 </div>
@@ -14995,7 +15079,7 @@ $$RMSPE = \sqrt{\frac{1}{n}\sum\limits_{i=1}^{n}(y_i - \hat{y_i})^2}$$
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <ol>
-<li>Train model on whole dataset </li>
+<li>Train model on whole training dataset (not split into folds) </li>
 </ol>
 
 </div>
@@ -15025,7 +15109,8 @@ $$RMSPE = \sqrt{\frac{1}{n}\sum\limits_{i=1}^{n}(y_i - \hat{y_i})^2}$$
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h3 id="How-does-$k$-affect-k-nn-regression?">How does $k$ affect k-nn regression?<a class="anchor-link" href="#How-does-$k$-affect-k-nn-regression?">&#182;</a></h3>
+<h3 id="How-does-$k$-affect-k-nn-regression?">How does $k$ affect k-nn regression?<a class="anchor-link" href="#How-does-$k$-affect-k-nn-regression?">&#182;</a></h3><p><img src="https://ubc-dsci.github.io/introduction-to-datascience/_main_files/figure-html/07-predict-all-1.png" width="600"/></p>
+
 </div>
 </div>
 </div>
