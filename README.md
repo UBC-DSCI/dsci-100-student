@@ -4,10 +4,11 @@
 
 |    Section     |    Date    |     Time      |           Room            |   Instructor    |
 |:--------------:|:----------:|:-------------:|:-------------------------:|:---------------:|
-| DSCI 100 - 001 | Tues/Thurs | 15:30 - 17:00 |       HENNINGS 200        |   Quan Nguyen   |
-| DSCI 100 - 004 | Tues/Thurs | 11:00 - 12.30 |       HENNINGS 200        | Trevor Campbell |
-| DSCI 100 - 008 | Tues/Thurs | 08:00 - 09:30 | West Mall Swing Space 222 |  Joel Ostblom   |
-| DSCI 100 - 009 |  Mon/Wed   | 16:00 - 17:30 |       HENNINGS 200        |   Daniel Chen   |
+| DSCI 100 - 002 | Tues/Thurs | 15:30 - 17:00 |       Leonard S Klinck 201        |   Melissa Lee   |
+| DSCI 100 - 005 | Tues/Thurs | 12:30 - 14:00 |       Hybrid       | Rodolfo Lourenzutti |
+| DSCI 100 - 006 | Tues/Thurs | 16:00 - 17:30 | Hennings 200 |  Lasantha Premarathna   |
+| DSCI 100 - 007 |  Mon/Wed   | 15:00 - 16:30 |       Henning 200        |   Anthony Christidis |
+| DSCI 100 - 100 |  Tues/Thurs   | 12:30 - 14:00 |       Orchard Commons 4074     |   Lindsey Heagy |
 
 ## Course Description
 
@@ -65,7 +66,7 @@ By the end of the course, students will be able to:
 
 | Section |           Position            |      Name       |            Email             | Office Hours | Office Location |
 |---------|:-----------------------------:|:---------------:|:----------------------------:|:------------:|:---------------:|
-| 001     | Instructor/Course coordinator |   Quan Nguyen   |   quan.nguyen[-at-]ubc.ca    | Fridays 11-12      |   Zoom    |
+| All     | Course coordinator |   Julia Peng   |   courses[-at-]stat.ubc.ca    |      |   Zoom    |
 | 004     |          Instructor           | Trevor Campbell |   trevor[-at-]stat.ubc.ca    | Tuesdays 12:30-13:30 |   ESB 4182 |
 | 008     |          Instructor           |  Joel Ostblom   |   joel.ostblom[-at-]ubc.ca   |     Fridays 12-1pm      |   Zoom    |
 | 009     |          Instructor           |   Daniel Chen   | daniel.chen[-at-]stat.ubc.ca |     Mondays 5:30 - 6:30 pm      |   HENN 200    |
