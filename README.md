@@ -8,7 +8,7 @@
 | DSCI 100 - 002 | Tues/Thurs | 15:30 - 17:00 |       Leonard S Klinck 201        |   Melissa Lee   |
 | DSCI 100 - 005 | Tues/Thurs | 12:30 - 14:00 |       Hybrid       | Rodolfo Lourenzutti |
 | DSCI 100 - 006 | Tues/Thurs | 16:00 - 17:30 | Hennings 200 |  Lasantha Premarathna   |
-| DSCI 100 - 007 |  Mon/Wed   | 15:00 - 16:30 |       Henning 200        |   Anthony Christidis |
+| DSCI 100 - 007 |  Mon/Fri   | 15:00 - 16:30 |       Henning 200        |   Anthony Christidis |
 
 ### Python Section 
 
@@ -87,8 +87,8 @@ When sending emails, please include DSCI 100 in the subject line.
 
 ## Assessment
 
--   Quiz 1: (invigilated in-person) Same time & location of week 5's tutorial (Wednesday Feb 8 for section 007, and Thursday Feb 9 for 002, 005, 006, 100)
--   Quiz 2: (invigilated in-person) Same time & location of week 10's lecture (Wednesday Mar 22 for section 007, and Thursday Mar 23 for 002, 005, 006, 100)
+-   Quiz 1: (invigilated in-person) Same time & location of week 5's tutorial (Fri Feb 10 for section 007, and Thursday Feb 9 for 002, 005, 006, 100)
+-   Quiz 2: (invigilated in-person) Same time & location of week 10's lecture (Fri Mar 24 for section 007, and Thursday Mar 23 for 002, 005, 006, 100)
 -   Quiz 3: (invigilated in-person) To be scheduled by Classroom Services
 
 **Note**: Since DSCI 100 is a large course with multiple sections (hence, multiple versions of quizzes), the instructors reserve the rights to scale grades in order to maintain equity among sections according the [UBC campus wide policies and regulations](https://www.calendar.ubc.ca/Vancouver/index.cfm?tree=3,42,96,0).
