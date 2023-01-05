@@ -2,12 +2,18 @@
 
 ## Time and Place
 
+### R Sections
 |    Section     |    Date    |     Time      |           Room            |   Instructor    |
 |:--------------:|:----------:|:-------------:|:-------------------------:|:---------------:|
 | DSCI 100 - 002 | Tues/Thurs | 15:30 - 17:00 |       Leonard S Klinck 201        |   Melissa Lee   |
 | DSCI 100 - 005 | Tues/Thurs | 12:30 - 14:00 |       Hybrid       | Rodolfo Lourenzutti |
 | DSCI 100 - 006 | Tues/Thurs | 16:00 - 17:30 | Hennings 200 |  Lasantha Premarathna   |
 | DSCI 100 - 007 |  Mon/Wed   | 15:00 - 16:30 |       Henning 200        |   Anthony Christidis |
+
+### Python Section 
+
+|    Section     |    Date    |     Time      |           Room            |   Instructor    |
+|:--------------:|:----------:|:-------------:|:-------------------------:|:---------------:|
 | DSCI 100 - 100 |  Tues/Thurs   | 12:30 - 14:00 |       Orchard Commons 4074     |   Lindsey Heagy |
 
 ## Course Description
@@ -64,39 +70,25 @@ By the end of the course, students will be able to:
 
 *Note that your TAs are students too; they may have class right before their office hours, and they may run a few minutes late. Please be patient!*
 
-| Section |           Position            |      Name       |            Email             | Office Hours | Office Location |
+| Section |           Position            |      Name       |            Email             | Office Hours | Office Hour Location |
 |---------|:-----------------------------:|:---------------:|:----------------------------:|:------------:|:---------------:|
-| All     | Course coordinator |   Julia Peng   |   courses[-at-]stat.ubc.ca    |      |   Zoom    |
-| 004     |          Instructor           | Trevor Campbell |   trevor[-at-]stat.ubc.ca    | Tuesdays 12:30-13:30 |   ESB 4182 |
-| 008     |          Instructor           |  Joel Ostblom   |   joel.ostblom[-at-]ubc.ca   |     Fridays 12-1pm      |   Zoom    |
-| 009     |          Instructor           |   Daniel Chen   | daniel.chen[-at-]stat.ubc.ca |     Mondays 5:30 - 6:30 pm      |   HENN 200    |
-|         |                               |                 |                              |              |                 |
-| 001     |          TA                   |  Eros Rojas           |             n/a              |  Wednesday 3-4pm | Zoom |
-| 001     |          TA                   |  Anthony Huang        |             n/a              | Tuesday 2-3pm | ICCS 146  |
-| 001     |          TA                   |  Atabak Eghbal        |             n/a              | Friday 6-7pm| Zoom   |
-| 001     |          TA                   |  Tony Liang           |             n/a              |  Tuesday 5-6pm| Zoom   |
-| 004     |          TA                   |  Moira Renata         |             n/a              |  Wednesday 11-12am |Zoom |
-| 004     |          TA                   |  Ding Ma              |             n/a              |  Tuesday 4-5pm|Zoom  |
-| 004     |          TA                   |  Ali Mehrabian        |             n/a              |  Friday 2-3pm | Zoom   |
-| 004     |          TA                   |  Nour Hanafi          |             n/a              |  Thursday 4-5pm| ICCS 104   |
-| 008     |          TA                   |  Fares Burwag         |             n/a              | Monday 12-1pm |  Zoom |
-| 008     |          TA                   |  Shruti V. Seetharam  |             n/a              |  Monday 2-3pm |Zoom     |
-| 008     |          TA                   |  Richard Yang         |             n/a              |  Wednesday 8-9 am |Zoom       |
-| 008     |          TA                   |  Angelique Clara Hanzell         |             n/a              | Friday 5-6pm |ICCS X139 |
-| 009     |          TA                   |  Eric Li              |             n/a              |  Thursday 6-7pm | Zoom   |
-| 009     |          TA                   |  Izzy Zhang           |             n/a              | Tuesday 11-12pm | ESB 1043    |
-| 009     |          TA                   |  Hannah Martin        |             n/a              | Wednesday 5:30-6:30pm| ICICS lab room 011      |
-| 009     |          TA                   |  Alex Bastin        |             n/a              | Wednesday 6-7pm  | Zoom   |
-| 009     |          TA                   |  Kaylee Li        |             n/a              | Thursday 1-2pm | ICCS 104 |
+| All     | Course coordinator            |   Julia Peng    |   courses[-at-]stat.ubc.ca    |             |                 |
+| 002     |          Instructor           | Melissa Lee     | melissa.lee[-at-]stat.ubc.ca  | Tuesdays 5 - 6 PM | LSK 201   |
+| 005     |          Instructor           | Rodolfo Lourenzutti |   lourenzutti[-at-]ubc.ca  |      TBA    |   TBA    |
+| 006     |          Instructor           | Lasantha Premarathna | wpremara[-at-]stat.ubc.ca |           |       |
+| 007     |          Instructor           | Anthony Christidis   | anthony.christidis[-at-]stat.ubc.ca    |              |                 |
+| 100     |          Instructor           | Lindsey Heagy   | lindsey.heagy[-at-]ubc.ca    |              |                 |
+| All     |          TA                   |  TBA         |             n/a              |  TBA | TBA |
 
-**Please contact the course coordinator, Quan Nguyen, about any administrative questions. Please read the course policy (e.g., late registration, missing quiz/assignment due to sickness) below before contacting**.
+
+**Please contact the course coordinator about any administrative questions. Please read the course policy (e.g., late registration, missing quiz/assignment due to sickness) below before contacting**.
 
 When sending emails, please include DSCI 100 in the subject line.
 
 ## Assessment
 
--   Quiz 1: (invigilated in-person) Same time & location of week 5's tutorial (Wednesday Oct 5 for section 009, and Thursday Oct 6 for 001, 004, 008)
--   Quiz 2: (invigilated in-person) Same time & location of week 10's lecture (Monday Nov 7 for section 009, and Tuesday Nov 8 for 001, 004, 008)
+-   Quiz 1: (invigilated in-person) Same time & location of week 5's tutorial (Wednesday Feb 8 for section 007, and Thursday Feb 9 for 002, 005, 006, 100)
+-   Quiz 2: (invigilated in-person) Same time & location of week 10's lecture (Wednesday Mar 22 for section 007, and Thursday Mar 23 for 002, 005, 006, 100)
 -   Quiz 3: (invigilated in-person) To be scheduled by Classroom Services
 
 **Note**: Since DSCI 100 is a large course with multiple sections (hence, multiple versions of quizzes), the instructors reserve the rights to scale grades in order to maintain equity among sections according the [UBC campus wide policies and regulations](https://www.calendar.ubc.ca/Vancouver/index.cfm?tree=3,42,96,0).
@@ -132,10 +124,7 @@ In each class (lecture and tutorial) there will be an assignment:
 
 <!-- Note: viewing this part with no soft wrapping is more manageable -->
 
-Notes:  
 
-- All sections in week 1 will have both lecture + tutorial on the same day because Monday Sep 5th is Labor Day and Tuesday Sep 6th is UBC Imagine Day
-- Section 009 in week 6 will have both lecture + tutorial on the same day because Monday, Oct 10 is Thanksgiving
 
 | Week | Topic                                            | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |------|--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
