@@ -181,8 +181,6 @@ Note if you received 0 on an assignment when you shouldn't have, please contact 
 
 Students are responsible for using a device and browser compatible with all functionality of Canvas. Chrome or Firefox browsers are recommended; Safari has had issues with Canvas quizzes in the past.
 
-While classes are remote due to the ongoing pandemic, students are responsible to have a stable internet connection and a functioning webcam and microphone. Absence of any of these will not be considered a valid reason not to take a quiz/exam or submit an assignment on time.
-
 ### Missed Final Exam
 
 Students who miss the final quiz must report to their faculty advising office within 72 hours of the missed exam, and must supply supporting documentation. Only your faculty advising office can grant deferred standing in a course. You must also notify your instructor prior to (if possible) or immediately after the exam. Your instructor will let you know when you are expected to write your deferred exam. Deferred exams will ONLY be provided to students who have applied for and received deferred standing from their faculty.
