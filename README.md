@@ -155,11 +155,11 @@ Students who register for the class late have 1 week from their registration dat
 
 ### Late Assignments / Quiz Absence
 
-Students **must be present** at the invigilation venue (in class, on Zoom, examination centre, etc) to take quizzes; otherwise they will be considered to have missed the quiz and will be assigned a grade of zero.
+Students **must be present** at the invigilation venue (in class, examination centre, etc) to take quizzes; otherwise they will be considered to have missed the quiz and will be assigned a grade of zero.
 
 Students who will miss a quiz **must provide a self-declaration of academic concession prior to the quiz** (see Canvas homepage for the academic concession form) and make arrangements with the Instructor. Failing to present a declaration within a reasonable timeframe before the quiz will result in a grade of zero.
 
-There will be **no extensions for the lecture and tutorial worksheets**; late assignments will receive a grade of zero. Instead, we will drop the lowest grade on tutorials and worksheets for the semester.
+There will be **no extensions for the lecture and tutorial worksheets**; late assignments will receive a grade of zero. Instead, we will drop the lowest grade on tutorials and worksheets for the semester. However, if you have extenuating circumstances and require further accommodations, please contact the course coordinator. 
 
 For all other assignments and the course project, a **late submission will receive a 50% penalty**.
 
