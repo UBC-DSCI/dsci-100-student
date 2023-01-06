@@ -77,7 +77,7 @@ By the end of the course, students will be able to:
 | 005     |          Instructor           | Rodolfo Lourenzutti |   lourenzutti[-at-]ubc.ca  |      TBA    |   TBA    |
 | 006     |          Instructor           | Lasantha Premarathna | wpremara[-at-]stat.ubc.ca |           |       |
 | 007     |          Instructor           | Anthony Christidis   | anthony.christidis[-at-]stat.ubc.ca    |              |                 |
-| 100     |          Instructor           | Lindsey Heagy   | lindsey.heagy[-at-]ubc.ca    |              |                 |
+| 100     |    Instructor (Python)        | Lindsey Heagy   | lindsey.heagy[-at-]ubc.ca    |   Tuesdays 2-3 PM |  Zoom        |
 | All     |          TA                   |  TBA         |             n/a              |  TBA | TBA |
 
 
