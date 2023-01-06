@@ -10,11 +10,6 @@
 | DSCI 100 - 006 | Tues/Thurs | 16:00 - 17:30 | Hennings 200 |  Lasantha Premarathna   |
 | DSCI 100 - 007 |  Mon/Fri   | 15:00 - 16:30 |       Henning 200        |   Anthony Christidis |
 
-### Python Section 
-
-|    Section     |    Date    |     Time      |           Room            |   Instructor    |
-|:--------------:|:----------:|:-------------:|:-------------------------:|:---------------:|
-| DSCI 100 - 100 |  Tues/Thurs   | 12:30 - 14:00 |       Orchard Commons 4074     |   Lindsey Heagy |
 
 ## Course Description
 
@@ -77,7 +72,6 @@ By the end of the course, students will be able to:
 | 005     |          Instructor           | Rodolfo Lourenzutti |   lourenzutti[-at-]ubc.ca  |      TBA    |   TBA    |
 | 006     |          Instructor           | Lasantha Premarathna | wpremara[-at-]stat.ubc.ca |           |       |
 | 007     |          Instructor           | Anthony Christidis   | anthony.christidis[-at-]stat.ubc.ca    |  Mondays 6 - 7 PM            |   Zoom              |
-| 100     |          Instructor           | Lindsey Heagy   | lindsey.heagy[-at-]ubc.ca    |              |                 |
 | All     |          TA                   |  TBA         |             n/a              |  TBA | TBA |
 
 
