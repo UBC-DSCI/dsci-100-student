@@ -76,7 +76,7 @@ By the end of the course, students will be able to:
 | 002     |          Instructor           | Melissa Lee     | melissa.lee[-at-]stat.ubc.ca  | Tuesdays 5 - 6 PM | LSK 201   |
 | 005     |          Instructor           | Rodolfo Lourenzutti |   lourenzutti[-at-]ubc.ca  |      TBA    |   TBA    |
 | 006     |          Instructor           | Lasantha Premarathna | wpremara[-at-]stat.ubc.ca |           |       |
-| 007     |          Instructor           | Anthony Christidis   | anthony.christidis[-at-]stat.ubc.ca    |              |                 |
+| 007     |          Instructor           | Anthony Christidis   | anthony.christidis[-at-]stat.ubc.ca    |  Mondays 6 - 7 PM            |   Zoom              |
 | 100     |          Instructor           | Lindsey Heagy   | lindsey.heagy[-at-]ubc.ca    |              |                 |
 | All     |          TA                   |  TBA         |             n/a              |  TBA | TBA |
 
