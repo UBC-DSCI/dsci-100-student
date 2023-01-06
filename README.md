@@ -69,7 +69,7 @@ By the end of the course, students will be able to:
 |---------|:-----------------------------:|:---------------:|:----------------------------:|:------------:|:---------------:|
 | All     | Course coordinator            |   Julia Peng    |   courses[-at-]stat.ubc.ca    |     n/a        |     n/a            |
 | 002     |          Instructor           | Melissa Lee     | melissa.lee[-at-]stat.ubc.ca  | Tuesdays 5 - 6 PM | LSK 201   |
-| 005     |          Instructor           | Rodolfo Lourenzutti |   lourenzutti[-at-]ubc.ca  |      TBA    |   TBA    |
+| 005     |          Instructor           | Rodolfo Lourenzutti |   lourenzutti[-at-]ubc.ca  |      Wednesdays 1 - 2 PM    |   Zoom    |
 | 006     |          Instructor           | Lasantha Premarathna | wpremara[-at-]stat.ubc.ca |    Wednesdays 10 - 11 AM       |   ESB 3172    |
 | 007     |          Instructor           | Anthony Christidis   | anthony.christidis[-at-]stat.ubc.ca    |  Mondays 6 - 7 PM            |   Zoom              |
 | All     |          TA                   |  TBA         |             n/a              |  TBA | TBA |
