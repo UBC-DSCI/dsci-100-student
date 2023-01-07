@@ -1,12 +1,26 @@
 <!DOCTYPE html>
 <html>
 <head><meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
 
-<title>01_intro_jupyter_py</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 
 
+<title>01_intro_jupyter_py slides</title><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 
+<!-- General and theme style sheets -->
+<link rel="stylesheet" href="https://unpkg.com/reveal.js@4.0.2/dist/reveal.css">
+
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+}
+</script>
 
 <style type="text/css">
     pre { line-height: 125%; }
@@ -14455,103 +14469,145 @@ all of MD as it is not optimized for dense, information rich UIs.
 </style>
 
 <style type="text/css">
-/* Force rendering true colors when outputing to pdf */
-* {
-  -webkit-print-color-adjust: exact;
-}
-
-/* Misc */
 a.anchor-link {
-  display: none;
+   display: none;
+}
+.highlight  {
+    margin: 0.4em;
+}
+.jp-Notebook {
+    padding: 0;
+}
+:root {
+    --jp-ui-font-size1: 20px;       /* instead of 14px */
+    --jp-content-font-size1: 20px;  /* instead of 14px */
+    --jp-code-font-size: 19px;      /* instead of 13px */
+    --jp-cell-prompt-width: 110px;  /* instead of 64px */
+}
+@media print {
+  body {
+    margin: 0;
+  }
+}
+</style>
+
+<style type="text/css">
+/* Overrides of notebook CSS for static HTML export */
+.reveal {
+  font-size: 160%;
+}
+.reveal table {
+  font-size: var(--jp-ui-font-size1);
+}
+.reveal pre {
+  width: inherit;
+  padding: 0.4em;
+  margin: 0px;
+  font-family: monospace, sans-serif;
+  font-size: 80%;
+  box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
+}
+.reveal pre code {
+  padding: 0px;
+}
+.reveal section img {
+  border: 0px solid black;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0);
+}
+.reveal .slides {
+  text-align: left;
+}
+.reveal.fade {
+  opacity: 1;
+}
+.reveal .progress {
+  position: static;
 }
 
-/* Input area styling */
-.jp-InputArea {
-  overflow: hidden;
+div.jp-InputArea-editor {
+  padding: 0.06em;
 }
 
-.jp-InputArea-editor {
-  overflow: hidden;
+div.code_cell {
+  background-color: transparent;
 }
 
-.CodeMirror.cm-s-jupyter .highlight pre {
-/* weird, but --jp-code-padding defined to be 5px but 4px horizontal padding is hardcoded for pre.CodeMirror-line */
-  padding: var(--jp-code-padding) 4px;
+div.output_area pre {
+  font-family: monospace, sans-serif;
+  font-size: 80%;
+}
+
+div.jp-OutputPrompt {
+  /* 5px right shift to account for margin in parent container */
+  margin: 5px 5px 0 0;
+}
+
+.reveal div.highlight {
   margin: 0;
-
-  font-family: inherit;
-  font-size: inherit;
-  line-height: inherit;
-  color: inherit;
-
 }
 
-.jp-OutputArea-output pre {
-  line-height: inherit;
-  font-family: inherit;
-}
-
-.jp-RenderedText pre {
-  color: var(--jp-content-font-color1);
+.reveal div.highlight > pre {
+  margin: 0;
+  width: 100%;
   font-size: var(--jp-code-font-size);
 }
 
-/* Using table instead of flexbox so that we can use break-inside property */
-/* CSS rules under this comment should not be required anymore after we move to the JupyterLab 4.0 CSS */
-
-
-.jp-CodeCell.jp-mod-outputsScrolled .jp-OutputArea-prompt {
-  min-width: calc(
-    var(--jp-cell-prompt-width) - var(--jp-private-cell-scrolling-output-offset)
-  );
+.reveal div.jp-OutputArea-output > pre {
+  margin: 0;
+  width: 90%;
+  font-size: var(--jp-code-font-size);
+  box-shadow: none;
 }
 
-.jp-OutputArea-child {
-  display: table;
-  width: 100%;
+/* Reveal navigation controls */
+
+.reveal .controls .navigate-left,
+.reveal .controls .navigate-left.enabled {
+  border-right-color: #727272;
+}
+.reveal .controls .navigate-left.enabled:hover,
+.reveal .controls .navigate-left.enabled.enabled:hover {
+  border-right-color: #dfdfdf;
+}
+.reveal .controls .navigate-right,
+.reveal .controls .navigate-right.enabled {
+  border-left-color: #727272;
+}
+.reveal .controls .navigate-right.enabled:hover,
+.reveal .controls .navigate-right.enabled.enabled:hover {
+  border-left-color: #dfdfdf;
+}
+.reveal .controls .navigate-up,
+.reveal .controls .navigate-up.enabled {
+  border-bottom-color: #727272;
+}
+.reveal .controls .navigate-up.enabled:hover,
+.reveal .controls .navigate-up.enabled.enabled:hover {
+  border-bottom-color: #dfdfdf;
+}
+.reveal .controls .navigate-down,
+.reveal .controls .navigate-down.enabled {
+  border-top-color: #727272;
+}
+.reveal .controls .navigate-down.enabled:hover,
+.reveal .controls .navigate-down.enabled.enabled:hover {
+  border-top-color: #dfdfdf;
+}
+.reveal .progress span {
+  background: #727272;
 }
 
-.jp-OutputPrompt {
-  display: table-cell;
-  vertical-align: top;
-  min-width: var(--jp-cell-prompt-width);
+/* Scrollbars */
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
 }
-
-body[data-format='mobile'] .jp-OutputPrompt {
-  display: table-row;
+::-webkit-scrollbar * {
+  background: transparent;
 }
-
-.jp-OutputArea-output {
-  display: table-cell;
-  width: 100%;
-}
-
-body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
-  display: table-row;
-}
-
-.jp-OutputArea-output.jp-OutputArea-executeResult {
-  width: 100%;
-}
-
-/* Hiding the collapser by default */
-.jp-Collapser {
-  display: none;
-}
-
-@page {
-    margin: 0.5in; /* Margin for each printed piece of paper */
-}
-
-@media print {
-  .jp-Cell-inputWrapper,
-  .jp-Cell-outputWrapper {
-    display: block;
-  }
-
-  .jp-OutputArea-child {
-    break-inside: avoid-page;
-  }
+::-webkit-scrollbar-thumb {
+  background: #727272 !important;
 }
 </style>
 
@@ -14588,9 +14644,15 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
     }
     init_mathjax();
     </script>
-    <!-- End of mathjax configuration --></head>
+    <!-- End of mathjax configuration --><!-- Reveal Theme -->
+<link rel="stylesheet" href="https://unpkg.com/reveal.js@4.0.2/dist/theme/simple.css" id="theme">
+
+</head>
+
 <body class="jp-Notebook" data-jp-theme-light="true" data-jp-theme-name="JupyterLab Light">
 
+<div class="reveal">
+<div class="slides"><section ><section >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -14603,7 +14665,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
+</div></section></section><section ><section >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -14634,28 +14696,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Some-housekeeping-(Online)">Some housekeeping (Online)<a class="anchor-link" href="#Some-housekeeping-(Online)">&#182;</a></h2><ul>
-<li>Please stay muted except when speaking to reduce the background noise for other students</li>
-<li>Have Questions?:<ul>
-<li>ask it in the chat and a TA will respond</li>
-<li>raise your hand (click &quot;Participants&quot;, then click &quot;Raise Hand.&quot;) and I'll call you to unmute and speak</li>
-</ul>
-</li>
-<li>Please note the session will be recorded and posted on Canvas</li>
-<li>Please ensure your audio and video works once you join the room</li>
-</ul>
-
-</div>
-</div>
-</div>
-</div>
+</div></section></section><section ><section >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -14671,7 +14712,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
+</div><div class="fragment" >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -14692,7 +14733,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
+</div></div></section></section><section ><section >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -14721,38 +14762,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h1 id="Getting-started-with-Zoom">Getting started with Zoom<a class="anchor-link" href="#Getting-started-with-Zoom">&#182;</a></h1><ol>
-<li>Move your cursor to the top of the screen and click on View Options</li>
-</ol>
- <img src = "img/zoom_view_options.png" width = 50%>
-2. Click on Annotate 
-<img src = "img/zoom_annotate.png" width = 35%>
-3. Annotation tools should appear.
-<img src = "img/zoom_toolbar.png" width = 100%>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h1 id="How-do-you-currently-feel-about-this-upcoming-semester?">How do you currently feel about this upcoming semester?<a class="anchor-link" href="#How-do-you-currently-feel-about-this-upcoming-semester?">&#182;</a></h1><h4 id="Put-a-stamp-icon-on-the-line-to-indicate-how-you're-feeling">Put a stamp icon on the line to indicate how you're feeling<a class="anchor-link" href="#Put-a-stamp-icon-on-the-line-to-indicate-how-you're-feeling">&#182;</a></h4><img src = "img/cat_feeling.png">
-
-</div>
-</div>
-</div>
-</div>
+</div></section></section><section ><section >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -14764,7 +14774,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
+</div><div class="fragment" >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -14776,7 +14786,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
+</div></div><div class="fragment" >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -14787,7 +14797,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
+</div></div><div class="fragment" >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -14801,7 +14811,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
+</div></div><div class="fragment" >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -14815,7 +14825,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
+</div></div></section></section><section ><section >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -14826,7 +14836,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
+</div><div class="fragment" >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -14840,7 +14850,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
+</div></div><div class="fragment" >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -14854,7 +14864,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
+</div></div><div class="fragment" >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -14868,7 +14878,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
+</div></div><div class="fragment" >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -14882,7 +14892,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
+</div></div></section></section><section ><section >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -14895,7 +14905,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
+</div><div class="fragment" >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -14909,7 +14919,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
+</div></div></section></section><section ><section >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -14937,7 +14947,8 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
+</div><aside class="notes">
+
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -14968,6 +14979,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
+</aside></section></section><section ><section >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -14987,7 +14999,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
+</div></section></section><section ><section >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -15006,7 +15018,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
+</div></section></section><section ><section >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -15017,7 +15029,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
+</div><div class="fragment" >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -15031,7 +15043,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
+</div></div><div class="fragment" >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -15045,7 +15057,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
+</div></div><div class="fragment" >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -15059,7 +15071,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
+</div></div></section></section><section ><section >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -15071,7 +15083,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
+</div><div class="fragment" >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -15083,7 +15095,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
+</div></div></section></section><section ><section >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -15097,7 +15109,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
+</div><div class="fragment" >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -15114,31 +15126,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Group-work">Group work<a class="anchor-link" href="#Group-work">&#182;</a></h2><ul>
-<li>Go to your breakout room groups and work together on the worksheet!</li>
-<li>Discuss with your neighbours, the TAs &amp; Instructors, and consult <a href="https://ubc-dsci.github.io/introduction-to-datascience/">the textbook reading</a> to help you get unstuck when needed!</li>
-<li>You can &quot;share screen&quot; with each other to code/ask each other questions and &quot;ask for help&quot; to ask me or the TAs questions while in the breakout rooms!</li>
-</ul>
-<h3 id="Group-Roles">Group Roles<a class="anchor-link" href="#Group-Roles">&#182;</a></h3><p><strong>How long was your commute for class?</strong></p>
-<p>Assign the following roles based on who had the longest commute:</p>
-<ol>
-<li><strong>Facilitator</strong> (longest commute): Keeps group on task and verifies that all contribute.</li>
-<li><strong>Recorder/Screen sharer</strong>: Takes notes on important thoughts expressed in the group. Writes down any questions the group has for the TA or instructor. If TA/instructor joins your group, recorder asks the TA/instructor your question(s). Shares screen with group.</li>
-<li><strong>Time Keeper/Reporter</strong>: Keeps track of time and reminds group how much time is left. Shares summary of group with large group. Speaks for the group, not just personal view.</li>
-<li><strong>Editor</strong>  (shortest commute): Checks for accuracy and clarity of thinking during discussions. Checks written work and tracks points.</li>
-</ol>
-
-</div>
-</div>
-</div>
-</div>
+</div></div></section></section><section ><section >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -15156,7 +15144,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
+</div></section></section><section ><section >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -15172,7 +15160,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 </div>
 </div>
-</div>
+</div></section></section><section ><section >
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
@@ -15180,176 +15168,6 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <h2 id="Academic-Skills-Certificates">Academic Skills Certificates<a class="anchor-link" href="#Academic-Skills-Certificates">&#182;</a></h2><p><img src="img/promotion_slide.jpg" alt="" /></p>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h1 id="Active-listening-online">Active listening online<a class="anchor-link" href="#Active-listening-online">&#182;</a></h1>
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<ul>
-<li>Active listening behaviours are important to having a good conversation on Zoom.</li>
-</ul>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<ul>
-<li>Without active listening the speaker is left wondering if anyone is actually on the call (has everyone run off to get a coffee??) or whether their microphone has stopped working.</li>
-</ul>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Video-and-audio">Video and audio<a class="anchor-link" href="#Video-and-audio">&#182;</a></h2><p>If you have access to both video and audio on Zoom (either by technical availability, or choosing to turn on your camera), below are ways you can perform active listening on Zoom to cue to someone you are speaking with that they can hear you.</p>
-<ul>
-<li>In large groups, where the gallery view may take &gt; 1 page on Zoom, or when the speaker is screen sharing, nodding of your head and the thumbs up 👍 and 👏 reactions on Zoom are likely to be missed by the speaker.<ul>
-<li>selecting the thumbs up 👍 or clapping 👏 icon from the <strong>participant panel</strong> is the preferred way of demonstrating that you are following along. <em>Be sure to clear them when you are done expressing your active listening because these emoji's these remain present until you (or the meeting host) clears them.</em></li>
-</ul>
-</li>
-</ul>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<ul>
-<li>In small groups,<ul>
-<li>body language that is viewable via your camera is one way to signal to others that you are listening (similar to a face-to-face conversation) e.g. looking at the camera, nodding when you agree</li>
-<li>using the thumbs up 👍 or clapping 👏 reaction on Zoom is another way to signal that you are listening. You can use this in place of nodding if you prefer, or to provide emphasis on top of nodding.</li>
-</ul>
-</li>
-</ul>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Audio-only">Audio only<a class="anchor-link" href="#Audio-only">&#182;</a></h2><p>If you only have access to audio on Zoom (either by technical availability, or by choosing to not turn on your camera), below are ways you can perform active listening on Zoom to cue to someone you are speaking with that they can hear you.</p>
-<ul>
-<li>In large groups,<ul>
-<li>selecting the thumbs up 👍 or clapping 👏 icon from the participant panel is the preferred way of demonstrating that you are following along. <em>Be sure to clear them when you are done expressing your active listening because these emoji's these remain present until you (or the meeting host) clears them.</em></li>
-</ul>
-</li>
-</ul>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<ul>
-<li>In small groups,<ul>
-<li>unmute yourself and treat the call like a phone call, inserting verbal nods (e.g., “Uh-huh”, &quot;I see&quot;, &quot;Please go on&quot;) where appropriate.</li>
-<li>using the thumbs up 👍 or clapping 👏 reaction on Zoom is one way to signal that you are listening. You can use this in place of nodding if you prefer, or to provide emphasis on top of nodding.</li>
-</ul>
-</li>
-</ul>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Activity-1-(video-&amp;-audio):-Large-group">Activity 1 (video &amp; audio): Large group<a class="anchor-link" href="#Activity-1-(video-&amp;-audio):-Large-group">&#182;</a></h2><p>Cameras on if you can. As I tell this story, practice using the <strong>participants panel</strong> thumbs up 👍 or clapping 👏 icons to listen actively. I will be paying attention to that panel.</p>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Activity-1-(video-&amp;-audio):-Small-groups">Activity 1 (video &amp; audio): Small groups<a class="anchor-link" href="#Activity-1-(video-&amp;-audio):-Small-groups">&#182;</a></h2><p>Cameras on if you can. 
-In your small breakout rooms, when you enter the room, please go into gallery mode.</p>
-<p>Each of you can take turns speaking:</p>
-<ul>
-<li>Speaker: Introduce yourself. Tell your story of why you decided to enrol in DSCI100 (~ 1 minute each).</li>
-<li>Listeners: practice active listening using either body language that is viewable in the camera, or the thumbs up 👍 and 👏 reactions on Zoom.</li>
-</ul>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Activity-2-(audio-only):-Large-group">Activity 2 (audio only): Large group<a class="anchor-link" href="#Activity-2-(audio-only):-Large-group">&#182;</a></h2><p><strong>Cameras off now!</strong> In this large meeting, I am going to tell a little story about why I use version control and ask you a few questions as I do so. As I tell this talk, practice using the participants panel thumbs up 👍 or clapping 👏 icons to listen actively and/or answer questions. I will be paying attention to that panel.</p>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Activity-2-(audio-only):-Small-groups">Activity 2 (audio only): Small groups<a class="anchor-link" href="#Activity-2-(audio-only):-Small-groups">&#182;</a></h2><p><strong>Cameras off now!</strong> 
-In your breakout rooms, each of can take turns speaking:</p>
-<ul>
-<li>Speaker: tell your story of what you are most excited to learn in DSCI100 (~ 1 minute each).</li>
-<li>Listeners: The others in the room should practice active listening using either by unmuting and providing verbal nods, or the thumbs up 👍 and 👏 reactions on Zoom. We encourage you to try both in this activity!</li>
-</ul>
 
 </div>
 </div>
@@ -15370,6 +15188,8 @@ In your breakout rooms, each of can take turns speaking:</p>
 </div>
 </div>
 
+</div></section></section>
+</div>
 </div>
 </body>
 
@@ -15378,5 +15198,56 @@ In your breakout rooms, each of can take turns speaking:</p>
 
 
 
+
+<script>
+require(
+    {
+      // it makes sense to wait a little bit when you are loading
+      // reveal from a cdn in a slow connection environment
+      waitSeconds: 15
+    },
+    [
+      "https://unpkg.com/reveal.js@4.0.2/dist/reveal.js",
+      "https://unpkg.com/reveal.js@4.0.2/plugin/notes/notes.js"
+    ],
+
+    function(Reveal, RevealNotes){
+        // Full list of configuration options available here: https://github.com/hakimel/reveal.js#configuration
+        Reveal.initialize({
+            controls: true,
+            progress: true,
+            history: true,
+            transition: "slide",
+            slideNumber: "",
+            plugins: [RevealNotes]
+        });
+
+        var update = function(event){
+          if(MathJax.Hub.getAllJax(Reveal.getCurrentSlide())){
+            MathJax.Hub.Rerender(Reveal.getCurrentSlide());
+          }
+        };
+
+        Reveal.addEventListener('slidechanged', update);
+
+        function setScrollingSlide() {
+            var scroll = false
+            if (scroll === true) {
+              var h = $('.reveal').height() * 0.95;
+              $('section.present').find('section')
+                .filter(function() {
+                  return $(this).height() > h;
+                })
+                .css('height', 'calc(95vh)')
+                .css('overflow-y', 'scroll')
+                .css('margin-top', '20px');
+            }
+        }
+
+        // check and set the scrolling slide every time the slide change
+        Reveal.addEventListener('slidechanged', setScrollingSlide);
+    }
+);
+</script>
 
 </html>
