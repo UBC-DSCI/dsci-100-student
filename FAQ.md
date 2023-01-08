@@ -1,12 +1,3 @@
-# What if my travel to Vancouver is delayed?
-
-**If you will be late by a few weeks:** don't panic! There will be
-recordings of a previous section of the lectures on the Canvas page, and all of your coursework will
-be completed on our course server electronically, so you won't miss anything.
-
-**If you will be absent beyond the add/drop date, please contact your instructor.**
-You are required to be present in Vancouver for this course. We hold our quizzes in-person, and attendance is mandatory. If you have concerns, contact science advising and talk to them about your options.
-
 # What if I get sick during the semester?
 
 Please follow the [UBC CAMPUS RULES & GUIDANCE DOCUMENTS](https://srs.ubc.ca/covid-19/ubc-campus-rules-guidance-documents/) and the [BC CDC's guideline](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/if-you-have-covid-19) for self-isolation policy
