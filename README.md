@@ -69,10 +69,20 @@ By the end of the course, students will be able to:
 |---------|:-----------------------------:|:---------------:|:----------------------------:|:------------:|:---------------:|
 | All     | Course coordinator            |   Julia Peng    |   courses[-at-]stat.ubc.ca    |     n/a        |     n/a            |
 | 002     |          Instructor           | Melissa Lee     | melissa.lee[-at-]stat.ubc.ca  | Tuesdays 5 - 6 PM | LSK 201   |
-| 005     |          Instructor           | Rodolfo Lourenzutti |   lourenzutti[-at-]stat.ubc.ca  |      Wednesdays 1 - 2 PM    |   Zoom    |
+| 005     |          Instructor           | Rodolfo Lourenzutti |   lourenzutti[-at-]ubc.ca  |      Wednesdays 1 - 2 PM    |   Zoom    |
 | 006     |          Instructor           | Lasantha Premarathna | wpremara[-at-]stat.ubc.ca |    Wednesdays 10 - 11 AM       |   ESB 3174    |
 | 007     |          Instructor           | Anthony Christidis   | anthony.christidis[-at-]stat.ubc.ca    |  Mondays 6 - 7 PM            |   Zoom              |
-| All     |          TA                   |  TBA         |             n/a              |  TBA | TBA |
+| All     |          TA                   |  Moira Renata         |             n/a              | Fridays 2 - 3 PM  | Zoom |
+| All     |          TA                   |  Eric Li         |             n/a              | Thursdays 6 - 7 PM  | Zoom |
+| All     |          TA                   |  Abhinav Kansal         |             n/a              |Tuesdsay 5:30 - 6:30 PM  | ESB 1045 |
+| All     |          TA                   |  Samuel Leung         |             n/a              | Thursday 11 - 12 PM  | ESB 1041 |
+| All     |          TA                   |  Mahsa Zarei        |             n/a              | Mondays 7 - 8 PM  | Zoom |
+| All     |          TA                   |  Anthony Huang         |             n/a              | Mondays 2 - 3 PM  | ESB 1045 |
+| All     |          TA                   |  Shiyu(Evelyn) Jiang          |             n/a              | Mondays 1 - 2 PM  | Zoom |
+| All     |          TA                   |  Ding Ma         |             n/a              | Fridays 7 - 8 PM | Zoom |
+| All     |          TA                   |  Nour  Hanafi      |             n/a              | Wednesdays 12 - 1 PM | ESB 1045 |
+| All     |          TA                   |  Fares Burwag         |             n/a              | Fridays 6-7 PM | Zoom |
+| All     |          TA                   |  Edward Sobczak         |           n/a         | Wednesdays 6-7 PM  | Zoom |
 
 
 **Please contact the course coordinator about any administrative questions. Please read the course policy (e.g., late registration, missing quiz/assignment due to sickness) below before contacting**.
