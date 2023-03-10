@@ -83,6 +83,7 @@ By the end of the course, students will be able to:
 | All     |          TA                   |  Nour  Hanafi      |             n/a              | Wednesdays 12 - 1 PM | ESB 1045 |
 | All     |          TA                   |  Fares Burwag         |             n/a              | Fridays 6-7 PM | Zoom |
 | All     |          TA                   |  Edward Sobczak         |           n/a         | Wednesdays 6-7 PM  | Zoom |
+| All     |          TA                   |  Ali Mehrabian         |           n/a         | Thursdays 4-5 PM  | Zoom |
 
 
 **Please contact the course coordinator about any administrative questions. Please read the course policy (e.g., late registration, missing quiz/assignment due to sickness) below before contacting**.
