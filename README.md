@@ -68,7 +68,7 @@ By the end of the course, students will be able to:
 | Section |      Position      |         Name        |             Email            |       Office Hours      | Office Hour Location |
 | ------- | :----------------: | :-----------------: | :--------------------------: | :---------------------: | :------------------: |
 | All     | Course coordinator |      Julia Peng     |   courses[-at-]stat.ubc.ca   |           n/a           |          n/a         |
-| 002     |     Instructor     |     Daniel Chen     | Daniel Chen[-at-]stat.ubc.ca |  Tuesdays 13:30 - 14:30 |       HENN 200       |
+| 002     |     Instructor     |     Daniel Chen     | daniel.chen[-at-]stat.ubc.ca |  Tuesdays 13:30 - 14:30 |       HENN 200       |
 | 005     |     Instructor     |      Maggie Liu     |  yitong.liu[-at-]stat.ubc.ca |  Tuesdays 16:30 - 17:30 |       CHEM B250      |
 | All     |         TA         |     Moira Renata    |              n/a             |     Fridays 2 - 3 PM    |         Zoom         |
 | All     |         TA         |       Eric Li       |              n/a             |    Thursdays 6 - 7 PM   |         Zoom         |
