@@ -3,10 +3,11 @@
 ## Time and Place
 
 ### R Sections
-|    Section     |    Date    |     Time      |      Room      | Instructor  |
-|:--------------:|:----------:|:-------------:|:--------------:|:-----------:|
-| DSCI 100 - 002 | Tues/Thurs | 10:30 - 13:30 |  Hennings 200  | Daniel Chen |
-| DSCI 100 - 003 | Tues/Thurs | 13:30 - 16:30 | Chemistry B250 | Maggie Liu  |
+
+|    Section     |    Date    |     Time      |     Room     | Instructor  |
+|:--------------:|:----------:|:-------------:|:------------:|:-----------:|
+| DSCI 100 - 002 | Tues/Thurs | 10:30 - 13:30 | Hennings 200 | Daniel Chen |
+| DSCI 100 - 003 | Tues/Thurs | 13:30 - 16:30 |  LIFE 2201   | Maggie Liu  |
 
 
 ## Course Description
