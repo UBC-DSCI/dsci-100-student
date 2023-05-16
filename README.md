@@ -69,12 +69,12 @@ By the end of the course, students will be able to:
 | Section |      Position      |      Name       |            Email             |      Office Hours      | Office Hour Location |
 |---------|:------------------:|:---------------:|:----------------------------:|:----------------------:|:--------------------:|
 | All     | Course coordinator |   Julia Peng    |   courses[-at-]stat.ubc.ca   |          n/a           |         n/a          |
-| 002     |     Instructor     |   Daniel Chen   | daniel.chen[-at-]stat.ubc.ca | Tuesdays 13:30 - 14:30 |       HENN 200       |
+| 002     |     Instructor     |   Daniel Chen   | daniel.chen[-at-]stat.ubc.ca | Tuesdays 9:30 - 10:30  |       HENN 200       |
 | 003     |     Instructor     |   Maggie Liu    | yitong.liu[-at-]stat.ubc.ca  | Tuesdays 16:30 - 17:30 |      CHEM B250       |
-| 002     |         TA         | Abhinav Kansal  |             n/a              |          TBD           |         Zoom         |
-| 002     |         TA         |  Atabak Eghbal  |             n/a              |          TBD           |         Zoom         |
+| 002     |         TA         | Abhinav Kansal  |             n/a              |  Mondays 17:00 - 18:00 |       ESB 1042       |
+| 002     |         TA         |  Atabak Eghbal  |             n/a              |   Tuesdays 18:00-19:00 |         Zoom         |
 | 002     |         TA         |     Eric Li     |             n/a              |          TBD           |         Zoom         |
-| 002     |         TA         |     Ding Ma     |             n/a              |          TBD           |         Zoom         |
+| 002     |         TA         |     Ding Ma     |             n/a              |   Fridays 18:00-19:00  |         Zoom         |
 | 002     |         TA         |  Moira Renata   |             n/a              |          TBD           |         Zoom         |
 | 003     |         TA         |   Mahsa Zarei   |             n/a              |          TBD           |         Zoom         |
 | 003     |         TA         | Angelique Clara |             n/a              |          TBD           |         Zoom         |
