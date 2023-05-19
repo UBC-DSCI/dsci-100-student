@@ -72,14 +72,14 @@ By the end of the course, students will be able to:
 | 002     |     Instructor     |   Daniel Chen   | daniel.chen[-at-]stat.ubc.ca | Tuesdays 9:30 - 10:30  |       HENN 200       |
 | 003     |     Instructor     |   Maggie Liu    | yitong.liu[-at-]stat.ubc.ca  | Tuesdays 16:30 - 17:30 |      LIFE 2201       |
 | 002     |         TA         | Abhinav Kansal  |             n/a              |  Mondays 17:00 - 18:00 |       ESB 1042       |
-| 002     |         TA         |  Atabak Eghbal  |             n/a              |   Tuesdays 18:00-19:00 |         Zoom         |
-| 002     |         TA         |     Eric Li     |             n/a              |          TBD           |         Zoom         |
-| 002     |         TA         |     Ding Ma     |             n/a              |   Fridays 18:00-19:00  |         Zoom         |
-| 002     |         TA         |  Moira Renata   |             n/a              |          TBD           |         Zoom         |
-| 003     |         TA         |   Mahsa Zarei   |             n/a              |          TBD           |         Zoom         |
-| 003     |         TA         | Angelique Clara |             n/a              |          TBD           |         Zoom         |
-| 003     |         TA         |  Richard Yang   |             n/a              |          TBD           |         Zoom         |
-| 003     |         TA         |   Nour Hanafi   |             n/a              |          TBD           |         Zoom         |
+| 002     |         TA         |  Atabak Eghbal  |             n/a              | Tuesdays 18:00 - 19:00 |         Zoom         |
+| 002     |         TA         |     Eric Li     |             n/a              |          n/a           |         Zoom         |
+| 002     |         TA         |     Ding Ma     |             n/a              | Fridays 17:00 - 18:00  |         Zoom         |
+| 002     |         TA         |  Moira Renata   |             n/a              | Thursdays 9:00 - 10:00 |         Zoom         |
+| 003     |         TA         |   Mahsa Zarei   |             n/a              | Mondays 19:00 - 20:00  |         Zoom         |
+| 003     |         TA         | Angelique Clara |             n/a              | Thursdays 17:00 - 18:00|       ESB 1046    |
+| 003     |         TA         |  Richard Yang   |             n/a              | Fridays 20:00 - 21:00 |        Zoom         |
+| 003     |         TA         |   Nour Hanafi   |             n/a              | Wednesdays 12:00 - 13:00 |         ESB 3174    |
 
 **Please contact the course coordinator about any administrative questions. Please read the course policy (e.g., late registration, missing quiz/assignment due to sickness) below before contacting**.
 
