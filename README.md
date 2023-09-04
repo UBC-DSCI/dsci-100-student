@@ -2,12 +2,21 @@
 
 ## Time and Place
 
-### R Sections
+### Python section (us!)
 
-|    Section     |    Date    |     Time      |     Room     | Instructor  |
-|:--------------:|:----------:|:-------------:|:------------:|:-----------:|
-| DSCI 100 - 002 | Tues/Thurs | 10:30 - 13:30 | Hennings 200 | Daniel Chen |
-| DSCI 100 - 003 | Tues/Thurs | 13:30 - 16:30 |  LIFE 2201   | Maggie Liu  |
+|    Section     |    Date    |     Time      |           Room            |   Instructor          |
+|:--------------:|:----------:|:-------------:|:-------------------------:|:---------------------:|
+| DSCI 100 - 101 | Wed/Fri | 14:00 - 15:30 |  Friedman Building 153     |     Joel Ostblom     |
+
+
+### R sections
+
+|    Section     |    Date    |     Time      |           Room            |   Instructor          |
+|:--------------:|:----------:|:-------------:|:-------------------------:|:---------------------:|
+| DSCI 100 - 003 | Tues/Thurs | 15:30 - 17:00 | Hennings 200 | Maggie Liu |
+| DSCI 100 - 004 | Tues/Thurs | 11:00 - 12:30 |  SWNG 222   | Anthony-Alexander Christidis |
+| DSCI 100 - 008 | Tues/Thurs | 8:00 - 9:30 | Hennings 200 | Vivian Meng |
+| DSCI 100 - 009 | Mon/Wed | 16:00 - 17:30 |  Hennings 200   | Daniel Chen  |
 
 
 ## Course Description
@@ -16,7 +25,6 @@ Use of data science tools to summarize, visualize, and analyze data. Sensible wo
 
 **Long Version:** In recent years, virtually all areas of inquiry have seen an uptake in the use of data science tools. Skills in the areas of assembling, analyzing, and interpreting data are more critical than ever. This course is designed as a first experience in honing such skills. Students who have completed this course will be able to implement a data science workflow in the R programming language, by "scraping" (downloading) data from the internet, "wrangling" (managing) the data intelligently, and creating tables and/or figures that convey a justifiable story based on the data. They will be adept at using tools for finding patterns in data and making predictions about future data. There will be an emphasis on intelligent and reproducible workflow, and clear communications of findings. No previous programming skills necessary; beginners are welcome!
 
-<!--
 ## Dealing With COVID-19
 
 **In-Person Section: please see Canvas for rules we are implementing this semester to limit the spread of COVID-19.**
@@ -24,17 +32,16 @@ Use of data science tools to summarize, visualize, and analyze data. Sensible wo
 The [COVID-19 pandemic](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen) has affected us all in different ways. It's okay to not be okay, and you should never hesitate to reach out to your instructor if you need support. Just ask! UBC also has [great student support resources](https://students.ubc.ca/covid19) related to COVID-19 (and otherwise).
 
 Also, please keep in mind that running a course during a pandemic is a new experience for your teaching team. The way this course usually runs (with a lot of close interaction between students and instructors) is not safe when we are trying to limit the spread of COVID-19. So a lot of how we run things in-class will be a bit "experimental," and we will have to adjust on the fly; please do not hesitate to provide feedback on how we can improve your learning experience.
--->
 
 ## Textbook
 
-This course uses [Data Science: A First Introduction](https://ubc-dsci.github.io/introduction-to-datascience/). This textbook is open source and will always be freely available on the web.
+This course uses [Data Science: A First Introduction](https://ubc-dsci.github.io/introduction-to-datascience-python/index.html). This textbook is open source and will always be freely available on the web.
 
 ## Hardware & Software
 
 Students are required to bring a laptop, chromebook or tablet to both lectures and tutorials. Students who do not own a laptop, chromebook, or tablet may be able to [loan a laptop from the UBC library](https://services.library.ubc.ca/computers-technology/technology-borrowing/).
 
-All other required software will be provided by the instructors. Students will learn to perform their analysis using the [R programming language](https://cran.r-project.org/). Worksheets and tutorial problem sets as well as the final project analysis, development, and reports will be done using [Jupyter Notebooks](http://jupyter.org/) accessed via [Canvas](https://canvas.ubc.ca).
+All other required software will be provided by the instructors. Students will learn to perform their analysis using the [Python programming language](https://www.python.org/). Worksheets and tutorial problem sets as well as the final project analysis, development, and reports will be done using [Jupyter Notebooks](http://jupyter.org/) accessed via [Canvas](https://canvas.ubc.ca).
 
 ## Prerequisite Knowledge
 
@@ -66,30 +73,24 @@ By the end of the course, students will be able to:
 
 *Note that your TAs are students too; they may have class right before their office hours, and they may run a few minutes late. Please be patient!*
 
-| Section |      Position      |      Name       |            Email             |      Office Hours      | Office Hour Location |
-|---------|:------------------:|:---------------:|:----------------------------:|:----------------------:|:--------------------:|
-| All     | Course coordinator |   Julia Peng    |   courses[-at-]stat.ubc.ca   |          n/a           |         n/a          |
-| 002     |     Instructor     |   Daniel Chen   | daniel.chen[-at-]stat.ubc.ca | Tuesdays 9:30 - 10:30  |       HENN 200       |
-| 003     |     Instructor     |   Maggie Liu    | yitong.liu[-at-]stat.ubc.ca  | Tuesdays 16:30 - 17:30 |      LIFE 2201       |
-| 002     |         TA         | Abhinav Kansal  |             n/a              |  Mondays 17:00 - 18:00 |       ESB 1042       |
-| 002     |         TA         |  Atabak Eghbal  |             n/a              | Tuesdays 18:00 - 19:00 |collaborative space on 3rd floor of IKB(Irving K. Barber Learning Centre) building.     |
-| 002     |         TA         |     Eric Li     |             n/a              | Fridays 10:00 - 11:00  |         ESB 3174     |
-| 002     |         TA         |     Ding Ma     |             n/a              | Fridays 17:00 - 18:00  |         Zoom         |
-| 002     |         TA         |  Moira Renata   |             n/a              | Thursdays 9:00 - 10:00 |         Zoom         |
-| 003     |         TA         |   Mahsa Zarei   |             n/a              | Mondays 19:00 - 20:00  |         Zoom         |
-| 003     |         TA         | Angelique Clara |             n/a              | Thursdays 17:00 - 18:00|       ESB 1046    |
-| 003     |         TA         |  Richard Yang   |             n/a              | Fridays 20:00 - 21:00  |        Zoom         |
-| 003     |         TA         |   Nour Hanafi   |             n/a              | Wednesdays 12:00 - 13:00 |         ESB 3174    |
+| Section |           Position            |      Name       |            Email             | Office Hours | Office Location |
+|---------|:-----------------------------:|:---------------:|:----------------------------:|:------------:|:---------------:|
+| ALL     |       Course coordinator      |   Julia Peng    |   courses[-at-]stat.ubc.ca   |     N/A      |                 |
+| 101     |          Instructor           |  Joel Ostblom  |   joel.ostblom[-at-]stat.ubc.ca    |  |  |
+|         |                               |                 |                              |              |                 |
+| 101     |          TA                   |   Atabak Eghbal |             n/a              |  TBA | TBA |
+| 101     |          TA                   |    Feifei Yang    |             n/a              |  TBA   | TBA |
+| 101     |          TA                   |  Nelson Li |             n/a              |  TBA  | TBA |
 
-**Please contact the course coordinator about any administrative questions. Please read the course policy (e.g., late registration, missing quiz/assignment due to sickness) below before contacting**.
+
+**Please contact the course coordinator, Julia Peng, about any administrative questions. Please read the course policy (e.g., late registration, missing quiz/assignment due to sickness) below before contacting**.
 
 When sending emails, please include DSCI 100 in the subject line.
 
 ## Assessment
 
--   Quiz 1: (invigilated in-person) Same time & location of week 3's tutorial (Thursday June 1)
--   Quiz 2: (invigilated in-person) Same time & location of 5's tutuorial (Thursday June 15)
--   Quiz 3: (invigilated in-person) To be scheduled by Classroom Services (Week of June 26)
+-   Midterm: (invigilated in-person) Same time & location of week 7's tutorial 
+-   Final: (invigilated in-person) To be scheduled by Classroom Services
 
 **Note**: Since DSCI 100 is a large course with multiple sections (hence, multiple versions of quizzes), the instructors reserve the rights to scale grades in order to maintain equity among sections according the [UBC campus wide policies and regulations](https://www.calendar.ubc.ca/Vancouver/index.cfm?tree=3,42,96,0).
 
@@ -106,18 +107,18 @@ In each class (lecture and tutorial) there will be an assignment:
 | Deliverable           | Percent Grade |
 |-----------------------|---------------|
 | Lecture worksheets    | 5             |
-| Tutorial problem sets | 14            |
-| Group project         | 20            |
-| Three quizzes         | 60            |
-| Bonus regrade percent | 1             |
+| Tutorial problem sets | 8            |
+| Group project         | 13            |
+| Midterm        | 22            |
+| Final        | 52            |
 
 ### Group project breakdown
 
 | Deliverable    | Percent Grade |
 |----------------|---------------|
 | Proposal       | 3             |
-| Final report   | 11            |
-| Team work      | 5             |
+| Final report   | 6            |
+| Team work      | 3             |
 | Group contract | 1             |
 
 ## Schedule
@@ -125,27 +126,25 @@ In each class (lecture and tutorial) there will be an assignment:
 <!-- Note: viewing this part with no soft wrapping is more manageable -->
 
 
-
 | Week | Topic                                            | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |------|--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1    | Introduction                                     | Learn to use the R programming language and Jupyter notebooks as you walk through a real world data Science application that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization.                                                                                                                                                                                                                                                                                                                                                                          |
-| 1    | Reading in data locally and from the web         | Learn to read in various cases of data sets locally and from the web. Once read in, these data sets will be used to walk through a real world data Science application that includes wrangling the data into a useable format and creating an effective data visualization.                                                                                                                                                                                                                                                                                                                                                          |
-| 2    | Cleaning and wrangling data                      | This week will be centered around tools for cleaning and wrangling data. Again, this will be in the context of a real world data science application and we will continue to practice working through a whole case study that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization.                                                                                                                                                                                                                                                                         |
-| 2    | Effective data visualization                     | Expand your data visualization knowledge and tool set beyond what we have seen and practiced so far. We will move beyond scatter plots and learn other effective ways to visualize data, as well as some general rules of thumb to follow when creating visualations. All visualization tasks this week will be applied to real world data sets. Again, this will be in the context of a real world data science application and we will continue to practice working through a whole case study that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization. |
-| 3    | Version control                                  | Collaboration with version control                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 3    | Quiz 1                                           | Cover week 1-4 concepts                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| 3    | Group contract due                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| 3    | Classification                                   | Introduction to classification using K-nearest neighbours (k-nn)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| 4    | Classification, continued                        | Classification continued                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| 4    | Regression                                       | Introduction to regression using K-nearest neighbours (k-nn). We will focus on prediction in cases where there is a response variable of interest and a single explanatory variable.                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| 4    | Group proposal due                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| 5    | Regression, continued                            | Continued exploration of k-nn regression in higher dimensions. We will also begin to compare k-nn to linear models in the context of regression.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| 5    | Quiz 2                                           | Cover version control, classification 1 & 2 and regression 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| 5    | Clustering                                       | Introduction to clustering using K-means                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| 6    | Introduction to statistical inference            | Introduce sampling and estimation for sample means and proportions.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 6    | Introduction to statistical inference, continued | Introduce confidence intervals, and calculating them via boostrapping.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| 6    | Group report due                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| 7    | Quiz 3                                           | To be Scheduled by To be scheduled by Classroom Services                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| 1    | Introduction                                     | Learn to use the Python programming language and Jupyter notebooks as you walk through a real world data Science application that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization.                                                                                                                                                                                                                                                                                                                                                                          |
+| 2    | Reading in data locally and from the web         | Learn to read in various cases of data sets locally and from the web. Once read in, these data sets will be used to walk through a real world data Science application that includes wrangling the data into a useable format and creating an effective data visualization.                                                                                                                                                                                                                                                                                                                                                          |
+| 3    | Cleaning and wrangling data                      | This week will be centered around tools for cleaning and wrangling data. Again, this will be in the context of a real world data science application and we will continue to practice working through a whole case study that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization.                                                                                                                                                                                                                                                                         |
+| 4    | Effective data visualization                     | Expand your data visualization knowledge and tool set beyond what we have seen and practiced so far. We will move beyond scatter plots and learn other effective ways to visualize data, as well as some general rules of thumb to follow when creating visualations. All visualization tasks this week will be applied to real world data sets. Again, this will be in the context of a real world data science application and we will continue to practice working through a whole case study that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization. |
+| 5    | Version control                                  | Collaboration with version control                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 5    | Group contract due                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 6    | Classification                                   | Introduction to classification using K-nearest neighbours (k-nn)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 7    | Classification, continued                        | Classification continued                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| 7    | Midterm                                   |   Same time & location of week 7's tutorial |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 8    | Regression                                       | Introduction to regression using K-nearest neighbours (k-nn). We will focus on prediction in cases where there is a response variable of interest and a single explanatory variable.                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 8    | Group proposal due                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 9    | Regression, continued                            | Continued exploration of k-nn regression in higher dimensions. We will also begin to compare k-nn to linear models in the context of regression.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 10    | Clustering                                       | Introduction to clustering using K-means                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| 11    | Introduction to statistical inference            | Introduce sampling and estimation for sample means and proportions.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 12    | Introduction to statistical inference, continued | Introduce confidence intervals, and calculating them via boostrapping.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 12    | Group report due                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 13    | Final                                           | To be Scheduled by To be scheduled by Classroom Services                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
 ## Policies
 
@@ -155,11 +154,11 @@ Students who register for the class late have 1 week from their registration dat
 
 ### Late Assignments / Quiz Absence
 
-Students **must be present** at the invigilation venue (in class, examination centre, etc) to take quizzes; otherwise they will be considered to have missed the quiz and will be assigned a grade of zero.
+Students **must be present** at the invigilation venue (in class, on Zoom, examination centre, etc) to take quizzes; otherwise they will be considered to have missed the quiz and will be assigned a grade of zero.
 
 Students who will miss a quiz **must provide a self-declaration of academic concession prior to the quiz** (see Canvas homepage for the academic concession form) and make arrangements with the Instructor. Failing to present a declaration within a reasonable timeframe before the quiz will result in a grade of zero.
 
-There will be **no extensions for the lecture and tutorial worksheets**; late assignments will receive a grade of zero. Instead, we will drop the lowest 2 grades on tutorials and worksheets for the semester. However, if you have extenuating circumstances and require further accommodations, please contact the course coordinator.
+There will be **no extensions for the lecture and tutorial worksheets**; late assignments will receive a grade of zero. Instead, we will drop the lowest grade on tutorials and worksheets for the semester.
 
 For all other assignments and the course project, a **late submission will receive a 50% penalty**.
 
@@ -173,13 +172,15 @@ In short: whatever grade the autograder returns after 5 minutes (assuming the te
 
 ### Re-grading
 
-Students get a free 1% at the end of the course. If you want questions regraded, you can fill out a form at the end of the term documenting in detail what you want regraded. Regrading is only offered if the teaching team makes a mistake. If the total sum of value of possible points via regrading is greater than 1%, you can submit (please do so before the last day of class); otherwise the regrade request is rejected. Note: If you submit a regrade request, you may get less than 1% via regrade.
+<--!Students get a free 1% at the end of the course. If you want questions regraded, you can fill out a form at the end of the term documenting in detail what you want regraded. Regrading is only offered if the teaching team makes a mistake. If the total sum of value of possible points via regrading is greater than 1%, you can submit (please do so before the last day of class); otherwise the regrade request is rejected. Note: If you submit a regrade request, you may get less than 1% via regrade. -->
 
-Note if you received 0 on an assignment when you shouldn't have, please contact the course coordinator as soon as possible rather than waiting until the end of the term.
+Note if you received 0 on an assignment when you shouldn't have, please contact the course coordinator as soon as possible rather than waiting until the end of the term. 
 
 ### Device/Browser
 
 Students are responsible for using a device and browser compatible with all functionality of Canvas. Chrome or Firefox browsers are recommended; Safari has had issues with Canvas quizzes in the past.
+
+While classes are remote due to the ongoing pandemic, students are responsible to have a stable internet connection and a functioning webcam and microphone. Absence of any of these will not be considered a valid reason not to take a quiz/exam or submit an assignment on time.
 
 ### Missed Final Exam
 
@@ -203,7 +204,7 @@ Students must correctly cite any code or text that has been authored by someone 
 
 -   the reproduction (copying and pasting) of code or text with none or minimal reformatting (e.g., changing the name of the variables)
 -   the translation of an algorithm or a script from a language to another
--   the generation of code and/or text by automatic code-generation software or large language model
+-   the generation of code by automatic code-generation software
 
 An "adequate acknowledgement" requires a detailed identification of the (parts of the) code or text reused and a full citation of the original source code that has been reused.
 
