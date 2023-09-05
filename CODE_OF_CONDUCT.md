@@ -1,3 +1,7 @@
+---
+title: ""
+---
+
 # Code of Conduct
 
 ## Introduction
