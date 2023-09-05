@@ -1,3 +1,7 @@
+---
+title: COVID-19 Policy
+---
+
 # COVID-19 Policy
 
 ## Student health

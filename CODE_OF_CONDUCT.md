@@ -1,3 +1,7 @@
+---
+title: Code of Conduct
+---
+
 ### Introduction
 We are committed to creating a friendly and respectful place for
 learning, teaching and contributing.  All participants in our course and

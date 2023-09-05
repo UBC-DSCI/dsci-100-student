@@ -1,3 +1,7 @@
+---
+title: Frequently Asked Questions
+---
+
 # What if I get sick during the semester?
 
 Please follow the [UBC CAMPUS RULES & GUIDANCE DOCUMENTS](https://srs.ubc.ca/covid-19/ubc-campus-rules-guidance-documents/) and the [BC CDC's guideline](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/if-you-have-covid-19) for self-isolation policy

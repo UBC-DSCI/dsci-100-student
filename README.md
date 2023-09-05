@@ -1,3 +1,7 @@
+---
+title: Syllabus
+---
+
 # DSCI 100: Introduction to Data Science
 
 ## Time and Place

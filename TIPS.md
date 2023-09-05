@@ -1,3 +1,7 @@
+---
+title: Tips
+---
+
 # DSCI 100 Survival Guide
 
 *In fall 2021, the DSCI100 TAs posted this super helpful
