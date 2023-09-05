@@ -1,4 +1,4 @@
-# DSCI 100 Survival Guide
+# Survival Guide
 
 *In fall 2021, the DSCI100 TAs posted this super helpful
 survival guide on Piazza based on their own past experiences taking the class. 

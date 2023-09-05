@@ -1,4 +1,6 @@
-# What if I get sick during the semester?
+# Frequently Asked Questions
+
+## What if I get sick during the semester?
 
 Please follow the [UBC CAMPUS RULES & GUIDANCE DOCUMENTS](https://srs.ubc.ca/covid-19/ubc-campus-rules-guidance-documents/) and the [BC CDC's guideline](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/if-you-have-covid-19) for self-isolation policy
 
@@ -10,14 +12,14 @@ You can complete all of your assignments electronically (and remotely).
 
 We will drop the lowest worksheet and tutorial grade from the semester.
 
-# What if I get sick right before a quiz?
+## What if I get sick right before a quiz?
 
 ### DO NOT COME TO THE QUIZ.
 
 Your instructor or the coordinator will make alternate arrangements if you get sick right before/during a quiz. Please contact your instructor as far in advance as possible, and fill out an academic
 concession form (available on the Canvas page).
 
-# What is the structure of the class?
+## What is the structure of the class?
 
 Each week will have the following pattern:
 
@@ -38,7 +40,7 @@ format (unless otherwise notified).
 There will be a class project, which you will complete with a randomly-assigned
 group.
 
-# How do I submit an assignment?
+## How do I submit an assignment?
 
 **Lecture / Tutorial Worksheets:** You must complete all of your lecture and
 tutorial worksheets on our JupyterHub server. Once you are done working,
@@ -51,18 +53,18 @@ server.
 
 **Projects / other assignments:** You will submit these on Canvas.
 
-# How do I get my assignment regraded?
+## How do I get my assignment regraded?
 
 *Please see the course syllabus:* 
 
 *Note:* We will only regrade to correct mistakes that we made when grading.
 Please see the syllabus for our policy regarding autograding.
 
-# Where do I find due dates?
+## Where do I find due dates?
 
 All due dates are listed on Canvas.
 
-# What if I registered late? When are things due?
+## What if I registered late? When are things due?
 
 Hi! Welcome to DSCI100 -- glad to have you on board. Since we have a new
 assignment in every class session, there are already a few assignments to catch
@@ -76,7 +78,7 @@ week after your registration date & time.
 If you registered before a class session happens, the
 assignment from that class is due at the normal time.
 
-# I'm going to be late / absent for a class! Who do I notify?
+## I'm going to be late / absent for a class! Who do I notify?
 
 Your instructor does not need to be informed when you'll be absent from a regular class. 
 We understand that, from time to time, you will not be able to 
@@ -89,11 +91,11 @@ If you are going to be absent from a quiz, you need to fill out a self-declared
 concession form in a timely manner prior to the quiz. See the course policies
 on the syllabus for details.
 
-# Do I satisfy the math requirement for this class?
+## Do I satisfy the math requirement for this class?
 
 Yes. There is no hard math prerequisite; MATH12 (or equivalent) is suggested but not required.
 
-# How do I get help in the course?
+## How do I get help in the course?
 **During Lectures & Tutorials:** You can use lecture and tutorial time to ask
 questions, discuss and receive individual feedback regarding your worksheets,
 tutorials, or group project. Myself, the TAs and your fellow classmates will be
@@ -114,7 +116,7 @@ material itself you can email the course coordinator (please see syllabus for em
 
 **Please send emails it to the email address listed on the syllabus. Those are the most likely to be checked regularly.**
 
-# How do I do well in this course?
+## How do I do well in this course?
 **Most importantly:** complete the lecture and tutorial worksheets. These
 are intended to help you learn the concepts so you'll do well on the project
 and quizzes. The worksheets tend to be a bit easier and provide more guidance.

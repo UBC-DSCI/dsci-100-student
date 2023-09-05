@@ -1,4 +1,6 @@
-### Introduction
+# Code of Conduct
+
+## Introduction
 We are committed to creating a friendly and respectful place for
 learning, teaching and contributing.  All participants in our course and
 communications are expected to show respect and courtesy to others.
@@ -14,7 +16,7 @@ The DSCI 100 Instructor(s) is responsible for enforcing the Code of Conduct.
 All reports will be reviewed by the Instructor(s) and will be kept
 confidential.
 
-### The DSCI 100 Code of Conduct
+## The DSCI 100 Code of Conduct
 We are dedicated to providing a welcoming and supportive
 environment for all people, regardless of background or identity. As such, we
 do not tolerate behaviour that is disrespectful to our teachers or learners or
@@ -33,7 +35,7 @@ not limited to, class meetings, email communication, and online forums such as
 Piazza and GitHub. The DSCI 100 teaching team are expected to assist with the
 enforcement of the Code of Conduct. 
 
-#### Expected Behavior
+### Expected Behavior
 
 All participants in our events and communications are expected to show respect
 and courtesy to others. All interactions should be professional regardless of
@@ -49,7 +51,7 @@ behaviours in all DSCI 100 events and platforms:
 
 Note: See the [four social rules](https://www.recurse.com/manual#sub-sec-social-rules) for further recommendations.
 
-#### Unacceptable Behavior
+### Unacceptable Behavior
 
 Examples of unacceptable behavior by participants at any DSCI 100 event/platform include:
 
@@ -67,7 +69,7 @@ Examples of unacceptable behavior by participants at any DSCI 100 event/platform
 - continuing to initiate interaction (including photography or recording) with someone after being asked to stop
 publication of private communication without consent
 
-#### Consequences of Unacceptable Behavior
+### Consequences of Unacceptable Behavior
 
 Participants who are asked to stop any inappropriate behavior are expected to
 comply immediately. This applies to any DSCI 100 events and platforms, either
