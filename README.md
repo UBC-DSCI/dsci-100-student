@@ -196,7 +196,7 @@ In short: whatever grade the autograder returns after 5 minutes (assuming the te
 ### Re-grading
 
 To account for minor grading errors throughout the course,
-every student will get a bonus of one percentage point at the end of the semester .
+every student will get a bonus of one percentage point at the end of the semester.
 We only accept regrade requests for major errors in grading.
 If you think the grading team made an error of more than 25% on a single assignment,
 please reach out to the course coordinator to request a regrade.
