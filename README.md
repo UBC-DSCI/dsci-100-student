@@ -195,9 +195,11 @@ In short: whatever grade the autograder returns after 5 minutes (assuming the te
 
 ### Re-grading
 
-Students get a free 1% at the end of the course. If you want questions regraded, you can fill out a form at the end of the term documenting in detail what you want regraded. Regrading is only offered if the teaching team makes a mistake. If the total sum of value of possible points via regrading is greater than 1%, you can submit (please do so before the last day of class); otherwise the regrade request is rejected. Note: If you submit a regrade request, you may get less than 1% via regrade.
-
-Note if you received 0 on an assignment when you shouldn't have, please contact the course coordinator as soon as possible rather than waiting until the end of the term.
+To account for minor grading errors throughout the course,
+every student will get a bonus of one percentage point at the end of the semester .
+We only accept regrade requests for major errors in grading.
+If you think the grading team made an error of more than 25% on a single assignment,
+please reach out to the course coordinator to request a regrade.
 
 ### Device/Browser
 
