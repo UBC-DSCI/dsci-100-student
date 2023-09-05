@@ -45,20 +45,13 @@ you start on it*. This is true especially if you're busy. Doing a quick scan is
 helpful to gauge the workload of the assignment so you don't end up rushing it
 30 minutes before it's due!
 
-**Quizzes** are held three times during the term to test your understanding of the
-concepts. The first two will be during the regular term, and the third will be
-in Exam Week. They are not cumulative. Preparation for quizzes is similar to
-how you would prep for an exam - everyone studies slightly differently so we
-won’t go over the specifics. In general, I would highly recommend going over
-the *readings/textbook, worksheets, and tutorials*. Even though the quiz is open
-book, time is not unlimited so you have to know the material/concepts well! My
-worst quiz (based on the mark I got) was Quiz 1: I didn’t budget my time well
-and relied on it being open book to answer the questions; that led to me
-scrambling in the latter portion as time ran out. Quiz 2 and 3 went better for
-me, even though the material is (according to me) harder. *Use the fact that the
-quizzes are open book as a quick reference when needed, not as your go-to way
-of answering a question* (Eg. is it read_csv(…) or csv_read(…)?).
-
+**Exams** are held two times during the term to test your understanding of the
+concepts. The first is a midterm will be during the regular tutorial time,
+and the second is a final in Exam Week. They are not cumulative. To prepare for the exams,
+I would highly recommend going over
+the *readings/textbook, worksheets, and tutorials*. Make sure you budget your time well
+and relied so that you don't have to
+scramble in the latter portion of the exams.
 There is also a **project** later in the term. More details and tips will be
 provided as we get closer to that.
 
@@ -70,7 +63,7 @@ questions (and if we don’t know the answer, we’ll help find someone/some
 website/something that does know the answer). The textbook was made
 specifically for this course, so it’s a fantastic (and free) resource – it’s so
 good that it was mentioned as being helpful for worksheets, tutorials, and
-quizzes.
+exams.
 
 Thank you for reading this! We hope you have a great and safe semester, and
 that you enjoy DSCI 100!
