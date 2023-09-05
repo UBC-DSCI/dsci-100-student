@@ -1,7 +1,3 @@
----
-title: License
----
-
 # Instructional Material
 
 All DSCI 100: Introduction to Data Science instructional material is made

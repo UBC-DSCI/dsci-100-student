@@ -1,7 +1,3 @@
----
-title: Syllabus
----
-
 # DSCI 100: Introduction to Data Science
 
 ## Time and Place
@@ -167,6 +163,14 @@ In each class (lecture and tutorial) there will be an assignment:
 
 ## Policies
 
+### Code of Conduct
+
+All participants in our course and
+communications are expected to show respect and courtesy to others.
+To creating a friendly and respectful place for
+learning, teaching and contributing,
+you are expected to read and follow [the DSCI 100 Code of Conduct](CODE_OF_CONDUCT.md).
+
 ### Late Registration
 
 Students who register for the class late have 1 week from their registration date on Canvas to complete all prior assignments.
@@ -228,6 +232,14 @@ An "adequate acknowledgement" requires a detailed identification of the (parts o
 The above attribution policy applies only to assignments. **No code or text may be copied (with or without attribution) from any source during an exam. Answers must always be in your own words. At a minimum, copying will result in a grade of 0 for the related question.**
 
 **Repeated plagiarism of any form could result in larger penalties, including failure of the course.**
+
+### COVID-19
+
+Read the [COVID-19 policy document](COVID.md) for details.
+
+## Resources
+
+For additional information, please check out [these useful student resources](RESOURCES.md), [the survival tips from your TAs](TIPS.md), and the [Frequently Asked Questions](FAQ.md). If you want to use any of this material elsewhere, please read [the license](LICENSE.md).
 
 ## Attribution
 

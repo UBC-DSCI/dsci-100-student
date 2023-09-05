@@ -1,7 +1,3 @@
----
-title: Resources
----
-
 # Student Resources
 - [Keep Learning UBC](https://keeplearning.ubc.ca/): a website that was recently launched as a resource for students. Resources related to home set-up, learning online, UBC technologies, wellbeing, and support. 
 - [Canvas student guide](https://lthub.ubc.ca/guides/canvas-student-guide/?file=2020/04/canvas-student-guide.pdf)
