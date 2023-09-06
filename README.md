@@ -74,26 +74,26 @@ By the end of the course, students will be able to:
 | 004     | Instructor         | Anthony Christidis | anthony.christidis[-at-]stat.ubc.ca |              |                      |
 | 008     | Instructor         | Vivian Meng        | vivian.meng[-at-]stat.ubc.ca        |              |                      |
 | 101     | Instructor         | Joel Ostblom       | joel.ostblom[-at-]ubc.ca            |              |                      |
-| All     | TA                 | Andal Abro Khan    | n/a                                 |              |                      |
-| All     | TA                 | Eric Li            | n/a                                 |              |                      |
-| All     | TA                 | Wasay Hayat        | n/a                                 |              |                      |
-| All     | TA                 | Moira Renata       | n/a                                 |              |                      |
-| All     | TA                 | Mahsa Zarei        | n/a                                 |              |                      |
-| All     | TA                 | Angelique Clara    | n/a                                 |              |                      |
-| All     | TA                 | Richard Yang       | n/a                                 |              |                      |
-| All     | TA                 | Eros Rojas         | n/a                                 |              |                      |
-| All     | TA                 | Samuel Leung       | n/a                                 |              |                      |
-| All     | TA                 | Ali Mehrabian      | n/a                                 |              |                      |
-| All     | TA                 | Kaylee (Min-Er) Li | n/a                                 |              |                      |
-| All     | TA                 | Indu Kant Deo      | n/a                                 |              |                      |
-| All     | TA                 | Kevin Wang         | n/a                                 |              |                      |
-| All     | TA                 | Lily Xie           | n/a                                 |              |                      |
-| All     | TA                 | Jeysh Peyneeandee  | n/a                                 |              |                      |
-| All     | TA                 | Linda Han          | n/a                                 |              |                      |
-| All     | TA                 | Jossie Jiang       | n/a                                 |              |                      |
+| 003     | TA                 | Andal Abro Khan    | n/a                                 |              |                      |
+| 003     | TA                 | Jossie Jiang            | n/a                                 |    Thursday 2-3pm         |       Zoom               |
+| 003     | TA                 | Ali Mehrabian       | n/a                                 |              |                      |
+| 003     | TA                 | Eros Rojas Moira Renata       | n/a                                 |              |                      |
+| 004     | TA                 | Lily Xie           | n/a                                 |              |                      |
+| 004     | TA                 | Jeysh Peyneeandee  | n/a                                 |  Friday 5-6pm            |    Zoom                  |
+| 004     | TA                 | Linda Han          | n/a                                 |    Friday 1-2pm          |        Zoom              |
+| 004     | TA                 | Wasay Hayat     | n/a                                 |              |                      |
+| All     | TA                 | Mahsa Zarei        | n/a                                 |   Monday 7-8pm           |    Zoom                  |
+| 008     | TA                 | Angelique Clara    | n/a                                 |  Tuesday 10-11am            |   Zoom                   |
+| 008     | TA                 | Richard Yang       | n/a                                 |              |                      |
+| 008     | TA                 | Nelson Li      | n/a                                 |              |                      |
+| 008     | TA                 | Kevin Wang         | n/a                                 |   Thursday  1-2pm         |    ESB  1041                |
+| 009     | TA                 | Moira Renata         | n/a                                 |              |                      |
+| 009     | TA                 | Samuel Leung       | n/a                                 |              |                      |
+| 009     | TA                 | Kaylee (Min-Er) Li | n/a                                 |              |                      |
+| 009   | TA                 | Eric Li      | n/a                                 |     Friday 10-11am         |      Zoom                |
 | 101     | TA                 | Atabak Eghbal      | n/a                                 |              |                      |
-| 101     | TA                 | Feifei Yang        | n/a                                 |              |                      |
-| 101     | TA                 | Nelson Li          | n/a                                 |              |                      |
+| 101     | TA                 | Feifei Yang        | n/a                                 |   Wednesday 11-12pm           |                      |
+| 101     | TA                 |    Indu Kant Deo      | n/a                                 |              |                      |
 
 **Please contact the course coordinator about any administrative questions. Please read the course policy (e.g., late registration, missing exam/assignment due to sickness) below before contacting**.
 
