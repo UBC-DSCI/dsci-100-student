@@ -77,9 +77,9 @@ By the end of the course, students will be able to:
 | 003     | TA                 | Andal Abro Khan    | n/a                                 |              |                      |
 | 003     | TA                 | Jossie Jiang            | n/a                                 |    Thursday 2-3pm         |       Zoom               |
 | 003     | TA                 | Ali Mehrabian       | n/a                                 |              |                      |
-| 003     | TA                 | Eros Rojas Moira Renata       | n/a                                 |              |                      |
+| 003     | TA                 | Eros Rojas      | n/a                                 |   Wednesday 4-5pm           |    ESB 1041                  |
 | 004     | TA                 | Lily Xie           | n/a                                 |              |                      |
-| 004     | TA                 | Jeysh Peyneeandee  | n/a                                 |  Friday 5-6pm            |    Zoom                  |
+| 004     | TA                 | Jeyshinee Pyneeandee  | n/a                                 |  Friday 5-6pm            |    Zoom                  |
 | 004     | TA                 | Linda Han          | n/a                                 |    Friday 1-2pm          |        Zoom              |
 | 004     | TA                 | Wasay Hayat     | n/a                                 |              |                      |
 | All     | TA                 | Mahsa Zarei        | n/a                                 |   Monday 7-8pm           |    Zoom                  |
