@@ -12,11 +12,11 @@ You can complete all of your assignments electronically (and remotely).
 
 We will drop the lowest worksheet and tutorial grade from the semester.
 
-## What if I get sick right before a quiz?
+## What if I get sick right before an exam?
 
-### DO NOT COME TO THE QUIZ.
+### DO NOT COME TO THE EXAM.
 
-Your instructor or the coordinator will make alternate arrangements if you get sick right before/during a quiz. Please contact your instructor as far in advance as possible, and fill out an academic
+Your instructor or the coordinator will make alternate arrangements if you get sick right before/during a exam. Please contact your instructor as far in advance as possible, and fill out an academic
 concession form (available on the Canvas page).
 
 ## What is the structure of the class?
@@ -26,19 +26,11 @@ Each week will have the following pattern:
 - Your instructor will release pre-lecture reading material on Monday
 - In class, your instructor will begin with a brief lecture to introduce a new
   concept. Then you'll do a worksheet to practice the concept.
-- Your lecture worksheet will be due **Saturday at 11:59pm pacific time**.
 - In tutorial, the TAs will run a tutorial to reinforce the concept we learned
   in lecture. You'll do another worksheet to practice the concept. The
 tutorial worksheets are generally harder than the lecture worksheets.
-- The tutorial worksheet will be due **Saturday at 11:59 pacific time**.
 
-
-There will be 3 quizzes throughout the semester; the first two are held in
-class, and the last is during the exam period, but they'll all be the same
-format (unless otherwise notified).
-
-There will be a class project, which you will complete with a randomly-assigned
-group.
+There will be one midterm, one final exam, and one group project.
 
 ## How do I submit an assignment?
 
@@ -87,8 +79,8 @@ for attending class. We hope that the
 flexibility of this course will allow you to access the learning materials
 wherever you are and whenever you need them. 
 
-If you are going to be absent from a quiz, you need to fill out a self-declared
-concession form in a timely manner prior to the quiz. See the course policies
+If you are going to be absent from an exam, you need to fill out a self-declared
+concession form in a timely manner prior to the exam. See the course policies
 on the syllabus for details.
 
 ## Do I satisfy the math requirement for this class?
@@ -119,7 +111,7 @@ material itself you can email the course coordinator (please see syllabus for em
 ## How do I do well in this course?
 **Most importantly:** complete the lecture and tutorial worksheets. These
 are intended to help you learn the concepts so you'll do well on the project
-and quizzes. The worksheets tend to be a bit easier and provide more guidance.
+and exams. The worksheets tend to be a bit easier and provide more guidance.
 The tutorials are more difficult and give you a good sense for how well you've
 learned the material. Students who make an effort to complete all of the
 worksheets and tutorials tend to perform well in the class.
