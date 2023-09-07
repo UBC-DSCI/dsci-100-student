@@ -47,7 +47,7 @@ helpful to gauge the workload of the assignment so you don't end up rushing it
 
 **Exams** are held two times during the term to test your understanding of the
 concepts. The first is a midterm will be during the regular tutorial time,
-and the second is a final in Exam Week. They are not cumulative. To prepare for the exams,
+and the second is a final in Exam Week which will cover all the material in the course. To prepare for the exams,
 I would highly recommend going over
 the *readings/textbook, worksheets, and tutorials*. Make sure you budget your time well
 and relied so that you don't have to
