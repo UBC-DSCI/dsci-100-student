@@ -237,7 +237,7 @@ The above attribution policy applies only to assignments. **No code or text may 
 
 ### COVID-19
 
-Read the [COVID-19 policy document](COVID.md) for details.
+Read the [UBC COVID-19 Campus Rules](https://srs.ubc.ca/health-safety/safety-programs/communicable-disease-prevention-framework/covid-19/) for the latest updates of what is expected of you in terms of COVID-safety.
 
 ## Resources
 
