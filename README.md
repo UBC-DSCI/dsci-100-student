@@ -66,34 +66,34 @@ By the end of the course, students will be able to:
 
 *Note that your TAs are students too; they may have class right before their office hours, and they may run a few minutes late. Please be patient!*
 
-| Section | Position           | Name               | Email                               | Office Hours | Office Hour Location |
-|---------|:-------------------|:-------------------|:------------------------------------|:-------------|:---------------------|
-| All     | Course coordinator | Julia Peng         | courses[-at-]stat.ubc.ca            | n/a          | n/a                  |
-| 002     | Instructor         | Daniel Chen        | daniel.chen[-at-]stat.ubc.ca        |              |                      |
-| 003     | Instructor         | Maggie Liu         | yitong.liu[-at-]stat.ubc.ca         |              |                      |
-| 004     | Instructor         | Anthony Christidis | anthony.christidis[-at-]stat.ubc.ca |              |                      |
-| 008     | Instructor         | Vivian Meng        | vivian.meng[-at-]stat.ubc.ca        |              |                      |
-| 101     | Instructor         | Joel Ostblom       | joel.ostblom[-at-]ubc.ca            |              |                      |
-| 003     | TA                 | Andal Abro Khan    | n/a                                 |              |                      |
-| 003     | TA                 | Jossie Jiang            | n/a                                 |    Thursday 2-3pm         |       Zoom               |
-| 003     | TA                 | Ali Mehrabian       | n/a                                 |              |                      |
-| 003     | TA                 | Eros Rojas      | n/a                                 |   Wednesday 4-5pm           |    ESB 1041                  |
-| 004     | TA                 | Lily Xie           | n/a                                 |              |                      |
-| 004     | TA                 | Jeyshinee Pyneeandee  | n/a                                 |  Friday 5-6pm            |    Zoom                  |
-| 004     | TA                 | Linda Han          | n/a                                 |    Friday 1-2pm          |        Zoom              |
-| 004     | TA                 | Wasay Hayat     | n/a                                 |              |                      |
-| All     | TA                 | Mahsa Zarei        | n/a                                 |   Monday 7-8pm           |    Zoom                  |
-| 008     | TA                 | Angelique Clara    | n/a                                 |  Tuesday 10-11am            |   Zoom                   |
-| 008     | TA                 | Richard Yang       | n/a                                 |              |                      |
-| 008     | TA                 | Nelson Li      | n/a                                 |              |                      |
-| 008     | TA                 | Kevin Wang         | n/a                                 |   Thursday  1-2pm         |    ESB  1041                |
-| 009     | TA                 | Moira Renata         | n/a                                 |              |                      |
-| 009     | TA                 | Samuel Leung       | n/a                                 |              |                      |
-| 009     | TA                 | Kaylee (Min-Er) Li | n/a                                 |              |                      |
-| 009   | TA                 | Eric Li      | n/a                                 |     Friday 10-11am         |      Zoom                |
-| 101     | TA                 | Atabak Eghbal      | n/a                                 |              |                      |
-| 101     | TA                 | Feifei Yang        | n/a                                 |   Wednesday 11-12pm           |                      |
-| 101     | TA                 |    Indu Kant Deo      | n/a                                 |              |                      |
+| Section | Position           | Name                 | Email                               | Office Hours    | Office Hour Location |
+|---------|:-------------------|:---------------------|:------------------------------------|:----------------|:---------------------|
+| All     | Course coordinator | Julia Peng           | courses[-at-]stat.ubc.ca            | n/a             | n/a                  |
+| 002     | Instructor         | Daniel Chen          | daniel.chen[-at-]stat.ubc.ca        | Mon 5.30-6.30pm | HENN 200             |
+| 003     | Instructor         | Maggie Liu           | yitong.liu[-at-]stat.ubc.ca         |                 |                      |
+| 004     | Instructor         | Anthony Christidis   | anthony.christidis[-at-]stat.ubc.ca |                 |                      |
+| 008     | Instructor         | Vivian Meng          | vivian.meng[-at-]stat.ubc.ca        |                 |                      |
+| 101     | Instructor         | Joel Ostblom         | joel.ostblom[-at-]ubc.ca            | Fri 4-5pm       | Zoom                 |
+| 003     | TA                 | Andal Abro Khan      | n/a                                 |                 |                      |
+| 003     | TA                 | Jossie Jiang         | n/a                                 | Thu 2-3pm       | Zoom                 |
+| 003     | TA                 | Ali Mehrabian        | n/a                                 |                 |                      |
+| 003     | TA                 | Eros Rojas           | n/a                                 | Wed 4-5pm       | ESB 1041             |
+| 004     | TA                 | Lily Xie             | n/a                                 |                 |                      |
+| 004     | TA                 | Jeyshinee Pyneeandee | n/a                                 | Fri 5-6pm       | Zoom                 |
+| 004     | TA                 | Linda Han            | n/a                                 | Fri 1-2pm       | Zoom                 |
+| 004     | TA                 | Wasay Hayat          | n/a                                 |                 |                      |
+| All     | TA                 | Mahsa Zarei          | n/a                                 | Mon 7-8pm       | Zoom                 |
+| 008     | TA                 | Angelique Clara      | n/a                                 | Tue 10-11am     | Zoom                 |
+| 008     | TA                 | Richard Yang         | n/a                                 |                 |                      |
+| 008     | TA                 | Nelson Li            | n/a                                 |                 |                      |
+| 008     | TA                 | Kevin Wang           | n/a                                 | Thu 1-2pm       | ESB  1041            |
+| 009     | TA                 | Moira Renata         | n/a                                 |                 |                      |
+| 009     | TA                 | Samuel Leung         | n/a                                 |                 |                      |
+| 009     | TA                 | Kaylee (Min-Er) Li   | n/a                                 |                 |                      |
+| 009     | TA                 | Eric Li              | n/a                                 | Fri 10-11am     | Zoom                 |
+| 101     | TA                 | Atabak Eghbal        | n/a                                 |                 |                      |
+| 101     | TA                 | Feifei Yang          | n/a                                 | Wed 11-12pm     | Zoom                 |
+| 101     | TA                 | Indu Kant Deo        | n/a                                 |                 |                      |
 
 **Please contact the course coordinator about any administrative questions. Please read the course policy (e.g., late registration, missing exam/assignment due to sickness) below before contacting**.
 
