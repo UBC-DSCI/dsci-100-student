@@ -75,7 +75,7 @@ By the end of the course, students will be able to:
 | 008     | Instructor         | Vivian Meng          | vivian.meng[-at-]stat.ubc.ca        |                 |                      |
 | 101     | Instructor         | Joel Ostblom         | joel.ostblom[-at-]ubc.ca            | Fri 4-5pm       | Zoom                 |
 | 003     | TA                 | Andal Abro Khan      | n/a                                 |                 |                      |
-| 003     | TA                 | Jossie Jiang         | n/a                                 | Thu 2-3pm       | Zoom                 |
+| 003     | TA                 | Jossie Jiang         | n/a                                 | Thu 11-12pm       | Zoom                 |
 | 003     | TA                 | Ali Mehrabian        | n/a                                 |                 |                      |
 | 003     | TA                 | Eros Rojas           | n/a                                 | Wed 4-5pm       | ESB 1041             |
 | 004     | TA                 | Lily Xie             | n/a                                 |                 |                      |
@@ -93,7 +93,7 @@ By the end of the course, students will be able to:
 | 009     | TA                 | Eric Li              | n/a                                 | Fri 10-11am     | Zoom                 |
 | 101     | TA                 | Atabak Eghbal        | n/a                                 |                 |                      |
 | 101     | TA                 | Feifei Yang          | n/a                                 | Wed 11-12pm     | Zoom                 |
-| 101     | TA                 | Indu Kant Deo        | n/a                                 |                 |                      |
+| 101     | TA                 | Indu Kant Deo        | n/a                                 | Wed 4-5pm               |   Zoom                   |
 
 **Please contact the course coordinator about any administrative questions. Please read the course policy (e.g., late registration, missing exam/assignment due to sickness) below before contacting**.
 
