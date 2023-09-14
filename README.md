@@ -71,12 +71,12 @@ _Note that your TAs are students too; they may have class right before their off
 | All     | Course coordinator | Julia Peng           | courses[-at-]stat.ubc.ca            | n/a             | n/a                  |
 | 002     | Instructor         | Daniel Chen          | daniel.chen[-at-]stat.ubc.ca        | Mon 5.30-6.30pm | HENN 200             |
 | 003     | Instructor         | Maggie Liu           | yitong.liu[-at-]stat.ubc.ca         | Thu 1:30-2:30pm | ESB 1043             |
-| 004     | Instructor         | Anthony Christidis   | anthony.christidis[-at-]stat.ubc.ca |                 |                      |
-| 008     | Instructor         | Vivian Meng          | vivian.meng[-at-]stat.ubc.ca        |                 |                      |
+| 004     | Instructor         | Anthony Christidis   | anthony.christidis[-at-]stat.ubc.ca | Tue 4-5pm       |   Zoom                   |
+| 008     | Instructor         | Vivian Meng          | vivian.meng[-at-]stat.ubc.ca        |    Friday 2-3pm      |      ESB 3174    |
 | 101     | Instructor         | Joel Ostblom         | joel.ostblom[-at-]ubc.ca            | Fri 4-5pm       | Zoom                 |
 | 003     | TA                 | Andal Abro Khan      | n/a                                 |                 |                      |
 | 003     | TA                 | Jossie Jiang         | n/a                                 | Thu 11-12pm     | Zoom                 |
-| 003     | TA                 | Ali Mehrabian        | n/a                                 |   Thu 1-2pm              |   Zoom                   |
+| 003     | TA                 | Ali Mehrabian        | n/a                                 |   Thu 1-2pm     |   Zoom               |
 | 003     | TA                 | Eros Rojas           | n/a                                 |     |           |
 | 004     | TA                 | Lily Xie             | n/a                                 |                 |                      |
 | 004     | TA                 | Jeyshinee Pyneeandee | n/a                                 | Fri 5-6pm       | Zoom                 |
