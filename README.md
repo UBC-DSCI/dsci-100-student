@@ -76,8 +76,8 @@ _Note that your TAs are students too; they may have class right before their off
 | 101     | Instructor         | Joel Ostblom         | joel.ostblom[-at-]ubc.ca            | Fri 4-5pm       | Zoom                 |
 | 003     | TA                 | Andal Abro Khan      | n/a                                 |                 |                      |
 | 003     | TA                 | Jossie Jiang         | n/a                                 | Thu 11-12pm     | Zoom                 |
-| 003     | TA                 | Ali Mehrabian        | n/a                                 |                 |                      |
-| 003     | TA                 | Eros Rojas           | n/a                                 | Wed 4-5pm       | ESB 1041             |
+| 003     | TA                 | Ali Mehrabian        | n/a                                 |   Thu 1-2pm              |   Zoom                   |
+| 003     | TA                 | Eros Rojas           | n/a                                 |     |           |
 | 004     | TA                 | Lily Xie             | n/a                                 |                 |                      |
 | 004     | TA                 | Jeyshinee Pyneeandee | n/a                                 | Fri 5-6pm       | Zoom                 |
 | 004     | TA                 | Linda Han            | n/a                                 | Fri 1-2pm       | Zoom                 |
@@ -97,7 +97,7 @@ _Note that your TAs are students too; they may have class right before their off
 
 **Please contact the course coordinator about any administrative questions. Please read the course policy (e.g., late registration, missing exam/assignment due to sickness) below before contacting**.
 
-When sending emails, please include DSCI 100 in the subject line.
+When sending emails, please include your student number and DSCI 100 in the subject line.
 
 ## Assessment
 
