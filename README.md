@@ -180,7 +180,7 @@ Students **must be present** at the invigilation venue (in class, examination ce
 
 Students who will miss an exam **must provide a self-declaration of academic concession prior to the exam** (see Canvas homepage for the academic concession form) and make arrangements with the Instructor. Failing to present a declaration within a reasonable timeframe before the exam will result in a grade of zero.
 
-There will be **no extensions for the lecture and tutorial worksheets**; late assignments will receive a grade of zero. Instead, we will drop the lowest 2 grades on tutorials and worksheets for the semester. However, if you have extenuating circumstances and require further accommodations, please contact the course coordinator.
+There will be **no extensions for the lecture and tutorial worksheets**; late assignments will receive a grade of zero. Instead, we will drop the lowest 2 grades on tutorials and worksheets for the semester (1 lowest tutorial + 1 lowest worksheet). However, if you have extenuating circumstances and require further accommodations, please contact the course coordinator.
 
 For all other assignments and the course project, a **late submission will receive a 50% penalty**.
 
