@@ -87,7 +87,7 @@ _Note that your TAs are students too; they may have class right before their off
 | 008     | TA                 | Richard Yang         | n/a                                 |                 |                      |
 | 008     | TA                 | Nelson Li            | n/a                                 |                 |                      |
 | 008     | TA                 | Kevin Wang           | n/a                                 | Thu 1-2pm       | ESB 1041             |
-| 009     | TA                 | Moira Renata         | n/a                                 |                 |                      |
+| 009     | TA                 | Moira Renata         | n/a                                 |   Wed 6-7pm              |   Zoom                   |
 | 009     | TA                 | Samuel Leung         | n/a                                 |                 |                      |
 | 009     | TA                 | Kaylee (Min-Er) Li   | n/a                                 |                 |                      |
 | 009     | TA                 | Eric Li              | n/a                                 | Fri 10-11am     | Zoom                 |
