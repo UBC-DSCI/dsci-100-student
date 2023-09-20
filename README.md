@@ -80,7 +80,7 @@ _Note that your TAs are students too; they may have class right before their off
 | 003     | TA                 | Eros Rojas           | n/a                                 |     |           |
 | 004     | TA                 | Lily Xie             | n/a                                 |                 |                      |
 | 004     | TA                 | Jeyshinee Pyneeandee | n/a                                 | Fri 5-6pm       | Zoom                 |
-| 004     | TA                 | Linda Han            | n/a                                 | Fri 1-2pm       | Zoom                 |
+| 004     | TA                 | Linda Han            | n/a                                 | Fri 1-2pm       | ESB 1041                |
 | 004     | TA                 | Wasay Hayat          | n/a                                 |                 |                      |
 | All     | TA                 | Mahsa Zarei          | n/a                                 | Mon 7-8pm       | Zoom                 |
 | 008     | TA                 | Angelique Clara      | n/a                                 | Tue 10-11am     | Zoom                 |
