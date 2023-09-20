@@ -37,10 +37,12 @@ df = pd.DataFrame({
 
 `pandas` functions, prefix with `pd.`
 
+| Name       | Description                                                                   |
+|------------|-------------------------------------------------------------------------------|
 | DataFrame  | A two-dimensional, heterogeneous tabular data structure with labeled axes     |
 | Series     | A one-dimensional labeled array capable of holding data of various types      |
 | crosstab   | Compute a cross-tabulation of two (or more) factors, e.g. a confusion matrix. |
-| to_csv     | Write a DataFrame to a CSV                                                    | file
+| to_csv     | Write a DataFrame to a CSV file                                               |
 | concat     | Concatenate pandas objects along a particular axis                            |
 | read_csv   | Read data from a CSV file                                                     |
 | read_excel | Read data from an Excel file                                                  |
