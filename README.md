@@ -83,12 +83,12 @@ _Note that your TAs are students too; they may have class right before their off
 | 004     | TA                 | Linda Han            | n/a                                 | Fri 1-2pm       | ESB 1041                |
 | 004     | TA                 | Wasay Hayat          | n/a                                 |                 |                      |
 | R sections     | TA                 | Mahsa Zarei          | n/a                                 | Mon 7-8pm       | Zoom                 |
-| 008     | TA                 | Angelique Clara      | n/a                                 | Tue 10-11am     | Zoom                 |
+| 008     | TA                 | Angelique Clara      | n/a                                 |     |            |
 | 008     | TA                 | Richard Yang         | n/a                                 |                 |                      |
 | 008     | TA                 | Nelson Li            | n/a                                 |                 |                      |
 | 008     | TA                 | Kevin Wang           | n/a                                 | Thu 1-2pm       | ESB 1041             |
 | 009     | TA                 | Moira Renata         | n/a                                 |   Wed 6-7pm              |   Zoom                   |
-| 009     | TA                 | Samuel Leung         | n/a                                 |                 |                      |
+| 009     | TA                 | Samuel Leung         | n/a                                 | Tue 10-11am                  | ESB 1041                     |
 | 009     | TA                 | Kaylee (Min-Er) Li   | n/a                                 |                 |                      |
 | 009     | TA                 | Eric Li              | n/a                                 | Fri 10-11am     | Zoom                 |
 | 101     | TA                 | Atabak Eghbal        | n/a                                 |                 |                      |
