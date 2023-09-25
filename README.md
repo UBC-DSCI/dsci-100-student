@@ -91,9 +91,9 @@ _Note that your TAs are students too; they may have class right before their off
 | 009     | TA                 | Samuel Leung         | n/a                                 | Tue 10-11am                  | ESB 1041                     |
 | 009     | TA                 | Kaylee (Min-Er) Li   | n/a                                 |                 |                      |
 | 009     | TA                 | Eric Li              | n/a                                 | Fri 10-11am     | Zoom                 |
-| 101     | TA                 | Atabak Eghbal        | n/a                                 |                 |                      |
+| 101     | TA                 | Atabak Eghbal        | n/a                                 | Mon 5-6pm                |   Zoom                   |
 | 101     | TA                 | Feifei Yang          | n/a                                 | Wed 11-12pm     | Zoom                 |
-| 101     | TA                 | Indu Kant Deo        | n/a                                 | Wed 4-5pm       | Zoom                 |
+| 101     | TA                 | Indu Kant Deo        | n/a                                 |      |           |
 
 **Please contact the course coordinator about any administrative questions. Please read the course policy (e.g., late registration, missing exam/assignment due to sickness) below before contacting**.
 
