@@ -106,6 +106,12 @@ When sending emails, please include your student number and DSCI 100 in the subj
 - One final covering all the material in the course
   - To be scheduled by Classroom Services. Invigilated in-person.
 
+The midterm and final are both closed book exams,
+where you will only have access to a reference sheet for common functions and operations.
+We suggest that already now get familiar with the reference sheet relevant to your section
+([Python version](REFERENCE_PYTHON.md))
+to use it more efficiently at the exam.
+
 **Note**: Since DSCI 100 is a large course with multiple sections (hence, multiple versions of exams), the instructors reserve the rights to scale grades in order to maintain equity among sections according the [UBC campus wide policies and regulations](https://www.calendar.ubc.ca/Vancouver/index.cfm?tree=3,42,96,0).
 
 In each class (lecture and tutorial) there will be an assignment:
