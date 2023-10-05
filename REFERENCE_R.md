@@ -97,7 +97,7 @@ Database functions
 | `str_extract`                         |                                                |
 | `str_replace_all`                     |                                                |
 | `summarise`                           |                                                |
-| `summarize`                           |                                                |
+| `summarize`                           | Same as `summarise`                            |
 | `tail`                                |                                                |
 | `tibble`                              |                                                |
 | `tolower`                             |                                                |
@@ -122,7 +122,6 @@ my_data |> ggplot(aes(x = column1, y = column2)) +
 | Function               | Description                                                                          |
 | ---------------------- | ------------------------------------------------------------------------------------ |
 | `aes`                  |                                                                                      |
-| `element_blank`        |                                                                                      |
 | `element_text`         |                                                                                      |
 | `facet_grid`           |                                                                                      |
 | `facet_wrap`           |                                                                                      |
@@ -141,15 +140,10 @@ my_data |> ggplot(aes(x = column1, y = column2)) +
 | `ggsave`               |                                                                                      |
 | `ggtitle`              |                                                                                      |
 | `labs`                 |                                                                                      |
-| `scale_color_manual`   |                                                                                      |
-| `scale_fill_brewer`    |                                                                                      |
-| `scale_fill_distiller` |                                                                                      |
 | `scale_x_continuous`   |                                                                                      |
 | `scale_x_date`         |                                                                                      |
 | `scale_y_continuous`   |                                                                                      |
 | `theme`                |                                                                                      |
-| `theme_bw`             |                                                                                      |
-| `theme_minimal`        |                                                                                      |
 | `xlab`                 |                                                                                      |
 | `xlim`                 |                                                                                      |
 | `ylab`                 |                                                                                      |
@@ -170,52 +164,52 @@ knn_fit <- workflow() |>
 pred <- predict(knn_fit, new_data)
 ```
 
-| Function           | Description |
-| ------------------ | ----------- |
-| `add_model`        |             |
-| `add_recipe`       |             |
-| `add_row`          |             |
-| `all_predictors`   |             |
-| `apparent`         |             |
-| `augment`          |             |
-| `bake`             |             |
-| `bind_cols`        |             |
-| `collect_metrics`  |             |
-| `conf_mat`         |             |
-| `dist`             |             |
-| `factor`           |             |
-| `fit`              |             |
-| `fit_resamples`    |             |
-| `glance`           |             |
-| `initial_split`    |             |
-| `k_means`          |             |
-| `kmeans`           |             |
-| `labeller`         |             |
-| `list`             |             |
-| `linear_reg`       |             |
-| `metrics`          |             |
-| `predict`          |             |
-| `prep`             |             |
-| `testing`          |             |
-| `training`         |             |
-| `tune`             |             |
-| `tune_cluster`     |             |
-| `tune_grid`        |             |
-| `nearest_neighbor` |             |
-| `recipe`           |             |
-| `set_engine`       |             |
-| `set_mode`         |             |
-| `set.seed`         |             |
-| `step_center`      |             |
-| `step_rm`          |             |
-| `step_scale`       |             |
-| `vfold_cv`         |             |
-| `workflow`         |             |
+| Function                          | Description               |
+| --------------------------------- | ------------------------- |
+| `add_model(workflow, model_spec)` | Add a model to a workflow |
+| `add_recipe`                      |                           |
+| `add_row`                         |                           |
+| `all_predictors`                  |                           |
+| `apparent`                        |                           |
+| `augment`                         |                           |
+| `bake`                            |                           |
+| `bind_cols`                       |                           |
+| `collect_metrics`                 |                           |
+| `conf_mat`                        |                           |
+| `dist`                            |                           |
+| `factor`                          |                           |
+| `fit`                             |                           |
+| `fit_resamples`                   |                           |
+| `glance`                          |                           |
+| `initial_split`                   |                           |
+| `k_means`                         |                           |
+| `kmeans`                          |                           |
+| `labeller`                        |                           |
+| `list`                            |                           |
+| `linear_reg`                      |                           |
+| `metrics`                         |                           |
+| `predict`                         |                           |
+| `prep`                            |                           |
+| `testing`                         |                           |
+| `training`                        |                           |
+| `tune`                            |                           |
+| `tune_cluster`                    |                           |
+| `tune_grid`                       |                           |
+| `nearest_neighbor`                |                           |
+| `recipe`                          |                           |
+| `set_engine`                      |                           |
+| `set_mode`                        |                           |
+| `set.seed`                        |                           |
+| `step_center`                     |                           |
+| `step_rm`                         |                           |
+| `step_scale`                      |                           |
+| `vfold_cv`                        |                           |
+| `workflow`                        |                           |
 
 ## Inference
 
-| Function       | Description |
-| -------------- | ----------- |
-| `quantile`     |             |
-| `rep_sample_n` |             |
-| `sample_n`     |             |
+| Function             | Description                                                        |
+| -------------------- | ------------------------------------------------------------------ |
+| `quantile(x, probs)` | Get the quantiles indicated by `probs` from the numeric vector `x` |
+| `rep_sample_n`       |                                                                    |
+| `sample_n`           |                                                                    |
