@@ -25,7 +25,7 @@ This is not mandatory course material! If you are more comfortable using the Jup
 3. Copy the repository clone link from github.com (blue code button -> copy)
 4. Run `git clone https://github.com/mgyliu/dsci-100-demo-f23.git`, **replacing the link with your repo's link**.
 
-After running these steps, you should see a folder called `your_repository`. If you run `ls`, your terminal should show you something like this:
+After running these steps, you should see a folder called `your_repository` (for me, that is `dsci-100-demo-f23`). If you run `ls`, your terminal should show you something like this:
 
 ```
 (base) jovyan@00d39b76cde3:~/work$ ls
@@ -37,9 +37,9 @@ dsci-100-demo-f23  dsci-100-student
 1. `cd dsci-100-demo-f23`: Go into your project directory.
 2. Make some changes to files in your project directory & save. Example: say I changed `README.md`
 3. `git status`: Check which files were changed. `README.md` should show up in red.
-4. `git add README.me`: Add this file to the staging area.
+4. `git add README.md`: Add this file to the staging area.
 5. `git status`: Check which files were changed. `README.md` should show up in green (indicating that it has been staged).
-6. `git commit -m "Update README.me"`: Commit the changes with a message.
+6. `git commit -m "Update README.md"`: Commit the changes with a message.
 7. `git push`: Push the commit to the remote repository. Now your changes can be seen on github.com
 
 ## How to pull changes from github.com to your local computer/server
