@@ -63,10 +63,11 @@ e.g. `mean(column)`.
 | `read_tsv(filepath)`           | Reads tab-separated values into a data frame   |
 | `write_csv(tbl, filepath)`     | Writes data to a CSV file                      |
 
-Database functions are listed below.
+Database functions:
 
 | Function                            | Description                                         |
 | ----------------------------------- | --------------------------------------------------- |
+| `collect(database_table)`           | Convert a database table to a tibble                |
 | `dbConnect(database, dbname)`       | Establishes a connection to a database              |
 | `dbListTables(dbConnect_object)`    | Lists tables in a database connection               |
 | `RPostgres::Postgres()`             | Connects to and interacts with PostgreSQL databases |
@@ -78,19 +79,13 @@ Database functions are listed below.
 | Function                                                           | Description                                                           |
 | ------------------------------------------------------------------ | --------------------------------------------------------------------- |
 | `across(column_range, function)`                                   | Apply the given function to each column in the specified column range |
-| `as_datetime(formatted_string)`                                    | Convert a string to a Date object                                     |
-| `as_factor(column)`                                                | Convert a column to a factor / categorical variable                   |
-| `as_tibble(object)`                                                | Convert an object to a tibble                                         |
 | `arrange(tibble, columns_as_arguments)`                            | Order rows by the values of the given columns (default is increasing) |
-| `collect(database_table)`                                          | Convert a database table to a tibble                                  |
 | `colnames(tbl)`                                                    | Get a list of column names from a tibble                              |
 | `desc(column)`                                                     | Sort a column (or numeric vector) in descending order                 |
 | `everything()`                                                     | Select all variables (used in other functions)                        |
 | `filter(tbl, condition)`                                           | Keep rows that match a condition                                      |
 | `fct_reorder(factor_column, ordering_column, .desc = FALSE)`       | Reorder a column by sorting according to another column               |
 | `group_by(tbl, columns_as_arguments)`                              | Group a tibble by the list of columns provided                        |
-| `head(tbl)`                                                        | Get the first 6 rows of a tibble                                      |
-| `if_else(logical_vector, true_output, false_output)`               | Create a vector of true_outputs and false_outputs for each TRUE/FALSE |
 | `map(tbl, function)`                                               | Apply the given function to each column, creating a list              |
 | `map_chr(tbl, function)`                                           | Apply the given function to each column, creating a character vector  |
 | `map_df(tbl, function)`                                            | Apply the given function to each column, creating a data frame        |
@@ -102,20 +97,36 @@ Database functions are listed below.
 | `select(tbl, columns_as_arguments)`                                | Keep the given columns                                                |
 | `semi_join(tbl, joining_tbl)`                                      | Keep rows that have matching values in joining_tbl                    |
 | `separate(tbl, column, into, sep)`                                 | Split values in a column into new columns based on a separator        |
-| `slice(tbl, row_range)`                                            | Keep rows in the given range                                          |
-| `slice_max(tbl, ordering_column, n)`                               | Keep the n rows with the largest values of a variable                 |
-| `slice_min(tbl, ordering_column, n)`                               | Keep the n rows with the smallest values of a variable                |
-| `str_extract(string, pattern)`                                     | Extract the first substring matching the given pattern                |
-| `str_replace_all(string, pattern, replacement)`                    | Replace all substrings matching the given pattern                     |
 | `summarize(tbl, summaries_as_arguments)`                           | Compute summary statistics on columns                                 |
-| `tail(tbl)`                                                        | Get the last 6 rows of a tibble                                       |
-| `tibble(data)`                                                     | Construct a tibble from the given data                                |
-| `tolower(string)`                                                  | Convert a string to all-lowercase                                     |
-| `toupper(string)`                                                  | Convert a string to all-uppercase                                     |
 | `ungroup(tbl)`                                                     | Undo the effect of group_by()                                         |
-| `unique(tbl)`                                                      | Delete duplicate rows                                                 |
-| `unlist(list)`                                                     | Convert a list to a vector                                            |
-| `unnest(tbl, list_column)`                                         | Expand a column containing a list of tibbles into rows and columns    |
+
+Functions used to convert one type to another:
+
+| Function                        | Description                                         |
+| ------------------------------- | --------------------------------------------------- |
+| `as_datetime(formatted_string)` | Convert a string to a Date object                   |
+| `as_factor(column)`             | Convert a column to a factor / categorical variable |
+| `as_tibble(object)`             | Convert an object to a tibble                       |
+
+Slicing functions:
+
+| Function                             | Description                                            |
+| ------------------------------------ | ------------------------------------------------------ |
+| `head(tbl)`                          | Get the first 6 rows of a tibble                       |
+| `slice(tbl, row_range)`              | Keep rows in the given range                           |
+| `slice_max(tbl, ordering_column, n)` | Keep the n rows with the largest values of a variable  |
+| `slice_min(tbl, ordering_column, n)` | Keep the n rows with the smallest values of a variable |
+| `unique(tbl)`                        | Delete duplicate rows                                  |
+| `tail(tbl)`                          | Get the last 6 rows of a tibble                        |
+
+Functions used to manipulate strings:
+
+| Function                                        | Description                                            |
+| ----------------------------------------------- | ------------------------------------------------------ |
+| `str_extract(string, pattern)`                  | Extract the first substring matching the given pattern |
+| `str_replace_all(string, pattern, replacement)` | Replace all substrings matching the given pattern      |
+| `tolower(string)`                               | Convert a string to all-lowercase                      |
+| `toupper(string)`                               | Convert a string to all-uppercase                      |
 
 ## Visualization
 
@@ -228,6 +239,8 @@ The functions below extend the above table for material in Week 8 (`classificati
 | `tune()`                               | Tune neighbors                                                                            |
 | `tune_cluster(model, resamples, grid)` | Run kmeans on multimple resamples of data                                                 |
 | `tune_grid(model, resamples, grid)`    | Fit the model for each value in a range of parameter values                               |
+| `unlist(list)`                         | Convert a list to a vector                                                                |
+| `unnest(tbl, list_column)`             | Expand a column containing a list of tibbles into rows and columns                        |
 | `vfold_cv(data, v, strata)`            | Perform cross validation                                                                  |
 
 ## Inference
