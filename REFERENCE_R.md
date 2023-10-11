@@ -4,29 +4,29 @@ This reference sheet contains the key objects that we use in DSCI 100, and a bri
 
 ## Base R Operations
 
-| Function                          | Description                                                |
-| --------------------------------- | ---------------------------------------------------------- |
-| `abs(x)`                          | Convert numeric value(s) to absolute value                 |
-| `as.data.frame(x)`                | Converts an object to a data frame                         |
-| `as.numeric(x)`                   | Converts a variable to a numeric data type                 |
-| `c(1,2,3)`                        | Combines values into a vector or list in R                 |
-| `is.na(column)`                   | Detect missing (NA) values in a vector or data frame       |
-| `dim(column)`                     | Returns dimensions (rows and columns) of an R object       |
-| `max(column)`                     | Returns maximum value in a numeric vector                  |
-| `mean(column)`                    | Returns average value in a numeric vector                  |
-| `median(column)`                  | Returns the median value in a numeric vector               |
-| `min(column)`                     | Returns minimum value in a numeric vector                  |
-| `n()`                             | Counts the number of rows in a table's group               |
-| `names(tbl)`                      | Assigns or retrieves names of elements in an R object      |
-| `ncol(tbl)`                       | Returns the number of columns in a matrix/data frame       |
-| `nrow(tbl)`                       | Returns the number of rows in a matrix/data frame          |
-| `print(x)`                        | Displays specified object's value                          |
-| `round(num, digits)`              | Rounds a number to specified decimals                      |
-| `sd(column)`                      | Calculates standard deviation for numeric data             |
-| `seq(from = 1, to = 5, by = 0.5)` | Generates a sequence of numbers                            |
-| `sum(column)`                     | Calculates the sum of numeric values in a vector or matrix |
-| `sort(df)`                        | Sorts a vector or data frame in ascending order            |
-| `sqrt(num)`                       | Computes the square root of a numeric value                |
+| Function             | Description                                                |
+| -------------------- | ---------------------------------------------------------- |
+| `abs(x)`             | Convert numeric value(s) to absolute value                 |
+| `as.data.frame(x)`   | Converts an object to a data frame                         |
+| `as.numeric(x)`      | Converts a variable to a numeric data type                 |
+| `c(1,2,3)`           | Combines values into a vector or list in R                 |
+| `is.na(column)`      | Detect missing (NA) values in a vector or data frame       |
+| `dim(column)`        | Returns dimensions (rows and columns) of an R object       |
+| `max(column)`        | Returns maximum value in a numeric vector                  |
+| `mean(column)`       | Returns average value in a numeric vector                  |
+| `median(column)`     | Returns the median value in a numeric vector               |
+| `min(column)`        | Returns minimum value in a numeric vector                  |
+| `n()`                | Counts the number of rows in a table's group               |
+| `names(tbl)`         | Assigns or retrieves names of elements in an R object      |
+| `ncol(tbl)`          | Returns the number of columns in a matrix/data frame       |
+| `nrow(tbl)`          | Returns the number of rows in a matrix/data frame          |
+| `print(x)`           | Displays specified object's value                          |
+| `round(num, digits)` | Rounds a number to specified decimals                      |
+| `sd(column)`         | Calculates standard deviation for numeric data             |
+| `seq(from, to, by)`  | Generates a sequence of numbers                            |
+| `sum(column)`        | Calculates the sum of numeric values in a vector or matrix |
+| `sort(df)`           | Sorts a vector or data frame in ascending order            |
+| `sqrt(num)`          | Computes the square root of a numeric value                |
 
 ## Operators
 
@@ -54,59 +54,57 @@ This reference sheet contains the key objects that we use in DSCI 100, and a bri
 
 Database functions
 
-| Function                                     | Description                                         |
-| -------------------------------------------- | --------------------------------------------------- |
-| `dbConnect(RSQLite::SQLite(), db_path)`      | Establishes a connection to a database              |
-| `dbListTables(dbConnect_object)`             | Lists tables in a database connection               |
-| `Postgres()`                                 | Connects to and interacts with PostgreSQL databases |
-| `SQLite()`                                   | Access and manage SQLite database connections       |
-| `tbl(dbConnect_object, dbListTables_output)` | Creates a data frame from a data source             |
+| Function                            | Description                                         |
+| ----------------------------------- | --------------------------------------------------- |
+| `dbConnect(database, dbname)`       | Establishes a connection to a database              |
+| `dbListTables(dbConnect_object)`    | Lists tables in a database connection               |
+| `RPostgres::Postgres()`             | Connects to and interacts with PostgreSQL databases |
+| `RSQLite::SQLite()`                 | Access and manage SQLite database connections       |
+| `tbl(dbConnect_object, table_name)` | Creates a data frame from a data source             |
 
 ## Data Wrangling
 
-| Function                              | Description                                    |
-| ------------------------------------- | ---------------------------------------------- |
-| `across`                              |                                                |
-| `as_datetime`                         |                                                |
-| `as_factor`                           |                                                |
-| `as_tibble`                           |                                                |
-| `arrange`                             |                                                |
-| `collect`                             |                                                |
-| `colnames`                            |                                                |
-| `desc`                                |                                                |
-| `everything`                          |                                                |
-| `filter`                              |                                                |
-| `fct_reorder`                         |                                                |
-| `group_by(tbl, columns_as_arguments)` | Group a tibble by the list of columns provided |
-| `head`                                |                                                |
-| `if_else`                             |                                                |
-| `map`                                 |                                                |
-| `map_chr`                             |                                                |
-| `map_df`                              |                                                |
-| `mutate`                              |                                                |
-| `pivot_longer`                        |                                                |
-| `pivot_wider`                         |                                                |
-| `pull`                                |                                                |
-| `rowwise`                             |                                                |
-| `select`                              |                                                |
-| `semi_join`                           |                                                |
-| `separate`                            |                                                |
-| `slice`                               |                                                |
-| `slice_max`                           |                                                |
-| `slice_min`                           |                                                |
-| `str_extract`                         |                                                |
-| `str_replace_all`                     |                                                |
-| `summarise`                           |                                                |
-| `summarize`                           | Same as `summarise`                            |
-| `tail`                                |                                                |
-| `tibble`                              |                                                |
-| `tolower`                             |                                                |
-| `toupper`                             |                                                |
-| `ungroup`                             |                                                |
-| `unique`                              |                                                |
-| `unlist`                              |                                                |
-| `unnest`                              |                                                |
-| `vars`                                |                                                |
+| Function                                                           | Description                                                           |
+| ------------------------------------------------------------------ | --------------------------------------------------------------------- |
+| `across(column_range, function)`                                   | Apply the given function to each column in the specified column range |
+| `as_datetime(formatted_string)`                                    | Convert a string to a Date object                                     |
+| `as_factor(column)`                                                | Convert a column to a factor / categorical variable                   |
+| `as_tibble(object)`                                                | Convert an object to a tibble                                         |
+| `arrange(tibble, columns_as_arguments)`                            | Order rows by the values of the given columns (default is increasing) |
+| `collect(database_table)`                                          | Convert a database table to a tibble                                  |
+| `colnames(tbl)`                                                    | Get a list of column names from a tibble                              |
+| `desc(vector)`                                                     | Sort a vector in descending order                                     |
+| `everything()`                                                     | Select all variables (used in other functions)                        |
+| `filter(tbl, condition)`                                           | Keep rows that match a condition                                      |
+| `fct_reorder(factor_column, ordering_column, .desc = FALSE)`       | Reorder a column by sorting according to another column               |
+| `group_by(tbl, columns_as_arguments)`                              | Group a tibble by the list of columns provided                        |
+| `head(tbl)`                                                        | Get the first 6 rows of a tibble                                      |
+| `if_else(logical_vector, true_output, false_output)`               | Create a vector of true_outputs and false_outputs for each TRUE/FALSE |
+| `map(tbl, function)`                                               | Apply the given function to each column, creating a list              |
+| `map_chr(tbl, function)`                                           | Apply the given function to each column, creating a character vector  |
+| `map_df(tbl, function)`                                            | Apply the given function to each column, creating a data frame        |
+| `mutate(tbl, column_name = ...)`                                   | Create or modify a column in a tibble                                 |
+| `pivot_longer(tbl, column_range, names_to = ..., values_to = ...)` | Move values from column names to cells                                |
+| `pivot_wider(tbl, names_from = ..., values_from = ...)`            | Move variables from cells to column names                             |
+| `pull(tbl, variable)`                                              | Extract a single variable from a tibble                               |
+| `rowwise(tbl)`                                                     | Organize a tibble row-by-row for other functions                      |
+| `select(tbl, columns_as_arguments)`                                | Keep the given columns                                                |
+| `semi_join(tbl, joining_tbl)`                                      | Keep rows that have matching values in joining_tbl                    |
+| `separate(tbl, column, into, sep)`                                 | Split values in a column into new columns based on a separator        |
+| `slice(tbl, row_range)`                                            | Keep rows in the given range                                          |
+| `slice_max(tbl, ordering_column, n)`                               | Keep the n rows with the largest values of a variable                 |
+| `slice_min(tbl, ordering_column, n)`                               | Keep the n rows with the smallest values of a variable                |
+| `str_extract(string, pattern)`                                     | Extract the first substring matching the given pattern                |
+| `str_replace_all(string, pattern, replacement)`                    | Replace all substrings matching the given pattern                     |
+| `summarize(tbl, summaries_as_arguments)`                           | Compute summary statistics on columns                                 |
+| `tail(tbl)`                                                        | Get the last 6 rows of a tibble                                       |
+| `tibble(data)`                                                     | Construct a tibble from the given data                                |
+| `tolower(string)`                                                  | Convert a string to all-lowercase                                     |
+| `toupper(string)`                                                  | Convert a string to all-uppercase                                     |
+| `ungroup(tbl)`                                                     | Undo the effect of group_by()                                         |
+| `unique(tbl)`                                                      | Delete duplicate rows                                                 |
+| `unlist(list)`                                                     | Convert a list to a vector                                            |
+| `unnest(tbl, list_column)`                                         | Expand a column containing a list of tibbles into rows and columns    |
 
 ## Visualization
 
@@ -119,41 +117,44 @@ my_data |> ggplot(aes(x = column1, y = column2)) +
   geom_point()
 ```
 
-| Function                         | Description                                                                          |
-| -------------------------------- | ------------------------------------------------------------------------------------ |
-| `aes(x, y, ...)`                 | Specifies how variables in the data are mapped to properties of the plot             |
-| `element_blank()`                | Used with `theme` system to draw nothing or assign no space (leave blank)            |
-| `element_text(size, colour)`     | Used with `theme` system to control text size, colour, etc.                          |
-| `facet_grid(rows, cols)`         | Creates matrix panels with plots based on specified rows or cols variable            |
-| `facet_wrap(facets)`             | Creates a ribbon of panels wrapped in 2d using specified facets                      |
-| `geom_abline(slope, intercept)`  | Adds a diagonal line to the plot with specified intercept and slope                  |
-| `geom_bar(stat)`                 | Used to create bar graphs with specified `stat` (often "identity" or "count")        |
-| `geom_density()`                 | Used to create a smoothened line version of a histogram                              |
-| `geom_freqpoly()`                | Used to create a lined (not smooth) version of a histogram                           |
-| `geom_histogram(bins, binwidth)` | Creates histogram plots with a specified number of bins and bin width                |
-| `geom_line()`                    | Adds lines to connect data points in the order of the x-axis                         |
-| `geom_point()`                   | Used to create a scatterplot graphs                                                  |
-| `geom_segment(x, y, xend, yend)` | Draws a straight line on plot connecting (x, y) to (xend, yend)                      |
-| `geom_vline(xintercept)`         | Adds a vertical line to the plot at the specified x-intercept                        |
-| `ggmap(map)`                     | Used to display visual maps from Google Maps or Stamen Maps                          |
-| `ggpairs(tbl)`                   | Plots each variables against all the other variables in a scatterplot matrix         |
-| `ggplot(tbl, mapping)`           | Initialize a `ggplot` object, specifying the data and aesthetic mapping for the plot |
-| `ggsave(filename, plot)`         | Saves specified plot with given filename to device                                   |
-| `ggtitle(title)`                 | Adds specified title to the plot                                                     |
-| `labs(x, y, fill, colour, ...)`  | Modifies labels on the plot, specifying what the new labels should be                |
-| `scale_color_manual(values)`     | Manually change the colour for plots by specifying the values                        |
-| `scale_fill_brewer(palette)`     | Changes the fill colour palette to the specified palette                             |
-| `scale_fill_distiller(palette)`  | Changes the fill colour palette for continuous scales                                |
-| `scale_x_continuous(limits)`     | Customize x-axis scales for continuous x variables with specified options            |
-| `scale_x_date(limits, breaks)`   | Customize the x-axis scales for date or time variables in a plot                     |
-| `scale_y_continuous(limits)`     | Customize y-axis scales for continuous y variables with specified options            |
-| `theme(text) `                   | Used to modify the non-data components of the plot with specified options            |
-| `theme_bw()`                     | Uses the classic dark-on-light theme for the plot                                    |
-| `theme_minimal()`                | Uses a minimalistic theme that does not have background annotations for the plot     |
-| `xlab(label)`                    | Modifies the x-axis label to the specified label                                     |
-| `xlim(lo, hi)`                   | Displays only the specified range on the x-axis of the plot                          |
-| `ylab(label)`                    | Modifies the y-axis label to the specified label                                     |
-| `ylim(lo, hi)`                   | Displays only the specified range on the y-axis of the plot                          |
+| Function                        | Description                                                                          |
+| ------------------------------- | ------------------------------------------------------------------------------------ |
+| `aes(x, y, ...)`                | Specifies how variables in the data are mapped to properties of the plot             |
+| `element_text(size, colour)`    | Used with `theme` system to control text size, colour, etc.                          |
+| `facet_grid(rows, cols)`        | Creates matrix panels with plots based on specified rows or cols variable            |
+| `facet_wrap(facets)`            | Creates a ribbon of panels wrapped in 2d using specified facets                      |
+| `ggmap(map)`                    | Used to display visual maps from Google Maps or Stamen Maps                          |
+| `ggpairs(tbl)`                  | Plots each variables against all the other variables in a scatterplot matrix         |
+| `ggplot(tbl, mapping)`          | Initialize a `ggplot` object, specifying the data and aesthetic mapping for the plot |
+| `ggsave(filename, plot)`        | Saves specified plot with given filename to device                                   |
+| `ggtitle(title)`                | Adds specified title to the plot                                                     |
+| `labs(x, y, fill, colour, ...)` | Modifies labels on the plot, specifying what the new labels should be                |
+| `scale_color_manual(values)`    | Manually change the colour for plots by specifying the values                        |
+| `scale_fill_brewer(palette)`    | Changes the fill colour palette to the specified palette                             |
+| `scale_fill_distiller(palette)` | Changes the fill colour palette for continuous scales                                |
+| `scale_x_continuous(limits)`    | Customize x-axis scales for continuous x variables with specified options            |
+| `scale_x_date(limits, breaks)`  | Customize the x-axis scales for date or time variables in a plot                     |
+| `scale_y_continuous(limits)`    | Customize y-axis scales for continuous y variables with specified options            |
+| `theme(text) `                  | Used to modify the non-data components of the plot with specified options            |
+| `xlab(label)`                   | Modifies the x-axis label to the specified label                                     |
+| `xlim(lo, hi)`                  | Displays only the specified range on the x-axis of the plot                          |
+| `ylab(label)`                   | Modifies the y-axis label to the specified label                                     |
+| `ylim(lo, hi)`                  | Displays only the specified range on the y-axis of the plot                          |
+| `vars(columns_as_arguments)`    | Choose variables to split a plot on in `facet_grid()`                                |
+
+Commonly used geometric objects are listed below.
+
+| Function                         | Description                                                                   |
+| -------------------------------- | ----------------------------------------------------------------------------- |
+| `geom_abline(slope, intercept)`  | Adds a diagonal line to the plot with specified intercept and slope           |
+| `geom_bar(stat)`                 | Used to create bar graphs with specified `stat` (often "identity" or "count") |
+| `geom_density()`                 | Used to create a smoothened line version of a histogram                       |
+| `geom_freqpoly()`                | Used to create a lined (not smooth) version of a histogram                    |
+| `geom_histogram(bins, binwidth)` | Creates histogram plots with a specified number of bins and bin width         |
+| `geom_line()`                    | Adds lines to connect data points in the order of the x-axis                  |
+| `geom_point()`                   | Used to create a scatterplot graphs                                           |
+| `geom_segment(x, y, xend, yend)` | Draws a straight line on plot connecting (x, y) to (xend, yend)               |
+| `geom_vline(xintercept)`         | Adds a vertical line to the plot at the specified x-intercept                 |
 
 ## Modeling
 
@@ -204,7 +205,7 @@ pred <- predict(knn_fit, new_data)
 | `recipe(formula, data)`                    | Prepares data for modelling                                                               |
 | `set_engine(engine)`                       | Specify package to fit the model                                                          |
 | `set_mode(mode)`                           | Specify modelling context used                                                            |
-| `set.seed(n)`                              | Avoid randomization                                                                       |
+| `set.seed(n)`                              | Make randomization reproducible                                                           |
 | `step_center(recipe)`                      | Center variables in recipe                                                                |
 | `step_rm(recipe)`                          | Removes specified variables                                                               |
 | `step_scale(recipe)`                       | Scale variables in recipe                                                                 |
