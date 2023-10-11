@@ -167,7 +167,7 @@ Commonly used geometric objects are listed below.
 | `geom_segment(x, y, xend, yend)` | Draws a straight line on plot connecting (x, y) to (xend, yend)               |
 | `geom_vline(xintercept)`         | Adds a vertical line to the plot at the specified x-intercept                 |
 
-## Modeling
+## Modeling (Basics)
 
 A typical `tidymodels` workflow looks something like this:
 
@@ -182,46 +182,53 @@ knn_fit <- workflow() |>
 pred <- predict(knn_fit, new_data)
 ```
 
-| Function                                   | Description                                                                               |
-| ------------------------------------------ | ----------------------------------------------------------------------------------------- |
-| `add_model(workflow, model_spec)`          | Add a model to a workflow                                                                 |
-| `add_recipe(workflow, model_recipe)`       | Add a recipe to a workflow                                                                |
-| `add_row(data, col1, col2)`                | Add rows to a dataframe                                                                   |
-| `all_predictors()`                         | Select all predictors                                                                     |
-| `apparent(data)`                           | Sampling for the apparent error rate                                                      |
-| `augment(fit, data)`                       | Add predictions/residuals/cluster assignments to dataframe                                |
-| `bake(recipe, data)`                       | Applies the results of prep() into the data                                               |
-| `bind_cols(df1, df2)`                      | Combine multiple dataframes together                                                      |
-| `collect_metrics(fitted_model)`            | Aggregate the mean and standard error of the model's accuracy across the folds            |
-| `conf_mat(data, truth, estimate)`          | Computes and returns the confusion matrix                                                 |
-| `dist(data, method)`                       | Computes and returns the distance matrix                                                  |
-| `as_factor(data, variable)`                | Converts a variable to a factor type                                                      |
-| `fit(model, data)`                         | Add data to a workflow to build a fitted model                                            |
-| `fit_resamples(model, resamples)`          | Runs cross-validation on each train/validation split to build a fitted model              |
-| `glance(fitted_model)`                     | Obtain total WSSD of a cluster model                                                      |
-| `initial_split(data, prop, strata)`        | Splits the data                                                                           |
-| `k_means(num_clusters)`                    | Specify that the model is kmeans clustering                                               |
-| `kmeans(data, centers, nstart)`            | Runs k-means clustering on the given data for the specified number of clusters and starts |
-| `list(objects)`                            | Create a list of elements of different types                                              |
-| `linear_reg()`                             | Specify that the model is linear regression                                               |
-| `metrics(data, truth, estimate)`           | Returns the model's accuracy metrics                                                      |
-| `predict(fitted_model, new_obs)`           | Predict values based on model and data                                                    |
-| `prep(recipe)`                             | Prepares data for preprocessing                                                           |
-| `testing(data)`                            | extract testing data                                                                      |
-| `training(data)`                           | extract training data                                                                     |
-| `tune()`                                   | Tune neighbors                                                                            |
-| `tune_cluster(model, resamples, grid)`     | Run kmeans on multimple resamples of data                                                 |
-| `tune_grid(model, resamples, grid)`        | Fit the model for each value in a range of parameter values                               |
-| `nearest_neighbor(weight_func, neighbors)` | Specify that the model is K-Nearest-Neighbor                                              |
-| `recipe(formula, data)`                    | Prepares data for modelling                                                               |
-| `set_engine(engine)`                       | Specify package to fit the model                                                          |
-| `set_mode(mode)`                           | Specify modelling context used                                                            |
-| `set.seed(n)`                              | Make randomization reproducible                                                           |
-| `step_center(recipe)`                      | Center variables in recipe                                                                |
-| `step_rm(recipe)`                          | Removes specified variables                                                               |
-| `step_scale(recipe)`                       | Scale variables in recipe                                                                 |
-| `vfold_cv(data, v, strata)`                | Perform cross validation                                                                  |
-| `workflow()`                               | Create workflow                                                                           |
+The functions below are relevant for Week 7 (`classification1`) and beyond.
+
+| Function                                   | Description                                    |
+| ------------------------------------------ | ---------------------------------------------- |
+| `add_model(workflow, model_spec)`          | Add a model to a workflow                      |
+| `add_recipe(workflow, model_recipe)`       | Add a recipe to a workflow                     |
+| `add_row(data, col1, col2)`                | Add rows to a dataframe                        |
+| `all_predictors()`                         | Select all predictors                          |
+| `bake(recipe, data)`                       | Applies the results of prep() into the data    |
+| `bind_cols(df1, df2)`                      | Combine multiple dataframes together           |
+| `dist(data, method)`                       | Computes and returns the distance matrix       |
+| `as_factor(data, variable)`                | Converts a variable to a factor type           |
+| `fit(model, data)`                         | Add data to a workflow to build a fitted model |
+| `predict(fitted_model, new_obs)`           | Predict values based on model and data         |
+| `prep(recipe)`                             | Prepares data for preprocessing                |
+| `nearest_neighbor(weight_func, neighbors)` | Specify that the model is K-Nearest-Neighbor   |
+| `recipe(formula, data)`                    | Prepares data for modelling                    |
+| `set_engine(engine)`                       | Specify package to fit the model               |
+| `set_mode(mode)`                           | Specify modelling context used                 |
+| `set.seed(n)`                              | Make randomization reproducible                |
+| `step_center(recipe)`                      | Center variables in recipe                     |
+| `step_rm(recipe)`                          | Removes specified variables                    |
+| `step_scale(recipe)`                       | Scale variables in recipe                      |
+| `workflow()`                               | Create workflow                                |
+
+The functions below extend the above table for material in Week 8 (`classification2`) and beyond.
+
+| Function                               | Description                                                                               |
+| -------------------------------------- | ----------------------------------------------------------------------------------------- |
+| `apparent(data)`                       | Sampling for the apparent error rate                                                      |
+| `augment(fit, data)`                   | Add predictions/residuals/cluster assignments to dataframe                                |
+| `collect_metrics(fitted_model)`        | Aggregate the mean and standard error of the model's accuracy across the folds            |
+| `conf_mat(data, truth, estimate)`      | Computes and returns the confusion matrix                                                 |
+| `fit_resamples(model, resamples)`      | Runs cross-validation on each train/validation split to build a fitted model              |
+| `glance(fitted_model)`                 | Obtain total WSSD of a cluster model                                                      |
+| `initial_split(data, prop, strata)`    | Splits the data                                                                           |
+| `k_means(num_clusters)`                | Specify that the model is kmeans clustering                                               |
+| `kmeans(data, centers, nstart)`        | Runs k-means clustering on the given data for the specified number of clusters and starts |
+| `list(objects)`                        | Create a list of elements of different types                                              |
+| `linear_reg()`                         | Specify that the model is linear regression                                               |
+| `metrics(data, truth, estimate)`       | Returns the model's accuracy metrics                                                      |
+| `testing(data)`                        | extract testing data                                                                      |
+| `training(data)`                       | extract training data                                                                     |
+| `tune()`                               | Tune neighbors                                                                            |
+| `tune_cluster(model, resamples, grid)` | Run kmeans on multimple resamples of data                                                 |
+| `tune_grid(model, resamples, grid)`    | Fit the model for each value in a range of parameter values                               |
+| `vfold_cv(data, v, strata)`            | Perform cross validation                                                                  |
 
 ## Inference
 
