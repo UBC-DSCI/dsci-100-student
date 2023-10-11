@@ -1,6 +1,17 @@
 # DSCI 100 function reference sheet for R
 
-This reference sheet contains the key objects that we use in DSCI 100, and a brief syntax example for each of the main packages. During the closed book exams, you will still have access to this page, so get familiar with it already now. There is no guarantee that every function or parameter in the textbook is covered here, but if you think there is something missing, please let us know and we can consider adding it.
+This reference sheet contains the key objects that we use in DSCI 100, and a
+brief syntax example for each of the main packages. During the closed book
+exams, you will still have access to this page, so get familiar with it already
+now. There is no guarantee that every function or parameter in the textbook is
+covered here, but if you think there is something missing, please let us know
+and we can consider adding it.
+
+Note that we have only described use cases relevant to DSCI 100.
+Sometimes we have included the exact parameter name of a function,
+e.g. `print(x)`,
+other times we have opted to included a more descriptive name,
+e.g. `mean(column)`.
 
 ## Base R Operations
 
@@ -52,7 +63,7 @@ This reference sheet contains the key objects that we use in DSCI 100, and a bri
 | `read_tsv(filepath)`           | Reads tab-separated values into a data frame   |
 | `write_csv(tbl, filepath)`     | Writes data to a CSV file                      |
 
-Database functions
+Database functions are listed below.
 
 | Function                            | Description                                         |
 | ----------------------------------- | --------------------------------------------------- |
@@ -73,7 +84,7 @@ Database functions
 | `arrange(tibble, columns_as_arguments)`                            | Order rows by the values of the given columns (default is increasing) |
 | `collect(database_table)`                                          | Convert a database table to a tibble                                  |
 | `colnames(tbl)`                                                    | Get a list of column names from a tibble                              |
-| `desc(vector)`                                                     | Sort a vector in descending order                                     |
+| `desc(column)`                                                     | Sort a column (or numeric vector) in descending order                 |
 | `everything()`                                                     | Select all variables (used in other functions)                        |
 | `filter(tbl, condition)`                                           | Keep rows that match a condition                                      |
 | `fct_reorder(factor_column, ordering_column, .desc = FALSE)`       | Reorder a column by sorting according to another column               |
@@ -108,7 +119,7 @@ Database functions
 
 ## Visualization
 
-A typical `ggplot2` syntax for creating a new chart looks something like this:
+A typical `ggplot2` syntax for creating a new plot looks something like this:
 
 ```
 library(tidyverse)
