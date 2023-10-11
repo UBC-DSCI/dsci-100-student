@@ -167,7 +167,7 @@ Commonly used geometric objects are listed below.
 | `geom_segment(x, y, xend, yend)` | Draws a straight line on plot connecting (x, y) to (xend, yend)               |
 | `geom_vline(xintercept)`         | Adds a vertical line to the plot at the specified x-intercept                 |
 
-## Modeling (Basics)
+## Modeling
 
 A typical `tidymodels` workflow looks something like this:
 
