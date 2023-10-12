@@ -41,14 +41,14 @@ e.g. `mean(column)`.
 
 ## Operators
 
-| Function | Description                                            |
-| -------- | ------------------------------------------------------ |
-| `==`     | Compares two values and returns TRUE if they are equal |
-| `%in%`   | Checks if elements on the left side are in the right   |
-| `!`      | Negates a logical value (!TRUE is FALSE)               |
-| `&`      | Performs element-wise logical AND operations           |
-| `\|`     | Represents the OR logical operator                     |
-| `\|>`    | Pipe operator, which passes data from left to right    |
+| Function             | Description                                            |
+| -------------------- | ------------------------------------------------------ |
+| `==`                 | Compares two values and returns TRUE if they are equal |
+| `%in%`               | Checks if elements on the left side are in the right   |
+| `!`                  | Negates a logical value (!TRUE is FALSE)               |
+| `&`                  | Performs element-wise logical AND operations           |
+| <code>&#124;</code>  | Represents the OR logical operator                     |
+| <code>&#124;></code> | Pipe operator, which passes data from left to right    |
 
 ## Data Reading
 
