@@ -66,34 +66,34 @@ By the end of the course, students will be able to:
 
 _Note that your TAs are students too; they may have class right before their office hours, and they may run a few minutes late. Please be patient!_
 
-| Section | Position           | Name                 | Email                               | Office Hours    | Office Hour Location |
-| ------- | :----------------- | :------------------- | :---------------------------------- | :-------------- | :------------------- |
-| All     | Course coordinator | Julia Peng           | courses[-at-]stat.ubc.ca            | n/a             | n/a                  |
-| 002     | Instructor         | Daniel Chen          | daniel.chen[-at-]stat.ubc.ca        | Mon 5.30-6.30pm | HENN 200             |
-| 003     | Instructor         | Maggie Liu           | yitong.liu[-at-]stat.ubc.ca         | Thu 1:30-2:30pm | ESB 1043             |
-| 004     | Instructor         | Anthony Christidis   | anthony.christidis[-at-]stat.ubc.ca | Tue 4-5pm       |   Zoom                   |
-| 008     | Instructor         | Vivian Meng          | vivian.meng[-at-]stat.ubc.ca        |    Friday 2-3pm      |      ESB 3174    |
-| 101     | Instructor         | Joel Ostblom         | joel.ostblom[-at-]ubc.ca            | Fri 4-5pm       | Zoom                 |
-| 003     | TA                 | Andal Abro Khan      | n/a                                 |                 |                      |
-| 003     | TA                 | Jossie Jiang         | n/a                                 | Thu 11-12pm     | Zoom                 |
-| 003     | TA                 | Ali Mehrabian        | n/a                                 |   Thu 1-2pm     |   Zoom               |
-| 003     | TA                 | Eros Rojas           | n/a                                 |     |           |
-| 004     | TA                 | Lily Xie             | n/a                                 |                 |                      |
-| 004     | TA                 | Jeyshinee Pyneeandee | n/a                                 | Fri 5-6pm       | Zoom                 |
-| 004     | TA                 | Linda Han            | n/a                                 | Fri 1-2pm       | ESB 1041                |
-| 004     | TA                 | Wasay Hayat          | n/a                                 |                 |                      |
-| R sections     | TA                 | Mahsa Zarei          | n/a                                 | Mon 7-8pm       | Zoom                 |
-| 008     | TA                 | Angelique Clara      | n/a                                 |     |            |
-| 008     | TA                 | Richard Yang         | n/a                                 |                 |                      |
-| 008     | TA                 | Nelson Li            | n/a                                 |                 |                      |
-| 008     | TA                 | Kevin Wang           | n/a                                 | Thu 1-2pm       | ESB 1041             |
-| 009     | TA                 | Moira Renata         | n/a                                 |   Wed 6-7pm              |   Zoom                   |
-| 009     | TA                 | Samuel Leung         | n/a                                 | Tue 10-11am                  | ESB 1041                     |
-| 009     | TA                 | Kaylee (Min-Er) Li   | n/a                                 |                 |                      |
-| 009     | TA                 | Eric Li              | n/a                                 | Fri 10-11am     | Zoom                 |
-| 101     | TA                 | Atabak Eghbal        | n/a                                 | Mon 5-6pm                |   Zoom                   |
-| 101     | TA                 | Feifei Yang          | n/a                                 | Thu 3-4pm     | Zoom                 |
-| 101     | TA                 | Indu Kant Deo        | n/a                                 |      |           |
+| Section    | Position           | Name                 | Email                               | Office Hours    | Office Hour Location |
+| ---------- | :----------------- | :------------------- | :---------------------------------- | :-------------- | :------------------- |
+| All        | Course coordinator | Julia Peng           | courses[-at-]stat.ubc.ca            | n/a             | n/a                  |
+| 002        | Instructor         | Daniel Chen          | daniel.chen[-at-]stat.ubc.ca        | Mon 5.30-6.30pm | HENN 200             |
+| 003        | Instructor         | Maggie Liu           | yitong.liu[-at-]stat.ubc.ca         | Thu 1:30-2:30pm | ESB 1043             |
+| 004        | Instructor         | Anthony Christidis   | anthony.christidis[-at-]stat.ubc.ca | Tue 4-5pm       | Zoom                 |
+| 008        | Instructor         | Vivian Meng          | vivian.meng[-at-]stat.ubc.ca        | Friday 2-3pm    | ESB 3174             |
+| 101        | Instructor         | Joel Ostblom         | joel.ostblom[-at-]ubc.ca            | Fri 4-5pm       | Zoom                 |
+| 003        | TA                 | Andal Abro Khan      | n/a                                 |                 |                      |
+| 003        | TA                 | Jossie Jiang         | n/a                                 | Thu 11-12pm     | Zoom                 |
+| 003        | TA                 | Ali Mehrabian        | n/a                                 | Thu 1-2pm       | Zoom                 |
+| 003        | TA                 | Eros Rojas           | n/a                                 |                 |                      |
+| 004        | TA                 | Lily Xie             | n/a                                 |                 |                      |
+| 004        | TA                 | Jeyshinee Pyneeandee | n/a                                 | Fri 5-6pm       | Zoom                 |
+| 004        | TA                 | Linda Han            | n/a                                 | Fri 1-2pm       | ESB 1041             |
+| 004        | TA                 | Wasay Hayat          | n/a                                 |                 |                      |
+| R sections | TA                 | Mahsa Zarei          | n/a                                 | Mon 7-8pm       | Zoom                 |
+| 008        | TA                 | Angelique Clara      | n/a                                 |                 |                      |
+| 008        | TA                 | Richard Yang         | n/a                                 |                 |                      |
+| 008        | TA                 | Nelson Li            | n/a                                 |                 |                      |
+| 008        | TA                 | Kevin Wang           | n/a                                 | Thu 1-2pm       | ESB 1041             |
+| 009        | TA                 | Moira Renata         | n/a                                 | Wed 6-7pm       | Zoom                 |
+| 009        | TA                 | Samuel Leung         | n/a                                 | Tue 10-11am     | ESB 1041             |
+| 009        | TA                 | Kaylee (Min-Er) Li   | n/a                                 |                 |                      |
+| 009        | TA                 | Eric Li              | n/a                                 | Fri 10-11am     | Zoom                 |
+| 101        | TA                 | Atabak Eghbal        | n/a                                 | Mon 5-6pm       | Zoom                 |
+| 101        | TA                 | Feifei Yang          | n/a                                 | Thu 3-4pm       | Zoom                 |
+| 101        | TA                 | Indu Kant Deo        | n/a                                 |                 |                      |
 
 **Please contact the course coordinator about any administrative questions. Please read the course policy (e.g., late registration, missing exam/assignment due to sickness) below before contacting**.
 
@@ -109,7 +109,7 @@ When sending emails, please include your student number and DSCI 100 in the subj
 The midterm and final are both closed book exams,
 where you will only have access to a reference sheet for common functions and operations.
 We suggest that already now get familiar with the reference sheet relevant to your section
-([Python version](REFERENCE_PYTHON.md))
+([Python version](REFERENCE_PYTHON.md) or [R version](REFERENCE_R.md))
 to use it more efficiently at the exam.
 
 **Note**: Since DSCI 100 is a large course with multiple sections (hence, multiple versions of exams), the instructors reserve the rights to scale grades in order to maintain equity among sections according the [UBC campus wide policies and regulations](https://www.calendar.ubc.ca/Vancouver/index.cfm?tree=3,42,96,0).
