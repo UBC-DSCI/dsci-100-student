@@ -139,7 +139,7 @@ alt.Chart(df).mark_point().encode(
 
 ## Machine learning (`scikit-learn`)
 
-A typical scikit-learn pipeline would look something like this:
+Setting up a typical scikit-learn model would look something like this:
 
 ```python
 knn = KNeighborsClassifier(n_neighbors=3)
@@ -152,6 +152,7 @@ knn.score(X_test, y_test)
 | GridSearchCV(estimator, param_grid, cv)                            | Perform an exhaustive search over a hyperparameter grid to find the best combination using cross-validation. |
 | KMeans(n_clusters)                                                 | Initialize a K-Means clustering algorithm for grouping data points into clusters based on similarity.        |
 | KNeighborsClassifier(n_neighbors)                                  | Initialize a k-Nearest Neighbors classifier for classification tasks.                                        |
+| KNeighborsRegressor(n_neighbors)                                   | Initialize a k-Nearest Neighbors regressor for regression tasks.                                             |
 | LinearRegression()                                                 | Initialize a Linear regression model for predicting continuous target values from input features.            |
 | SimpleImputer()                                                    | Initialize a Imputation transformer for handling missing data using simple strategies.                       |
 | StandardScaler()                                                   | Initialize a Scaler for standardizing features by subtracting the mean and scaling to unit variance.         |
