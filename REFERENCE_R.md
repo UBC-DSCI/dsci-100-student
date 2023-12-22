@@ -52,16 +52,16 @@ e.g. `mean(column)`.
 
 ## Data Reading
 
-| Function                       | Description                                    |
-| ------------------------------ | ---------------------------------------------- |
-| `download.file(url, destfile)` | Download a file from the web                   |
-| `read_csv(filepath)`           | Reads comma-separated values into a data frame |
-| `read_csv2(filepath)`          | Reads CSV files with semicolon delimiter       |
-| `read_delim(filepath, delim)`  | Reads data from a delimited text file          |
-| `read_excel(filepath)`         | Reads Excel files into R data frames           |
-| `read_html(filepath)`          | Reads and parses HTML web pages                |
-| `read_tsv(filepath)`           | Reads tab-separated values into a data frame   |
-| `write_csv(tbl, filepath)`     | Writes data to a CSV file                      |
+| Function                                       | Description                                    |
+| ---------------------------------------------- | ---------------------------------------------- |
+| `download.file(url, destfile)`                 | Download a file from the web                   |
+| `read_csv(filepath)`                           | Reads comma-separated values into a data frame |
+| `read_csv2(filepath)`                          | Reads CSV files with semicolon delimiter       |
+| `read_delim(filepath, delim, skip, col_names)` | Reads data from a delimited text file          |
+| `read_excel(filepath)`                         | Reads Excel files into R data frames           |
+| `read_html(filepath)`                          | Reads and parses HTML web pages                |
+| `read_tsv(filepath)`                           | Reads tab-separated values into a data frame   |
+| `write_csv(tbl, filepath)`                     | Writes data to a CSV file                      |
 
 Database functions:
 
