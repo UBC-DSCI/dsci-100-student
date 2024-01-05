@@ -2,13 +2,14 @@
 
 ## Time and Place
 
-| Section             | Days    | Time          | Room      | Instructor         |
-| :------------------ | :------ | :------------ | :-------- | :----------------- |
-| DSCI 100 - 003 (R)  | Tue/Thu | 15:30 - 17:00 | HENN 200  | Maggie Liu         |
-| DSCI 100 - 004 (R)  | Tue/Thu | 11:00 - 12:30 | SWING 222 | Anthony Christidis |
-| DSCI 100 - 008 (R)  | Tue/Thu | 08:00 - 09:30 | HENN 200  | Vivian Meng        |
-| DSCI 100 - 009 (R)  | Mon/Wed | 16:00 - 17:30 | HENN 200  | Daniel Chen        |
-| DSCI 100 - 101 (Py) | Wed/Fri | 14:00 - 15:30 | FRDM 153  | Joel Ostblom       |
+| Section             | Days    | Time          |  Instructor         |
+| :------------------ | :------ | :------------ | :----------------- |
+| DSCI 100 - 002 (R)  | Tue/Thu | 15:30 - 17:00 | Eugenia Yu        |
+| DSCI 100 - 005 (R)  | Tue/Thu | 08:00 - 09:30 |  Katie Burak |
+| DSCI 100 - 006 (R)  | Tue/Thu | 16:00 - 17:30 |   Trevor Campbell      |
+| DSCI 100 - 007 (R)  | Mon/Fri | 15:00 - 16:30 |   Maggie Liu       |
+| DSCI 100 - 010 (R)  | Mon/Fri | 16:00 - 17:30 |  Daniel Chen        |
+| DSCI 100 - 100 (Py) | Tue/Thu | 12:30 - 02:00 |  Lindsey Heagy and Eldad Haber |
 
 ## Course Description
 
@@ -69,31 +70,34 @@ _Note that your TAs are students too; they may have class right before their off
 | Section    | Position           | Name                 | Email                               | Office Hours    | Office Hour Location |
 | ---------- | :----------------- | :------------------- | :---------------------------------- | :-------------- | :------------------- |
 | All        | Course coordinator | Julia Peng           | courses[-at-]stat.ubc.ca            | n/a             | n/a                  |
-| 002        | Instructor         | Daniel Chen          | daniel.chen[-at-]stat.ubc.ca        | Mon 5.30-6.30pm | HENN 200             |
-| 003        | Instructor         | Maggie Liu           | yitong.liu[-at-]stat.ubc.ca         | Thu 1:30-2:30pm | ESB 1043             |
-| 004        | Instructor         | Anthony Christidis   | anthony.christidis[-at-]stat.ubc.ca | Tue 4-5pm       | Zoom                 |
-| 008        | Instructor         | Vivian Meng          | vivian.meng[-at-]stat.ubc.ca        | Friday 2-3pm    | ESB 3174             |
-| 101        | Instructor         | Joel Ostblom         | joel.ostblom[-at-]ubc.ca            | Fri 4-5pm       | Zoom                 |
-| 003        | TA                 | Andal Abro Khan      | n/a                                 |                 |                      |
-| 003        | TA                 | Jossie Jiang         | n/a                                 | Thu 11-12pm     | Zoom                 |
-| 003        | TA                 | Ali Mehrabian        | n/a                                 | Thu 1-2pm       | Zoom                 |
-| 003        | TA                 | Eros Rojas           | n/a                                 |                 |                      |
-| 004        | TA                 | Lily Xie             | n/a                                 |                 |                      |
-| 004        | TA                 | Jeyshinee Pyneeandee | n/a                                 | Fri 5-6pm       | Zoom                 |
-| 004        | TA                 | Linda Han            | n/a                                 | Fri 1-2pm       | ESB 1041             |
-| 004        | TA                 | Wasay Hayat          | n/a                                 |                 |                      |
-| R sections | TA                 | Mahsa Zarei          | n/a                                 | Mon 7-8pm       | Zoom                 |
-| 008        | TA                 | Angelique Clara      | n/a                                 |                 |                      |
-| 008        | TA                 | Richard Yang         | n/a                                 |                 |                      |
-| 008        | TA                 | Nelson Li            | n/a                                 |                 |                      |
-| 008        | TA                 | Kevin Wang           | n/a                                 | Thu 1-2pm       | ESB 1041             |
-| 009        | TA                 | Moira Renata         | n/a                                 | Wed 6-7pm       | Zoom                 |
-| 009        | TA                 | Samuel Leung         | n/a                                 | Tue 10-11am     | ESB 1041             |
-| 009        | TA                 | Kaylee (Min-Er) Li   | n/a                                 |                 |                      |
-| 009        | TA                 | Eric Li              | n/a                                 | Fri 10-11am     | Zoom                 |
-| 101        | TA                 | Atabak Eghbal        | n/a                                 | Mon 5-6pm       | Zoom                 |
-| 101        | TA                 | Feifei Yang          | n/a                                 | Thu 3-4pm       | Zoom                 |
-| 101        | TA                 | Indu Kant Deo        | n/a                                 |                 |                      |
+| 002        | Instructor         | Eugenia Yu          | eugenia[-at-]stat.ubc.ca        |  |              |
+| 005        | Instructor         | Katie Burak           | kburak[-at-]stat.ubc.ca         |  |              |
+| 006        | Instructor         | Trevor Campbell  | trevor[-at-]stat.ubc.ca |        |                  |
+| 007        | Instructor         |  Maggie Liu           | yitong.liu[-at-]stat.ubc.ca         |  |          |
+| 010        | Instructor         | Daniel Chen          | daniel.chen[-at-]stat.ubc.ca        |  |         |
+| 101        | Instructor         | Lindsey Heagy         | lheagy[-at-]eoas.ubc.ca          |        |            |
+| 101        | Instructor         | Eldad Haber         |           |      |          |
+| 002        | TA                 | Andal Abro Khan      | n/a                                 |                 |                      |
+| 002        | TA                 | Kevin Wang         | n/a                                 |     |                  |
+| 002        | TA                 | Vinicius Santos        | n/a                                 |       |                  |
+| 002        | TA                 | Eric Li           | n/a                                 |                 |                      |
+| 005        | TA                 | Linda Han             | n/a                                 |                 |                      |
+| 005        | TA                 | Richard Yang | n/a                                 |      |                 |
+| 005        | TA                 | Mahsa Zarei            | n/a                                 |       |            |
+| 006        | TA                 | Ding Ma          | n/a                                 |                 |                      |
+| 006         | TA                 | Eros Rojas          | n/a                                 |        |             |
+| 006        | TA                 | Angelique Clara      | n/a                                 |                 |                      |
+| 006        | TA                 | Jeysh Peyneeandee         | n/a                                 |                 |                      |
+| 007        | TA                 | Ali Mehrabian            | n/a                                 |                 |                      |
+| 007        | TA                 |    Parsa Delavari        | n/a                                 |        |              |
+| 007        | TA                 |    Pooria Ashrafian       | n/a                                 |        |                |
+| 007        | TA                 |   Shruti Vijaykumar Seetharam      | n/a                                 |     |          |
+| 010        | TA                 | Moira Renata   | n/a                                 |                 |                      |
+| 010        | TA                 | Johnson Chen              | n/a                                 |      |                  |
+| 010        | TA                 | Jenny Lee              | n/a                                 |      |                  |
+| 100        | TA                 | Atabak Eghbal        | n/a                                 |       |                  |
+| 100        | TA                 | Feifei Yang          | n/a                                 |      |                  |
+
 
 **Please contact the course coordinator about any administrative questions. Please read the course policy (e.g., late registration, missing exam/assignment due to sickness) below before contacting**.
 
