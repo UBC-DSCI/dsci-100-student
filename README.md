@@ -87,7 +87,7 @@ _Note that your TAs are students too; they may have class right before their off
 | 006        | TA                 | Ding Ma          | n/a                                 |                 |                      |
 | 006         | TA                 | Eros Rojas          | n/a                                 |        |             |
 | 006        | TA                 | Angelique Clara      | n/a                                 |                 |                      |
-| 006        | TA                 | Jeysh Peyneeandee         | n/a                                 |                 |                      |
+| 006        | TA                 | Jeyshinee Pyneeandee         | n/a                                 |                 |                      |
 | 007        | TA                 | Ali Mehrabian            | n/a                                 |                 |                      |
 | 007        | TA                 |    Parsa Delavari        | n/a                                 |        |              |
 | 007        | TA                 |    Pooria Ashrafian       | n/a                                 |        |                |
