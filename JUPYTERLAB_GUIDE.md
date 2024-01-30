@@ -137,3 +137,7 @@ If you do accidentally delete a grading cell, you should [get a fresh copy of th
 Some questions have hidden tests that are not shown in the student version of the assignment.
 
 Your answer may have passed the visible tests but failed the hidden tests when it was being marked.
+
+### I made a typo in my code, can I still get marks for the question?
+
+The questions include tests that give instant feedback on your code. Run those tests frequently to ensure that you haven't made any typos.
