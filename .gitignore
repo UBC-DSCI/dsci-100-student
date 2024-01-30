@@ -1,7 +1,0 @@
-# DO NOT CHANGE THIS 
-# All files are ignored to prevent students/JupyterLab git
-# extension from accidentally staging things and breaking nbgitpuller
-
-*
-*/
-!.gitignore

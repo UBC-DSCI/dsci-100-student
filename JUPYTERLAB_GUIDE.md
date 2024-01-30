@@ -9,6 +9,7 @@ This guide contains tips and FAQs which help to avoid common issues that arise w
 3. [Check memory usage](#check-memory-usage)
 4. [Get a fresh copy of a notebook](#get-a-fresh-copy-of-a-notebook)
 5. [View hidden files](#view-hidden-files)
+6. [Get a copy of everything](#get-a-copy-of-everything)
 
 ### FAQs
 1. [Why did I get a zero/low-mark when I submitted everything on time?](#why-did-i-get-a-zerolow-mark-when-i-submitted-everything-on-time)
