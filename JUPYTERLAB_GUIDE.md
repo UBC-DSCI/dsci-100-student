@@ -139,6 +139,8 @@ Some questions have hidden tests that are not shown in the student version of th
 
 Your answer may have passed the visible tests but failed the hidden tests when it was being marked.
 
+Examine the feedback for the question carefully to see if hidden tests were run on your code. Instructions for accessing feedback are [here](#check-solutions-or-feedback).
+
 ### I made a typo in my code, can I still get marks for the question?
 
 We will not be making exceptions for typos in autograded coding questions.
