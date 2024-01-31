@@ -25,7 +25,7 @@ This guide contains tips and FAQs which help to avoid common issues that arise w
 
 When working on a notebook, you might want to have multiple tabs of the same notebook open to easily reference previous questions.
 
-**DO NOT** open another browser tab and create another instance of JupyterLab and open the notebook. Doing so may overwrite the notebook you are working on with an empty or half-completed version.
+**DO NOT** open another browser tab, create another instance of JupyterLab, and open the same notebook. Doing so may overwrite the notebook you are working on with an empty or half-completed version.
 
 Instead, use JupyterLab's built in tab functionality to create another view for the notebook.
 
@@ -141,4 +141,7 @@ Your answer may have passed the visible tests but failed the hidden tests when i
 
 ### I made a typo in my code, can I still get marks for the question?
 
+We will not be making exceptions for typos in autograded coding questions.
+
 The questions include tests that give instant feedback on your code. Run those tests frequently to ensure that you haven't made any typos.
+
