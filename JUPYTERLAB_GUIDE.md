@@ -155,6 +155,7 @@ Before continuing with the instructions below, try JupyterLab again after restar
 The errors could be due to your browser's cache and it may need to be cleared.
 
 Instructions:
+
 [For Edge](https://www.microsoft.com/en-us/edge/learning-center/how-to-manage-and-clear-your-cache-and-cookies?form=MA13I2)
 
 [For Chrome](https://support.google.com/accounts/answer/32050?hl=en&co=GENIE.Platform%3DDesktop)
