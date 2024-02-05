@@ -146,7 +146,9 @@ Examine the feedback for the question carefully to see if hidden tests were run 
 
 We will not be making exceptions for typos in autograded coding questions.
 
-The questions include tests that give instant feedback on your code. Run those tests frequently to ensure that you haven't made any typos.
+Read the questions carefully as some questions request answers of a certain type (e.g. String).
+
+The questions also include tests that give instant feedback on your code. Run those tests frequently to ensure that you haven't made any typos.
 
 ### I am getting a 400 (Bad Request) or 404 (Not Found) error, how do I fix it?
 
