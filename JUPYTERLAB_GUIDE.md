@@ -9,7 +9,8 @@ This guide contains tips and FAQs which help to avoid common issues that arise w
 3. [Check memory usage](#check-memory-usage)
 4. [Get a fresh copy of a notebook](#get-a-fresh-copy-of-a-notebook)
 5. [View hidden files](#view-hidden-files)
-6. [Get a copy of everything](#get-a-copy-of-everything)
+6. [Clone a GitHub repo](#clone-a-github-repo)
+7. [Get a copy of everything](#get-a-copy-of-everything)
 
 ### FAQs
 1. [Why did I get a zero/low-mark when I submitted everything on time?](#why-did-i-get-a-zerolow-mark-when-i-submitted-everything-on-time)
@@ -83,6 +84,30 @@ Then close JupyterLab and then open the assignment again on Canvas. A new copy o
 *Warning*: Only delete hidden files that you have created, other hidden files may be used by the server
 
 To view hidden files, on the top left go to **View** and on the dropdown click **Show Hidden Files**
+
+## Clone a GitHub repo
+
+To clone a GitHub repo for collaborative work, follow these steps:
+
+1. Find the HTTPS repo link from GitHub and copy it to the clipboard
+
+![alt text](images/image5.png)
+
+2. Go to your JupyterLab and make sure you're in the home directory by clicking the small grey folder icon on the top left of the menu that shows your files and folders
+
+![Alt text](images/image2.png)
+
+3. Go to the JupyterLab git extension menu by clicking its tab on the left of JupyterLab:
+
+![alt text](images/image6.png)
+
+4. Click "Clone a Repository" and then paste the repo link from step 1 into the box and click Clone.
+
+![alt text](images/image7.png)
+
+The repo should now be in your home directory in a folder titled with the name of your repo.
+
+To get to your cloned repo, remember to navigate to the home directory as shown in step 2.
 
 ## Get a copy of everything
 
