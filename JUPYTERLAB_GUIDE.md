@@ -73,7 +73,7 @@ Run your notebook one cell at a time. If you hit a cell that causes memory usage
 
 ## Get a fresh copy of a notebook
 
-If you need a new copy of a notebook, for example if you accidentally deleted a grading cell, first rename the notebook you have in your account currently.
+If you need a new copy of a notebook, for example if you accidentally deleted a grading cell or want one for practice, first rename the notebook you have in your account currently.
 
 For example if you need a new copy of a `worksheet_wrangling.ipynb`, right-click it in the file menu and choose the **Rename** option and rename it to `worksheet_wrangling_old.ipynb`.
 
@@ -126,6 +126,10 @@ If you received a `Disk quota exceeded` error, then there are too many files. De
 3. Go to your home folder [as described here](#check-solutions-or-feedback) and there should be a zip file. Right-click the file and click Download to download a copy onto your device. 
 
 ## FAQs
+
+### How do I get a blank worksheet or tutorial for practice?
+
+Follow the instructions [here](#get-a-fresh-copy-of-a-notebook) to get a blank copy of a tutorial or worksheet.
 
 ### Why did I get a zero/low-mark when I submitted everything on time?
 
