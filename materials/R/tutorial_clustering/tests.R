@@ -150,7 +150,7 @@ test_that('Did not create a object named pokemon_spec', {
         expect_equal(digest(pokemon_clustering$trained), 'bb73ad91bcb7e948250d465016f7bea8')
     })
     test_that('pokemon_clustering has the wrong clustering', {
-        expect_equal(digest(pokemon_clustering$fit$fit$fit$cluster), 'b8c9a9131196dc78c954d5adb2b6581a')
+        expect_equal(digest(pokemon_clustering$fit$fit$fit$cluster), '9019a6752d3082c8b5ed1958280b93da')
     })
 print("Success!")
     }

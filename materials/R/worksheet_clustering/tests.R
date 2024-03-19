@@ -167,7 +167,7 @@ test_1.6 <- function(){
         expect_equal(digest(kmeans_fit$trained), 'bb73ad91bcb7e948250d465016f7bea8')
     })
     test_that('kmeans_fit has the wrong clustering', {
-        expect_equal(digest(kmeans_fit$fit$fit$fit$cluster), '14f5153f8735994b439ae722cf451f77')
+        expect_equal(digest(kmeans_fit$fit$fit$fit$cluster), 'a769a291e465dea0be2197d9673f61e6')
     })
     print("Success!")
 }
