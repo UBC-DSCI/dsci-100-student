@@ -2,10 +2,10 @@
 
 ## Time and Place
 
-| Section             | Days    | Time          |  Instructor         |
-| :------------------ | :------ | :------------ | :----------------- |
-| DSCI 100 - 002   | Tue/Thu | 10:30 - 13:30 | Daniel Chen       |
-| DSCI 100 - 003  | Tue/Thu | 13:30 - 16:30 | Vivian Meng       |
+| Section        | Days    | Time          | Instructor  |
+|:---------------|:--------|:--------------|:------------|
+| DSCI 100 - 002 | Tue/Thu | 10:30 - 13:30 | Daniel Chen |
+| DSCI 100 - 003 | Tue/Thu | 13:30 - 16:30 | Vivian Meng |
 
 ## Course Description
 
@@ -63,20 +63,20 @@ By the end of the course, students will be able to:
 
 _Note that your TAs are students too; they may have class right before their office hours, and they may run a few minutes late. Please be patient!_
 
-| Section    | Position           | Name                 | Email                               | Office Hours    | Office Hour Location |
-| ---------- | :----------------- | :------------------- | :---------------------------------- | :-------------- | :------------------- |
-| All        | Course coordinator | Julia Peng           | courses[-at-]stat.ubc.ca            | n/a             | n/a                  |
-| 002        | Instructor         | Daniel Chen          | daniel.chen[-at-]stat.ubc.ca        |  |              |
-| 005        | Instructor         | Vivian Meng          | vivian.meng[-at-]stat.ubc.ca         |  |              |
-| 002        | TA                 |    Parsa Delavari   | n/a                                 |                 |                      |
-| 002        | TA                 | Wasay Hayat        | n/a                                 |     |                  |
-| 002        | TA                 | Pooria Ashrafian        | n/a                                 |       |                  |
-| 002        | TA                 | Jossie Jiang          | n/a                                 |                 |                      |
-| 003        | TA                 | Haibo Wu             | n/a                                 |                 |                      |
-| 003        | TA                 | Edward Sobczak  | n/a                                 |      |                 |
-| 003        | TA                 | Olivia Liu            | n/a                                 |       |            |
-| 003        | TA                 | Jenny Lee           | n/a                                 |       |            |
-| 003        | TA                 | Atabak Eghbal           | n/a                                 |       |            |
+| Section | Position           | Name             | Email                        | Office Hours | Office Hour Location |
+|---------|:-------------------|:-----------------|:-----------------------------|:-------------|:---------------------|
+| All     | Course coordinator | Julia Peng       | courses[-at-]stat.ubc.ca     | n/a          | n/a                  |
+| 002     | Instructor         | Daniel Chen      | daniel.chen[-at-]stat.ubc.ca |              |                      |
+| 005     | Instructor         | Vivian Meng      | vivian.meng[-at-]stat.ubc.ca |              |                      |
+| 002     | TA                 | Parsa Delavari   | n/a                          |              |                      |
+| 002     | TA                 | Wasay Hayat      | n/a                          |              |                      |
+| 002     | TA                 | Pooria Ashrafian | n/a                          |              |                      |
+| 002     | TA                 | Jossie Jiang     | n/a                          |              |                      |
+| 003     | TA                 | Haibo Wu         | n/a                          |              |                      |
+| 003     | TA                 | Edward Sobczak   | n/a                          |              |                      |
+| 003     | TA                 | Olivia Liu       | n/a                          |              |                      |
+| 003     | TA                 | Jenny Lee        | n/a                          |              |                      |
+| 003     | TA                 | Atabak Eghbal    | n/a                          |              |                      |
 
 
 
@@ -84,11 +84,15 @@ _Note that your TAs are students too; they may have class right before their off
 
 When sending emails, please include your student number and DSCI 100 in the subject line.
 
-## Assessment
+## Assessments
+
+The course will have exams, worksheets, tutorials, and a project for assessments.
+
+### Exams
 
 - One midterm covering ~3 weeks of material
   - Same time & location of week 4's tutorial. Invigilated in-person.
-- One final covering all the material in the course
+- One cumulative final covering all the material in the course
   - To be scheduled by Classroom Services. Invigilated in-person.
 
 The midterm and final are both closed book exams,
@@ -99,6 +103,8 @@ to use it more efficiently at the exam.
 
 **Note**: Since DSCI 100 is a large course with multiple sections (hence, multiple versions of exams), the instructors reserve the rights to scale grades in order to maintain equity among sections according the [UBC campus wide policies and regulations](https://www.calendar.ubc.ca/Vancouver/index.cfm?tree=3,42,96,0).
 
+### Worksheets and Tutorials
+
 In each class (lecture and tutorial) there will be an assignment:
 
 - Lecture and tutorial worksheet **due dates are posted on Canvas.**
@@ -107,49 +113,52 @@ In each class (lecture and tutorial) there will be an assignment:
 - At the deadline, our server will automatically snapshot your work.
 - You **must access the lecture and tutorial worksheets through our Canvas course page** (as opposed to the worksheets publicly available via Github). Otherwise your worksheets may not be marked!
 
-### Course breakdown
+### Project
+
+The project will be done individually and provide additional practice with the data science skills we teach in the class.
+It is an extension to the worksheets and tutorials by providing little to no prompts and scaffolding code.
+You will **only** be able to use the dataset(s) we have provided you to use in Canvas.
+
+## Course breakdown
 
 | Deliverable           | Percent Grade |
-| --------------------- | ------------- |
+|-----------------------|---------------|
 | Worksheets            | 5             |
 | Tutorials             | 8             |
-| Group project         | 11            |
-| Midterm               | 25            |
+| Project               | 6             |
+| Midterm               | 30            |
 | Final                 | 50            |
 | Bonus regrade percent | 1             |
 
-### Group project breakdown
+### Project breakdown
 
-| Deliverable    | Percent Grade |
-| -------------- | ------------- |
-| Proposal       | 2             |
-| Final report   | 6             |
-| Team work      | 2             |
-| Group contract | 1             |
+| Deliverable  | Percent Grade |
+|--------------|---------------|
+| Proposal     | 2             |
+| Final report | 4             |
 
 ## Schedule
 
 <!-- Note: viewing this part with no soft wrapping is more manageable -->
 
 | Week | Topic                                            | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| ---- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|------|--------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1    | Introduction                                     | Learn to use a programming language and Jupyter notebooks as you walk through a real world data Science application that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | 1    | Reading in data locally and from the web         | Learn to read in various cases of data sets locally and from the web. Once read in, these data sets will be used to walk through a real world data Science application that includes wrangling the data into a useable format and creating an effective data visualization.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | 2    | Cleaning and wrangling data                      | This week will be centered around tools for cleaning and wrangling data. Again, this will be in the context of a real world data science application and we will continue to practice working through a whole case study that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization.                                                                                                                                                                                                                                                                                                                                                                                                |
 | 2    | Effective data visualization                     | Expand your data visualization knowledge and tool set beyond what we have seen and practiced so far. We will move beyond scatter plots and learn other effective ways to visualize data, as well as some general rules of thumb to follow when creating visualations. All visualization tasks this week will be applied to real world data sets. Again, this will be in the context of a real world data science application and we will continue to practice working through a whole case study that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization.                                                                                                                        |
 | 3    | Version control                                  | This chapter will introduce the concept of using version control systems to track changes to a project over its lifespan, to share and edit code in a collaborative team, and to distribute the finished project to its intended audience. This chapter will also introduce how to use the two most common version control tools: Git for local version control, and GitHub for remote version control. We will focus on the most common version control operations used day-to-day in a standard data science project. There are many user interfaces for Git; in this chapter we will cover the Jupyter Git interface.                                                                                                                                    |
-| 3    | Group contract due                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | 3    | Classification                                   | This chapter and the next together serve as our first foray into answering predictive questions about data. In particular, we will focus on classification, i.e., using one or more variables to predict the value of a categorical variable of interest. This chapter will cover the basics of classification, how to preprocess data to make it suitable for use in a classifier, and how to use our observed data to make predictions. The next chapter will focus on how to evaluate how accurate the predictions from our classifier are, as well as how to improve our classifier (where possible) to maximize its accuracy.                                                                                                                          |
-| 4    | Classification, continued                        | This chapter continues the introduction to predictive modeling through classification. While the previous chapter covered training and data preprocessing, this chapter focuses on how to evaluate the performance of a classifier, as well as how to improve the classifier (where possible) to maximize its accuracy.                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| 4    | Midterm (during week 4 tutorial)                                         | Covers week 1-3 concepts                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 4    | Midterm (during week 4 tutorial)                 | Covers week 1-3 concepts                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 4    | Classification, continued                        | This chapter continues the introduction to predictive modeling through classification. While the previous chapter covered training and data preprocessing, this chapter focuses on how to evaluate the performance of a classifier, as well as how to improve the classifier (where possible) to maximize its accuracy.                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | 4    | Regression                                       | This chapter continues our foray into answering predictive questions. Here we will focus on predicting numerical variables and will use regression to perform this task. This is unlike the past two chapters, which focused on predicting categorical variables via classification. However, regression does have many similarities to classification: for example, just as in the case of classification, we will split our data into training, validation, and test sets, we will use scikit-learn workflows, we will use a K-nearest neighbors (KNN) approach to make predictions, and we will use cross-validation to choose K. We will focus on prediction in cases where there is a response variable of interest and a single explanatory variable. |
-| 4    | Group proposal due                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| 4    | Project proposal due                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | 5    | Regression, continued                            | Up to this point, we have solved all of our predictive problems—both classification and regression—using K-nearest neighbors (KNN)-based approaches. In the context of regression, there is another commonly used method known as linear regression. This chapter provides an introduction to the basic concept of linear regression, shows how to use scikit-learn to perform linear regression in Python, and characterizes its strengths and weaknesses compared to KNN regression. The focus is, as usual, on the case where there is a single predictor and single response variable of interest; but the chapter concludes with an example using multivariable linear regression when there is more than one predictor.                               |
-| 5   | Clustering                                       | As part of exploratory data analysis, it is often helpful to see if there are meaningful subgroups (or clusters) in the data. This grouping can be used for many purposes, such as generating new questions or improving predictive analyses. This chapter provides an introduction to clustering using the K-means algorithm, including techniques to choose the number of clusters.                                                                                                                                                                                                                                                                                                                                                                       |
-| 6   | Introduction to statistical inference            | A typical data analysis task in practice is to draw conclusions about some unknown aspect of a population of interest based on observed data sampled from that population; we typically do not get data on the entire population. Data analysis questions regarding how summaries, patterns, trends, or relationships in a data set extend to the wider population are called inferential questions. This chapter will start with the fundamental ideas of sampling from populations and then introduce two common techniques in statistical inference: point estimation and interval estimation.                                                                                                                                                           |
-| 6   | Introduction to statistical inference, continued | Unfortunately, we cannot construct the exact sampling distribution without full access to the population. However, if we could somehow approximate what the sampling distribution would look like for a sample, we could use that approximation to then report how uncertain our sample point estimate is (as we did above with the exact sampling distribution). There are several methods to accomplish this; in this course, we will use the bootstrap. We will discuss interval estimation and construct confidence intervals using just a single sample from a population. A confidence interval is a range of plausible values for our population parameter.                                                                                          |
-| 6   | Group report due                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| 7   | Final                                            | Covers all the material. To be Scheduled by To be scheduled by Classroom Services                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 5    | Clustering                                       | As part of exploratory data analysis, it is often helpful to see if there are meaningful subgroups (or clusters) in the data. This grouping can be used for many purposes, such as generating new questions or improving predictive analyses. This chapter provides an introduction to clustering using the K-means algorithm, including techniques to choose the number of clusters.                                                                                                                                                                                                                                                                                                                                                                       |
+| 6    | Introduction to statistical inference            | A typical data analysis task in practice is to draw conclusions about some unknown aspect of a population of interest based on observed data sampled from that population; we typically do not get data on the entire population. Data analysis questions regarding how summaries, patterns, trends, or relationships in a data set extend to the wider population are called inferential questions. This chapter will start with the fundamental ideas of sampling from populations and then introduce two common techniques in statistical inference: point estimation and interval estimation.                                                                                                                                                           |
+| 6    | Introduction to statistical inference, continued | Unfortunately, we cannot construct the exact sampling distribution without full access to the population. However, if we could somehow approximate what the sampling distribution would look like for a sample, we could use that approximation to then report how uncertain our sample point estimate is (as we did above with the exact sampling distribution). There are several methods to accomplish this; in this course, we will use the bootstrap. We will discuss interval estimation and construct confidence intervals using just a single sample from a population. A confidence interval is a range of plausible values for our population parameter.                                                                                          |
+| 6    | Project report due                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| 7    | Final                                            | Cumulative. Covers all the material. To be Scheduled by To be scheduled by Classroom Services                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 ## Policies
 
