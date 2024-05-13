@@ -66,15 +66,15 @@ _Note that your TAs are students too; they may have class right before their off
 | Section | Position           | Name             | Email                        | Office Hours | Office Hour Location |
 |---------|:-------------------|:-----------------|:-----------------------------|:-------------|:---------------------|
 | All     | Course coordinator | Julia Peng       | courses[-at-]stat.ubc.ca     | n/a          | n/a                  |
-| 002     | Instructor         | Daniel Chen      | daniel.chen[-at-]stat.ubc.ca |              |                      |
+| 002     | Instructor         | Daniel Chen      | daniel.chen[-at-]stat.ubc.ca |  Tuesdays 13:30-14:30    |    Hennings 200     |
 | 005     | Instructor         | Vivian Meng      | vivian.meng[-at-]stat.ubc.ca |              |                      |
 | 002     | TA                 | Parsa Delavari   | n/a                          |              |                      |
 | 002     | TA                 | Wasay Hayat      | n/a                          |              |                      |
-| 002     | TA                 | Pooria Ashrafian | n/a                          |              |                      |
+| 002     | TA                 | Pooria Ashrafian | n/a                          | Mondays 14:00 - 15:00             |    Zoom                  |
 | 002     | TA                 | Jossie Jiang     | n/a                          |              |                      |
-| 003     | TA                 | Haibo Wu         | n/a                          |              |                      |
+| 003     | TA                 | Haibo Wu         | n/a                          |   Fridays 10:00 - 11:00           |       In-person              |
 | 003     | TA                 | Edward Sobczak   | n/a                          |              |                      |
-| 003     | TA                 | Olivia Liu       | n/a                          |              |                      |
+| 003     | TA                 | Olivia Liu       | n/a                          |    Thursdays 17:00 - 18:00          |    Zoom                  |
 | 003     | TA                 | Jenny Lee        | n/a                          |              |                      |
 | 003     | TA                 | Atabak Eghbal    | n/a                          |              |                      |
 
