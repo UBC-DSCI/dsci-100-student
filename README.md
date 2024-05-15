@@ -66,8 +66,8 @@ _Note that your TAs are students too; they may have class right before their off
 | Section | Position           | Name             | Email                        | Office Hours | Office Hour Location |
 |---------|:-------------------|:-----------------|:-----------------------------|:-------------|:---------------------|
 | All     | Course coordinator | Julia Peng       | courses[-at-]stat.ubc.ca     | n/a          | n/a                  |
-| 002     | Instructor         | Daniel Chen      | daniel.chen[-at-]stat.ubc.ca |  Tuesdays 13:30-14:30    |    Hennings 200     |
-| 005     | Instructor         | Vivian Meng      | vivian.meng[-at-]stat.ubc.ca |              |                      |
+| 002     | Instructor         | Daniel Chen      | daniel.chen[-at-]stat.ubc.ca |  Tuesdays 13:30 - 14:30    |    Hennings 200     |
+| 005     | Instructor         | Vivian Meng      | vivian.meng[-at-]stat.ubc.ca |  Tuesdays 17:00 - 18:00    |    ESB 1043                  |
 | 002     | TA                 | Parsa Delavari   | n/a                          |              |                      |
 | 002     | TA                 | Wasay Hayat      | n/a                          |              |                      |
 | 002     | TA                 | Pooria Ashrafian | n/a                          | Mondays 14:00 - 15:00             |    Zoom                  |
