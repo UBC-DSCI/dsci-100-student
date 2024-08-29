@@ -103,7 +103,7 @@ When sending emails, please include your student number and DSCI 100 in the subj
 
 ## Assessments
 
-The course will have exams, worksheets, tutorials, and a project for assessments.
+The course will have exams, worksheets, tutorials, iClicker questions and a project for assessments.
 
 ### Exams
 
@@ -130,6 +130,10 @@ In each class (lecture and tutorial) there will be an assignment:
 - At the deadline, our server will automatically snapshot your work.
 - You **must access the lecture and tutorial worksheets through our Canvas course page** (as opposed to the worksheets publicly available via Github). Otherwise your worksheets may not be marked!
 
+### iClicker
+
+During each lecture there will be iClicker questions to help check your understanding of the course material. iClicker grade will be based on both participation and correctness. You **must attend the section you are registered in.** It is your responsibility to make sure that the student ID and name associated with your iClicker account matches the Canvas gradebook. If you need help connecting to iClicker please see [iClicker Cloud Student Guide](https://lthub.ubc.ca/guides/iclicker-cloud-student-guide/).
+
 ### Project
 
 The project will be done individually and provide additional practice with the data science skills we teach in the class.
@@ -141,9 +145,10 @@ You will **only** be able to use the dataset(s) we have provided you to use in C
 | Deliverable           | Percent Grade |
 |-----------------------|---------------|
 | Worksheets            | 5             |
-| Tutorials             | 8             |
+| Tutorials             | 6             |
+| iClicker              | 3             |
 | Project               | 6             |
-| Midterm               | 30            |
+| Midterm               | 29            |
 | Final                 | 50            |
 | Bonus regrade percent | 1             |
 
@@ -191,13 +196,15 @@ you are expected to read and follow [the DSCI 100 Code of Conduct](CODE_OF_CONDU
 
 Students who register for the class late have 1 week from their registration date on Canvas to complete all prior assignments.
 
-### Late Assignments / Exam Absence
+### Late Assignments / Absences
 
-Students **must be present** at the invigilation venue (in class, examination centre, etc) to take exams; otherwise they will be considered to have missed the exam and will be assigned a grade of zero.
+For examinations, students **must be present** at the invigilation venue (in class, examination centre, etc) to take exams; otherwise they will be considered to have missed the exam and will be assigned a grade of zero.
 
 Students who will miss an exam **must provide a self-declaration of academic concession prior to the exam** (see Canvas homepage for the academic concession form) and make arrangements with the Instructor. Failing to present a declaration within a reasonable timeframe before the exam will result in a grade of zero.
 
 There will be **no extensions for the lecture and tutorial worksheets**; late assignments will receive a grade of zero. Instead, we will drop the lowest 2 grades on tutorials and worksheets for the semester (1 lowest tutorial + 1 lowest worksheet). However, if you have extenuating circumstances and require further accommodations, please contact the course coordinator.
+
+Students who miss a lecture for their registered section will receive a iClicker grade of 0 for that lecture. Instead, we will drop the lowest grade on iClicker lectures to accomodate unforseeable events. However, if you have extenuating circumstances and require further accommodations, please contact the course coordinator.
 
 For all other assignments and the course project, a **late submission will receive a 50% penalty**.
 
