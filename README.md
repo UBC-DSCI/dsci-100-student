@@ -136,9 +136,9 @@ During each lecture there will be iClicker questions to help check your understa
 
 ### Project
 
-The project will be done individually and provide additional practice with the data science skills we teach in the class.
+The project will provide additional practice with the data science skills we teach in the class.
 It is an extension to the worksheets and tutorials by providing little to no prompts and scaffolding code.
-You will **only** be able to use the dataset(s) we have provided you to use in Canvas.
+You will **only** be able to use the dataset(s) we have provided you to use in Canvas. Further details regarding the project will be announced during the term.
 
 ## Course breakdown
 
