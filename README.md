@@ -152,13 +152,14 @@ You will **only** be able to use the dataset(s) we have provided you to use in C
 | Final                 | 50            |
 | Bonus regrade percent | 1             |
 
+<!--- comment out project breakdown since format still undecided
 ### Project breakdown
 
 | Deliverable  | Percent Grade |
 |--------------|---------------|
 | Proposal     | 2             |
 | Final report | 4             |
-
+--->
 ## Schedule
 
 <!-- Note: viewing this part with no soft wrapping is more manageable -->
