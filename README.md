@@ -73,7 +73,7 @@ _Note that your TAs are students too; they may have class right before their off
 | 004     | Instructor         | Eugenia Yu      | eugenia[-at-]stat.ubc.ca |
 | 008     | Instructor         | Vivian Meng      | vivian.meng[-at-]stat.ubc.ca |
 | 009     | Instructor         | Andy Tai      | andy.tai[-at-]stat.ubc.ca |
-| 101     | Instructor         | Rodolfo Lourenzutti | lourenzutti[at]stat.ubc.ca |
+| 101     | Instructor         | Rodolfo Lourenzutti | Canvas Message |
 | 003     | TA                 | Vinicius Santos   | n/a                          |
 | 003     | TA                 | Billy Li      | n/a                          |
 | 003     | TA                 | Sachit Sharma | n/a                          |
