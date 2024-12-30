@@ -230,7 +230,6 @@ The functions below extend the above table for material in Week 8 (`classificati
 | `glance(fitted_model)`                 | Obtain total WSSD of a cluster model                                                      |
 | `initial_split(data, prop, strata)`    | Splits the data                                                                           |
 | `k_means(num_clusters)`                | Specify that the model is kmeans clustering                                               |
-| `kmeans(data, centers, nstart)`        | Runs k-means clustering on the given data for the specified number of clusters and starts |
 | `list(objects)`                        | Create a list of elements of different types                                              |
 | `linear_reg()`                         | Specify that the model is linear regression                                               |
 | `metrics(data, truth, estimate)`       | Returns the model's accuracy metrics                                                      |
