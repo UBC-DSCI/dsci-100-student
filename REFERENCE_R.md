@@ -116,6 +116,7 @@ Slicing functions:
 | `slice(tbl, row_range)`              | Keep rows in the given range                           |
 | `slice_max(tbl, ordering_column, n)` | Keep the n rows with the largest values of a variable  |
 | `slice_min(tbl, ordering_column, n)` | Keep the n rows with the smallest values of a variable |
+| `slice_sample(tbl, n)`               | Keep n random rows                                     |
 | `unique(tbl)`                        | Delete duplicate rows                                  |
 | `tail(tbl)`                          | Get the last 6 rows of a tibble                        |
 
@@ -248,4 +249,3 @@ The functions below extend the above table for material in Week 8 (`classificati
 | ---------------------------------------- | --------------------------------------------------------------------------- |
 | `quantile(data, percentiles)`            | Finds the specified percentiles in the given data                           |
 | `rep_sample_n(tbl, size, reps, replace)` | Takes samples of the table according to the size, reps, and replace options |
-| `sample_n(tbl, num)`                     | Random selects the specified number of rows from the table                  |
