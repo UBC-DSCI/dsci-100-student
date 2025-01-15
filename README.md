@@ -11,6 +11,8 @@
 | DSCI 100 - 010 | Lasantha Premarathna |
 | DSCI 100 - 100 | Eldad Haber|
 
+*DSCI 100 100 has it's own repository this semester. Please refer to https://github.com/eldadHaber/DSCI100*
+
 ## Course Description
 
 Use of data science tools to summarize, visualize, and analyze data. Sensible workflows and clear interpretations are emphasized.
