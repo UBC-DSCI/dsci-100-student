@@ -157,6 +157,8 @@ You will **only** be able to use the dataset(s) we have provided you to use in C
 | Final                 | 50            |
 | Bonus regrade percent | 1             |
 
+*DSCI 100 100 has it's own repository this semester. Please refer to it's syllabus and materials at https://github.com/eldadHaber/DSCI100*
+
 <!--- comment out project breakdown since format still undecided
 ### Project breakdown
 
