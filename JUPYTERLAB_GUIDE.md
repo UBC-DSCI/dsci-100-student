@@ -4,13 +4,14 @@ This guide contains tips and FAQs which help to avoid common issues that arise w
 
 # Table of Contents
 ### Tips
-1. [Open multiple notebook tabs](#open-multiple-notebook-tabs)
-2. [Check solutions or feedback](#check-solutions-or-feedback)
-3. [Check memory usage](#check-memory-usage)
-4. [Get a fresh copy of a notebook](#get-a-fresh-copy-of-a-notebook)
-5. [View hidden files](#view-hidden-files)
-6. [Clone a GitHub repo](#clone-a-github-repo)
-7. [Get a copy of everything](#get-a-copy-of-everything)
+1. [Don't change worksheet/tutorial file names](#do-not-change-worksheet-or-tutorial-file-names)
+2. [Open multiple notebook tabs](#open-multiple-notebook-tabs)
+3. [Check solutions or feedback](#check-solutions-or-feedback)
+4. [Check memory usage](#check-memory-usage)
+5. [Get a fresh copy of a notebook](#get-a-fresh-copy-of-a-notebook)
+6. [View hidden files](#view-hidden-files)
+7. [Clone a GitHub repo](#clone-a-github-repo)
+8. [Get a copy of everything](#get-a-copy-of-everything)
 
 ### FAQs
 1. [Why did I get a zero/low-mark when I submitted everything on time?](#why-did-i-get-a-zerolow-mark-when-i-submitted-everything-on-time)
@@ -23,6 +24,12 @@ This guide contains tips and FAQs which help to avoid common issues that arise w
 8. [How do I get a blank worksheet or tutorial for practice?](#how-do-i-get-a-blank-worksheet-or-tutorial-for-practice)
 
 ## Tips
+
+## Do not change worksheet or tutorial file names
+
+The autograder relies on the file name of the worksheet or tutorial to collect it for marking. Never change the file name.
+
+If you accidentally delete it, just open the assignment again on Canvas and it will automatically download a new empty copy.
 
 ## Open multiple notebook tabs
 
