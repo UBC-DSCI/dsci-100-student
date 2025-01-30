@@ -147,7 +147,7 @@ Lastly, do not rename the assignment notebook file or any folders. The autograde
 
 Before anything else, try restarting JupyterHub as described [here](#restart-your-jupyterlab-server).
 
-Make sure you're using a compatible browser. We recommend Chrome, Edge, or Firefox. Also update your browser to the latest version.
+Make sure you're using a compatible browser. We recommend Chrome, Edge, or any other Chromium based browser. Also update your browser to the latest version.
 
 Update your device's operating system to the latest version and reboot your device.
 
