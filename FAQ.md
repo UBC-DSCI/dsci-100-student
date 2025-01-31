@@ -74,10 +74,7 @@ assignment from that class is due at the normal time.
 
 Your instructor does not need to be informed when you'll be absent from a regular class. 
 We understand that, from time to time, you will not be able to 
-attend the lecture/tutorial sessions. There are no marks assigned 
-for attending class. We hope that the
-flexibility of this course will allow you to access the learning materials
-wherever you are and whenever you need them. 
+attend the lecture/tutorial sessions. However, since iClicker participation is a part of your grade, regular attendance is encouraged to ensure you can fully engage with the material and earn participation marks.
 
 If you are going to be absent from an exam, you need to fill out a self-declared
 concession form in a timely manner prior to the exam. See the course policies
