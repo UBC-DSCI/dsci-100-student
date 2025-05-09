@@ -2,14 +2,10 @@
 
 ## Time
 
-| Section        |Instructor  |
+| Section        | Instructor  |
 |:---------------|:------------|
-| DSCI 100 - 002 | Vivian Meng|
-| DSCI 100 - 005 | Katie Burak |
-| DSCI 100 - 006 | Vivian Meng |
-| DSCI 100 - 007 | Eugenia Yu |
-| DSCI 100 - 010 | Lasantha Premarathna |
-| DSCI 100 - 100 | Eldad Haber|
+| DSCI 100 - 002 | Daniel Chen |
+| DSCI 100 - 003 | Melissa Lee |
 
 *DSCI 100 100 has it's own repository this semester. Please refer to https://github.com/eldadHaber/DSCI100*
 
@@ -69,35 +65,11 @@ By the end of the course, students will be able to:
 
 _Note that your TAs are students too; they may have class right before their office hours, and they may run a few minutes late. Please be patient!_
 
-| Section | Position           | Name             | Email                        |
-|---------|:-------------------|:-----------------|:-----------------------------|
-| All     | Course coordinator | Julia Peng       | courses[-at-]stat.ubc.ca     |
-| 002     | Instructor         | Vivian Meng    | vivian.meng[-at-]stat.ubc.ca |
-| 005     | Instructor         | Katie Burak      | kburak[-at-]stat.ubc.ca |
-| 006     | Instructor         | Vivian Meng      | vivian.meng[-at-]stat.ubc.ca |
-| 007     | Instructor         | Eugenia Yu      | eugenia[-at-]stat.ubc.ca |
-| 010     | Instructor         | Lasantha Premarathna | wpremara[-at-]stat.ubc.ca |
-| 100     | Instructor         | Eldad Haber | ehaber[-at-]eoas.ubc.ca |
-| 002     | TA                 | Vincy Huang   | n/a                          |
-| 002     | TA                 | Leila Gazizova     | n/a                          |
-| 002     | TA                 | Irene Lam | n/a                          |
-| 005     | TA                 | Indu Kant Deo  | n/a                          |
-| 005     | TA                 | Atabak Eghbal        | n/a                          |
-| 005     | TA                 | Moira Renata  | n/a                          |
-| 005     | TA                 | Sachit Sharma      | n/a                          |
-| 006     | TA                 | Wasay Hayat        | n/a                          |
-| 006     | TA                 | Samuel Leung    | n/a                          |
-| 006     | TA                 | Frederick Wang        | n/a                          |
-| 007     | TA                 | Karan Anand   | n/a                          |
-| 007     | TA                 | Bowen Cui   | n/a                          |
-| 007     | TA                 | Edward Sobczak     | n/a                          |
-| 007     | TA                 | Billy Li     | n/a                          |
-| 010     | TA                 | Andal Abro Khan         | n/a                          |
-| 010    | TA                  | Saumya Jain  | n/a                          |
-| 010     | TA                 | Eric Li      | n/a                          |
-| 010     | TA                 |  Vinicius Santos     | n/a                          |
-| 100     | TA                 | Md Shahriar Rahim Siddiqui    | n/a                          |
-| 100     | TA                 |  Niloufar Zakariaei | n/a                          |
+| Section | Position           | Name        | Email                        |
+|---------|:-------------------|:------------|:-----------------------------|
+| All     | Course coordinator | Julia Peng  | courses[-at-]stat.ubc.ca     |
+| 002     | Instructor         | Daniel Chen | daniel.chen[-at-]stat.ubc.ca |
+| 003     | Instructor         | Melissa Lee | melissa.lee[-at-]stat.ubc.ca |
 
 
 
@@ -112,8 +84,8 @@ The course will have exams, worksheets, tutorials, iClicker questions and a proj
 
 ### Exams
 
-- One midterm covering ~6 weeks of material
-  - Same time & location of week 7's tutorial. Invigilated in-person.
+- One midterm covering ~6 lectures of material
+  - Same time & location as tutorials. Invigilated in-person.
 - One cumulative final covering all the material in the course
   - To be scheduled by Classroom Services. Invigilated in-person.
 
@@ -147,14 +119,14 @@ You will **only** be able to use the dataset(s) we have provided you to use in C
 
 ## Course breakdown
 
-| Deliverable           | Percent Grade |
-|-----------------------|---------------|
-| Worksheets            | 5             |
-| Tutorials             | 6             |
-| iClicker              | 3             |
-| Project               | 6             |
-| Midterm               | 29            |
-| Final                 | 50            |
+| Deliverable                          | Percent Grade |
+|--------------------------------------|---------------|
+| Worksheets                           | 6             |
+| Tutorials                            | 7             |
+| iClicker                             | 3             |
+| Project                              | 3             |
+| Midterm                              | 30            |
+| Final                                | 50            |
 | [Bonus regrade percent](#re-grading) | 1             |
 
 *DSCI 100 100 has it's own repository this semester. Please refer to it's syllabus and materials at https://github.com/eldadHaber/DSCI100*
@@ -171,24 +143,23 @@ You will **only** be able to use the dataset(s) we have provided you to use in C
 
 <!-- Note: viewing this part with no soft wrapping is more manageable -->
 
-| Week | Topic                                            | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|------|--------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1    | Introduction                                     | Learn to use a programming language and Jupyter notebooks as you walk through a real world data Science application that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| 2    | Reading in data locally and from the web         | Learn to read in various cases of data sets locally and from the web. Once read in, these data sets will be used to walk through a real world data Science application that includes wrangling the data into a useable format and creating an effective data visualization.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| 3    | Cleaning and wrangling data                      | This week will be centered around tools for cleaning and wrangling data. Again, this will be in the context of a real world data science application and we will continue to practice working through a whole case study that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization.                                                                                                                                                                                                                                                                                                                                                                                                |
-| 4    | Effective data visualization                     | Expand your data visualization knowledge and tool set beyond what we have seen and practiced so far. We will move beyond scatter plots and learn other effective ways to visualize data, as well as some general rules of thumb to follow when creating visualations. All visualization tasks this week will be applied to real world data sets. Again, this will be in the context of a real world data science application and we will continue to practice working through a whole case study that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization.                                                                                                                        |
-| 5    | Version control                                  | This chapter will introduce the concept of using version control systems to track changes to a project over its lifespan, to share and edit code in a collaborative team, and to distribute the finished project to its intended audience. This chapter will also introduce how to use the two most common version control tools: Git for local version control, and GitHub for remote version control. We will focus on the most common version control operations used day-to-day in a standard data science project. There are many user interfaces for Git; in this chapter we will cover the Jupyter Git interface.                                                                                                                                    |
-| 6    | Classification                                   | This chapter and the next together serve as our first foray into answering predictive questions about data. In particular, we will focus on classification, i.e., using one or more variables to predict the value of a categorical variable of interest. This chapter will cover the basics of classification, how to preprocess data to make it suitable for use in a classifier, and how to use our observed data to make predictions. The next chapter will focus on how to evaluate how accurate the predictions from our classifier are, as well as how to improve our classifier (where possible) to maximize its accuracy.                                                                                                                          |
-|  Reading Break      | Reading Break                             | 
-| 7    | Midterm                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-| 7    | Classification, continued                        | This chapter continues the introduction to predictive modeling through classification. While the previous chapter covered training and data preprocessing, this chapter focuses on how to evaluate the performance of a classifier, as well as how to improve the classifier (where possible) to maximize its accuracy. |                        |      |                                                                       
+| Session | Topic                                    | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|---------|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1       | Introduction                             | Learn to use a programming language and Jupyter notebooks as you walk through a real world data Science application that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization.                                                                                                                                                                                                                                                                                                                                                                              |
+| 2       | Reading in data locally and from the web | Learn to read in various cases of data sets locally and from the web. Once read in, these data sets will be used to walk through a real world data Science application that includes wrangling the data into a useable format and creating an effective data visualization.                                                                                                                                                                                                                                                                                                                                                          |
+| 3       | Cleaning and wrangling data              | This week will be centered around tools for cleaning and wrangling data. Again, this will be in the context of a real world data science application and we will continue to practice working through a whole case study that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization.                                                                                                                                                                                                                                                                         |
+| 4       | Effective data visualization             | Expand your data visualization knowledge and tool set beyond what we have seen and practiced so far. We will move beyond scatter plots and learn other effective ways to visualize data, as well as some general rules of thumb to follow when creating visualations. All visualization tasks this week will be applied to real world data sets. Again, this will be in the context of a real world data science application and we will continue to practice working through a whole case study that includes downloading data from the web, wrangling the data into a useable format and creating an effective data visualization. |
+| 5       | Version control                          | This chapter will introduce the concept of using version control systems to track changes to a project over its lifespan, to share and edit code in a collaborative team, and to distribute the finished project to its intended audience. This chapter will also introduce how to use the two most common version control tools: Git for local version control, and GitHub for remote version control. We will focus on the most common version control operations used day-to-day in a standard data science project. There are many user interfaces for Git; in this chapter we will cover the Jupyter Git interface.             |
+| 6       | Classification                           | This chapter and the next together serve as our first foray into answering predictive questions about data. In particular, we will focus on classification, i.e., using one or more variables to predict the value of a categorical variable of interest. This chapter will cover the basics of classification, how to preprocess data to make it suitable for use in a classifier, and how to use our observed data to make predictions. The next chapter will focus on how to evaluate how accurate the predictions from our classifier are, as well as how to improve our classifier (where possible) to maximize its accuracy.   |
+| 7    | Midterm                                        |
+| 7    | Classification, continued                        | This chapter continues the introduction to predictive modeling through classification. While the previous chapter covered training and data preprocessing, this chapter focuses on how to evaluate the performance of a classifier, as well as how to improve the classifier (where possible) to maximize its accuracy. |                        |      |
 | 8    | Regression                                       | This chapter continues our foray into answering predictive questions. Here we will focus on predicting numerical variables and will use regression to perform this task. This is unlike the past two chapters, which focused on predicting categorical variables via classification. However, regression does have many similarities to classification: for example, just as in the case of classification, we will split our data into training, validation, and test sets, we will use scikit-learn workflows, we will use a K-nearest neighbors (KNN) approach to make predictions, and we will use cross-validation to choose K. We will focus on prediction in cases where there is a response variable of interest and a single explanatory variable. |
 | 8    | Regression, continued                            | Up to this point, we have solved all of our predictive problems—both classification and regression—using K-nearest neighbors (KNN)-based approaches. In the context of regression, there is another commonly used method known as linear regression. This chapter provides an introduction to the basic concept of linear regression, shows how to use scikit-learn to perform linear regression in Python, and characterizes its strengths and weaknesses compared to KNN regression. The focus is, as usual, on the case where there is a single predictor and single response variable of interest; but the chapter concludes with an example using multivariable linear regression when there is more than one predictor.                               |
 | 9    | Individual planning stage due  |
 | 10    | Clustering                                       | As part of exploratory data analysis, it is often helpful to see if there are meaningful subgroups (or clusters) in the data. This grouping can be used for many purposes, such as generating new questions or improving predictive analyses. This chapter provides an introduction to clustering using the K-means algorithm, including techniques to choose the number of clusters.                                                                                                                                                                                                                                                                                                                                                                      |
 | 11    | Introduction to statistical inference            | A typical data analysis task in practice is to draw conclusions about some unknown aspect of a population of interest based on observed data sampled from that population; we typically do not get data on the entire population. Data analysis questions regarding how summaries, patterns, trends, or relationships in a data set extend to the wider population are called inferential questions. This chapter will start with the fundamental ideas of sampling from populations and then introduce two common techniques in statistical inference: point estimation and interval estimation.                                                                                                                                                           |
 | 12    | Introduction to statistical inference, continued | Unfortunately, we cannot construct the exact sampling distribution without full access to the population. However, if we could somehow approximate what the sampling distribution would look like for a sample, we could use that approximation to then report how uncertain our sample point estimate is (as we did above with the exact sampling distribution). There are several methods to accomplish this; in this course, we will use the bootstrap. We will discuss interval estimation and construct confidence intervals using just a single sample from a population. A confidence interval is a range of plausible values for our population parameter.                                                                                          |
-| 12    | Project report due                               |     
+| 12    | Project report due                               |
 | 14   | Final                                            | Cumulative. Covers all the material. To be Scheduled by Classroom Services                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 ## Policies
@@ -211,7 +182,7 @@ For examinations, students **must be present** at the invigilation venue (in cla
 
 Students who will miss an exam **must provide a self-declaration of academic concession prior to the exam** (see Canvas homepage for the academic concession form) and make arrangements with the Instructor. Failing to present a declaration within a reasonable timeframe before the exam will result in a grade of zero.
 
-There will be **no extensions for the lecture and tutorial worksheets**; late assignments will receive a grade of zero. Instead, we will drop the lowest 2 grades on tutorials and worksheets for the semester (1 lowest tutorial + 1 lowest worksheet). This policy is meant to cover illness/unexpectancies. The worksheet and tutorial that you were not able to complete before the deadline will be covered by this policy. However, if you have extenuating circumstances and require further accommodations for subsequent requests, please contact the course coordinator with supporting documents, and we will deal with them case by case. 
+There will be **no extensions for the lecture and tutorial worksheets**; late assignments will receive a grade of zero. Instead, we will drop the lowest 2 grades on tutorials and worksheets for the semester (1 lowest tutorial + 1 lowest worksheet). This policy is meant to cover illness/unexpectancies. The worksheet and tutorial that you were not able to complete before the deadline will be covered by this policy. However, if you have extenuating circumstances and require further accommodations for subsequent requests, please contact the course coordinator with supporting documents, and we will deal with them case by case.
 
 Students who miss a lecture for their registered section will receive a iClicker grade of 0 for that lecture. There will be no make ups or accomodations for missing i-clickers. Instead, we will drop the 2 lowest grade on iClicker lectures to accomodate late registration and/or unforseeable events.
 
@@ -267,9 +238,11 @@ The above attribution policy applies only to assignments. **No code or text may 
 
 **Repeated plagiarism of any form could result in larger penalties, including failure of the course.**
 
+<!--
 ### COVID-19
 
 Read the [UBC COVID-19 Campus Rules](https://srs.ubc.ca/health-safety/safety-programs/communicable-disease-prevention-framework/covid-19/) for the latest updates of what is expected of you in terms of COVID-safety.
+-->
 
 ## Resources
 
