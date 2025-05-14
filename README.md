@@ -109,7 +109,7 @@ In each class (lecture and tutorial) there will be an assignment:
 
 ### iClicker
 
-During each lecture there will be iClicker questions to help check your understanding of the course material. iClicker grade will be based on both participation and correctness. You **must attend the section you are registered in.** It is your responsibility to make sure that the student ID and name associated with your iClicker account matches the Canvas gradebook. If you need help connecting to iClicker please see [iClicker Cloud Student Guide](https://lthub.ubc.ca/guides/iclicker-cloud-student-guide/).
+During each lecture there will be iClicker questions to help check your understanding of the course material. iClicker grade will be based on participation. You **must attend the section you are registered in.** It is your responsibility to make sure that the student ID and name associated with your iClicker account matches the Canvas gradebook. If you need help connecting to iClicker please see [iClicker Cloud Student Guide](https://lthub.ubc.ca/guides/iclicker-cloud-student-guide/).
 
 ### Project
 
