@@ -85,8 +85,10 @@ The course will have exams, worksheets, tutorials, iClicker questions and a proj
 
 - One midterm covering ~6 weeks of material
   - Same time & location as week 7 tutorials. Invigilated in-person.
-- One cumulative final covering all the material in the course
+- One cumulative final covering all the material in the course.
   - To be scheduled by Classroom Services. Invigilated in-person.
+
+Students must pass the Final Exam in order to pass the course!
 
 The midterm and final are both closed book exams,
 where you will only have access to a reference sheet for common functions and operations.
@@ -120,11 +122,11 @@ You will **only** be able to use the dataset(s) we have provided you to use in C
 
 | Deliverable                          | Percent Grade |
 |--------------------------------------|---------------|
-| Worksheets                           | 6             |
-| Tutorials                            | 7             |
-| iClicker                             | 3             |
-| Project                              | 3             |
-| Midterm                              | 30            |
+| Worksheets                           | 5             |
+| Tutorials                            | 5             |
+| iClicker                             | 2             |
+| Project                              | 10            |
+| Midterm                              | 27            |
 | Final                                | 50            |
 | [Bonus regrade percent](#re-grading) | 1             |
 
