@@ -4,8 +4,11 @@
 
 | Section        | Instructor  |
 |:---------------|:------------|
-| DSCI 100 - 002 | Daniel Chen |
-| DSCI 100 - 003 | Melissa Lee |
+| DSCI 100 - 003 | Eugenia Yu |
+| DSCI 100 - 004 | Eugenia Yu |
+| DSCI 100 - 008 | Vivian Meng |
+| DSCI 100 - 009 | Grace Tompkins |
+| DSCI 100 - 101 | Daniel Chen |
 
 
 ## Course Description
@@ -66,9 +69,32 @@ _Note that your TAs are students too; they may have class right before their off
 
 | Section | Position           | Name        | Email                        |
 |---------|:-------------------|:------------|:-----------------------------|
-| All     | Course coordinator | Julia Peng  | courses[-at-]stat.ubc.ca     |
-| 002     | Instructor         | Daniel Chen | daniel.chen[-at-]stat.ubc.ca |
-| 003     | Instructor         | Melissa Lee | melissa.lee[-at-]stat.ubc.ca |
+| All     | Course Coordinator | Julia Peng  | courses[-at-]stat.ubc.ca     |
+| 003     | Instructor         | Daniel Chen | daniel.chen[-at-]stat.ubc.ca |
+| 004     | Instructor         | Melissa Lee | melissa.lee[-at-]stat.ubc.ca |
+| 008     | Instructor         | Daniel Chen | daniel.chen[-at-]stat.ubc.ca |
+| 009     | Instructor         | Melissa Lee | melissa.lee[-at-]stat.ubc.ca |
+| 101     | Instructor         | Daniel Chen | daniel.chen[-at-]stat.ubc.ca |
+| 003     |     TA    | Bowen Cui|  |
+| 003     |     TA    | Anabel Hartanto|  |
+| 003     |     TA    |Irene Lam |  |
+| 003     |     TA    | Joshua Bird|  |
+| 004     |     TA    | Johnson Chen|  |
+| 004     |     TA    | Wakeel Kasali|  |
+| 004     |     TA    | Kaylee Li|  |
+| 004     |     TA    | Jordan Yu|  |
+| 008     |     TA    | Kelly-Anne Lessard|  |
+| 008     |     TA    | Wasay Hayak|  |
+| 008     |     TA    | Karan Anand|  |
+| 008     |     TA    | Sprihaa Khanduri|  |
+| 009     |     TA    | Alex Lin|  |
+| 009     |     TA    | Andal Abro|  |
+| 009     |     TA    | Shahrukh Prithibi|  |
+| 009     |     TA    | Norinne Arora|  |
+| 101     |     TA    | Vinicius Santos|  |
+| 101     |     TA    | Laksh Agarwal|  |
+| 101     |     TA    | Ananyaa Chopra|  |
+
 
 
 
