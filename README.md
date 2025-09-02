@@ -70,14 +70,14 @@ _Note that your TAs are students too; they may have class right before their off
 | Section | Position           | Name        | Email                        |
 |---------|:-------------------|:------------|:-----------------------------|
 | All     | Course Coordinator | Julia Peng  | courses[-at-]stat.ubc.ca     |
-| 003     | Instructor         | Daniel Chen | daniel.chen[-at-]stat.ubc.ca |
-| 004     | Instructor         | Melissa Lee | melissa.lee[-at-]stat.ubc.ca |
-| 008     | Instructor         | Daniel Chen | daniel.chen[-at-]stat.ubc.ca |
-| 009     | Instructor         | Melissa Lee | melissa.lee[-at-]stat.ubc.ca |
+| 003     | Instructor         | Eugenia Yu | eugenia[-at-]stat.ubc.ca |
+| 004     | Instructor         | Eugenia Yu | eugenia[-at-]stat.ubc.ca |
+| 008     | Instructor         | Vivian Meng | vivian.meng[-at-]stat.ubc.ca |
+| 009     | Instructor         | Grace Tompkins | grace[-at-]stat.ubc.ca|
 | 101     | Instructor         | Daniel Chen | daniel.chen[-at-]stat.ubc.ca |
 | 003     |     TA    | Bowen Cui|  |
 | 003     |     TA    | Anabel Hartanto|  |
-| 003     |     TA    |Irene Lam |  |
+| 003     |     TA    | Irene Lam |  |
 | 003     |     TA    | Joshua Bird|  |
 | 004     |     TA    | Johnson Chen|  |
 | 004     |     TA    | Wakeel Kasali|  |
