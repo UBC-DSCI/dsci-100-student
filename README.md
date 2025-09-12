@@ -84,7 +84,7 @@ _Note that your TAs are students too; they may have class right before their off
 | 004     |     TA    | Kaylee Li|  |
 | 004     |     TA    | Jordan Yu|  |
 | 008     |     TA    | Kelly-Anne Lessard|  |
-| 008     |     TA    | Wasay Hayak|  |
+| 008     |     TA    | Wasay Hayat|  |
 | 008     |     TA    | Karan Anand|  |
 | 008     |     TA    | Sprihaa Khanduri|  |
 | 009     |     TA    | Alex Lin|  |
