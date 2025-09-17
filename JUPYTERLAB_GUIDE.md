@@ -4,14 +4,15 @@ This guide contains tips and FAQs which help to avoid common issues that arise w
 
 # Table of Contents
 ### Tips
-1. [Don't change worksheet/tutorial file names](#do-not-change-worksheet-or-tutorial-file-names)
-2. [Open multiple notebook tabs](#open-multiple-notebook-tabs)
-3. [Check solutions or feedback](#check-solutions-or-feedback)
-4. [Check memory usage](#check-memory-usage)
-5. [Get a fresh copy of a notebook](#get-a-fresh-copy-of-a-notebook)
-6. [View hidden files](#view-hidden-files)
-7. [Clone a GitHub repo](#clone-a-github-repo)
-8. [Get a copy of everything](#get-a-copy-of-everything)
+1. [Recommended browsers and devices](#recommended-browsers-and-devices)
+2. [Don't change worksheet/tutorial file names](#do-not-change-worksheet-or-tutorial-file-names)
+3. [Open multiple notebook tabs](#open-multiple-notebook-tabs)
+4. [Check solutions or feedback](#check-solutions-or-feedback)
+5. [Check memory usage](#check-memory-usage)
+6. [Get a fresh copy of a notebook](#get-a-fresh-copy-of-a-notebook)
+7. [View hidden files](#view-hidden-files)
+8. [Clone a GitHub repo](#clone-a-github-repo)
+9. [Get a copy of everything](#get-a-copy-of-everything)
 
 ### FAQs
 1. [Why did I get a zero/low-mark when I submitted everything on time?](#why-did-i-get-a-zerolow-mark-when-i-submitted-everything-on-time)
@@ -24,6 +25,10 @@ This guide contains tips and FAQs which help to avoid common issues that arise w
 8. [How do I get a blank worksheet or tutorial for practice?](#how-do-i-get-a-blank-worksheet-or-tutorial-for-practice)
 
 ## Tips
+
+## Recommended browsers and devices
+
+JupyterLab works best on a Chromium based browser (Google Chrome, Edge) running on a laptop or desktop computer. Please avoid using Android or Apple tablets to complete assignments as they may cause issues with formatting, saving, server memory limits, etc.
 
 ## Do not change worksheet or tutorial file names
 
