@@ -60,7 +60,11 @@ To get to your home directory, open JupyterLab and then click the small grey fol
 
 ![Alt text](images/image2.png)
 
-Then that same menu should show assignment solutions and feedback. Solutions are typically released a few days after the due date, feedback is released after assignments are graded (this may take a couple weeks as tutorials are manually graded).
+Then that same menu should show assignment solutions and feedback. 
+
+Solutions and feedback for intro and reading are released 1 week after the last day for registration, tutorial intro and reading may take longer for manual grading. This delay is because late registered students receive extensions.
+
+Solutions after intro and reading are typically released a few days after the due date, feedback is released after assignments are graded (this may take a couple weeks as tutorials are manually graded).
 
 ## Check memory usage
 
