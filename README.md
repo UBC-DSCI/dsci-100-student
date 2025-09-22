@@ -209,7 +209,7 @@ Students who will miss an exam **must provide a self-declaration of academic con
 
 There will be **no extensions for the lecture and tutorial worksheets**; late assignments will receive a grade of zero. Instead, we will drop the lowest 2 grades on tutorials and worksheets for the semester (1 lowest tutorial + 1 lowest worksheet). This policy is meant to cover illness/unexpectancies. The worksheet and tutorial that you were not able to complete before the deadline will be covered by this policy. However, if you have extenuating circumstances and require further accommodations for subsequent requests, please contact the course coordinator with supporting documents, and we will deal with them case by case.
 
-Students who miss a lecture for their registered section will receive a iClicker grade of 0 for that lecture. There will be no make ups or accomodations for missing i-clickers. Instead, we will drop the 1 lowest grade on iClicker lectures to accomodate late registration and/or unforseeable events.
+Students who miss a lecture for their registered section will receive a iClicker grade of 0 for that lecture. There will be no make ups or accomodations for missing i-clickers. Instead, we will drop the 2 lowest grade on iClicker lectures to accomodate late registration and/or unforseeable events.
 
 For all other assignments and the course project, a **late submission will receive a 50% penalty**.
 
