@@ -197,7 +197,7 @@ To fix this open a Terminal session while you're in the home directory. Open a n
 
 <img width="383" height="317" alt="image" src="https://github.com/user-attachments/assets/9df53e17-d199-458f-9a63-e9e67d1b5050" />
 
-In the Terminal, type in the command `rm -rf .git` which will undo the Git repo initialization. Then try cloning a repo again.
+In the Terminal, type in the command `rm -rf .git` and then press Enter to execute the command. This will undo the Git repo initialization. Then try cloning a repo again.
 
 ### I made a typo in my code, can I still get marks for the question?
 
