@@ -20,9 +20,10 @@ This guide contains tips and FAQs which help to avoid common issues that arise w
 3. [Why does my kernel keep dying?](#why-does-my-kernel-keep-dying)
 4. [Why did I get a zero on a question when all the tests passed?](#why-did-i-get-a-zero-on-a-question-when-all-the-tests-passed)
 5. [Why did I get a low mark on a question when all the tests passed?](#why-did-i-get-a-low-mark-on-a-question-when-all-the-tests-passed)
-6. [I made a typo in my code, can I still get marks for the question?](#i-made-a-typo-in-my-code-can-i-still-get-marks-for-the-question)
-7. [I am getting a 400 (Bad Request) or 404 (Not Found) error, how do I fix it?](#i-am-getting-a-400-bad-request-or-404-not-found-error-how-do-i-fix-it)
-8. [How do I get a blank worksheet or tutorial for practice?](#how-do-i-get-a-blank-worksheet-or-tutorial-for-practice)
+6. [The clone repo button is greyed out](#the-clone-repo-button-is-greyed-out)
+7. [I made a typo in my code, can I still get marks for the question?](#i-made-a-typo-in-my-code-can-i-still-get-marks-for-the-question)
+8. [I am getting a 400 (Bad Request) or 404 (Not Found) error, how do I fix it?](#i-am-getting-a-400-bad-request-or-404-not-found-error-how-do-i-fix-it)
+9. [How do I get a blank worksheet or tutorial for practice?](#how-do-i-get-a-blank-worksheet-or-tutorial-for-practice)
 
 ## Tips
 
@@ -183,6 +184,20 @@ Some questions have hidden tests that are not shown in the student version of th
 Your answer may have passed the visible tests but failed the hidden tests when it was being marked.
 
 Examine the feedback for the question carefully to see if hidden tests were run on your code. Instructions for accessing feedback are [here](#check-solutions-or-feedback).
+
+### The clone repo button is greyed out
+
+First, make sure you're in your home directory and not in another Git repo. Relevant instructions are [here](#check-solutions-or-feedback).
+
+If the button is still greyed out while in the home directory, then likely at some point the home directory was initialized into a Git repo accidentally. 
+
+To fix this open a Terminal session while you're in the home directory. Open a new JupyterLab tab and in the new tab window click the `Terminal` icon.
+
+<img width="480" height="279" alt="image" src="https://github.com/user-attachments/assets/b25f6a52-7796-4960-93ac-b98c3ff34cec" />
+
+<img width="383" height="317" alt="image" src="https://github.com/user-attachments/assets/9df53e17-d199-458f-9a63-e9e67d1b5050" />
+
+In the Terminal, type in the command `rm -rf .git` which will undo the Git repo initialization. Then try cloning a repo again.
 
 ### I made a typo in my code, can I still get marks for the question?
 
