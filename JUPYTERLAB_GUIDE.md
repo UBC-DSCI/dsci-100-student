@@ -91,7 +91,7 @@ Run your notebook one cell at a time. If you hit a cell that causes memory usage
 
 ## Get a fresh copy of a notebook
 
-If you need a new copy of a notebook, for example if you accidentally deleted a grading cell or want one for practice, first rename the notebook you have in your account currently.
+If you need a new copy of a notebook, for example if you accidentally deleted a grading cell or want one for practice (only AFTER the due date for the assignment had passed), first rename the notebook you have in your account currently.
 
 For example if you need a new copy of a `worksheet_wrangling.ipynb`, right-click it in the file menu and choose the **Rename** option and rename it to `worksheet_wrangling_old.ipynb`.
 
