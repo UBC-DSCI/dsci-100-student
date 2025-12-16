@@ -160,6 +160,7 @@ knn.score(X_test, y_test)
 | coef_                                                              | Attribute in linear models (e.g., LinearRegression) containing the estimated coefficients of features.       |
 | cross_validate()                                                   | Function for evaluating a model's performance using cross-validation and returning multiple scores.          |
 | cv_results_                                                        | Attribute in GridSearchCV containing detailed results from cross-validation grid search.                     |
+| [1].labels_                                                        | Attribute for parsing out the assigned label for each observation in a KMeans cluster object.                |
 | euclidean_distances(x, y)                                          | Compute pairwise Euclidean distances between points in two datasets.                                         |
 | fit(X, y)                                                          | Fit/train the model                                                                                          |
 | get_params()                                                       | Method to retrieve the hyperparameters of an estimator.                                                      |
