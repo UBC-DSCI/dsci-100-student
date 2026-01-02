@@ -4,11 +4,12 @@
 
 | Section        | Instructor  |
 |:---------------|:------------|
-| DSCI 100 - 003 | Eugenia Yu |
-| DSCI 100 - 004 | Eugenia Yu |
-| DSCI 100 - 008 | Vivian Meng |
-| DSCI 100 - 009 | Grace Tompkins |
-| DSCI 100 - 101 | Daniel Chen |
+| DSCI 100 - 002 | Grace Tompkins |
+| DSCI 100 - 005 | Daniel Chen |
+| DSCI 100 - 006 | Geoffrey Pleiss |
+| DSCI 100 - 007 | Maria Eugenia Bernaschini |
+| DSCI 100 - 010 | Vivian Meng |
+| DSCI 100 - 100 | Valentina Radic |
 
 
 ## Course Description
@@ -70,11 +71,12 @@ _Note that your TAs are students too; they may have class right before their off
 | Section | Position           | Name        | Email                        |
 |---------|:-------------------|:------------|:-----------------------------|
 | All     | Course Coordinator | Julia Peng  | courses[-at-]stat.ubc.ca     |
-| 003     | Instructor         | Eugenia Yu | eugenia[-at-]stat.ubc.ca |
-| 004     | Instructor         | Eugenia Yu | eugenia[-at-]stat.ubc.ca |
-| 008     | Instructor         | Vivian Meng | vivian.meng[-at-]stat.ubc.ca |
-| 009     | Instructor         | Grace Tompkins | grace[-at-]stat.ubc.ca|
-| 101     | Instructor         | Daniel Chen | daniel.chen[-at-]stat.ubc.ca |
+| 002     | Instructor         | Grace Tompkins | grace[-at-]stat.ubc.ca|
+| 005     | Instructor         | Daniel Chen | daniel.chen[-at-]stat.ubc.ca |
+| 006     | Instructor         | Geoffrey Pleiss |geoff.pleiss[-at-]stat.ubc.ca|
+| 007     | Instructor         | Maria Eugenia Bernaschini | eugenia.bernaschini[-at-]stat.ubc.ca|
+| 010     | Instructor         | Vivian Meng | vivian.meng[-at-]stat.ubc.ca |
+| 100     | Instructor         | Valentina Radic | vradic[-at-]eoas.ubc.ca |
 | 003     |     TA    | Bowen Cui|  |
 | 003     |     TA    | Anabel Hartanto|  |
 | 003     |     TA    | Irene Lam |  |
@@ -136,7 +138,7 @@ In each class (lecture and tutorial) there will be an assignment:
 
 ### iClicker
 
-During each lecture there will be iClicker questions to help check your understanding of the course material. iClicker grade will be based on participation. You **must attend the section you are registered in.** It is your responsibility to make sure that the student ID and name associated with your iClicker account matches the Canvas gradebook. If you need help connecting to iClicker please see [iClicker Cloud Student Guide](https://lthub.ubc.ca/guides/iclicker-cloud-student-guide/).
+During each lecture there will be iClicker questions to help check your understanding of the course material. iClicker grade will be based on participation and correctness. You **must attend the section you are registered in.** It is your responsibility to make sure that the student ID and name associated with your iClicker account matches the Canvas gradebook. If you need help connecting to iClicker please see [iClicker Cloud Student Guide](https://lthub.ubc.ca/guides/iclicker-cloud-student-guide/).
 
 ### Project
 
