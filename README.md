@@ -34,7 +34,7 @@ This course uses "Data Science: A First Introduction" which is available both in
 
 ## Hardware & Software
 
-Students are required to bring a laptop, chromebook or tablet to both lectures and tutorials. Students who do not own a laptop, chromebook, or tablet may be able to [loan a laptop from the UBC library](https://services.library.ubc.ca/computers-technology/technology-borrowing/).
+Students are required to bring a laptop, chromebook or tablet to both lectures and tutorials. iPads are not recommended. Students who do not own a laptop, chromebook, or tablet may be able to [loan a laptop from the UBC library](https://services.library.ubc.ca/computers-technology/technology-borrowing/).
 
 All other required software will be provided by the instructors. Students will learn to perform their analysis using the [R](https://cran.r-project.org/) or [Python](https://www.python.org/) programming language depending on which section they enrolled in. Worksheets and tutorial problem sets as well as the final project analysis, development, and reports will be done using [Jupyter Notebooks](http://jupyter.org/) accessed via [Canvas](https://canvas.ubc.ca).
 
@@ -77,25 +77,28 @@ _Note that your TAs are students too; they may have class right before their off
 | 007     | Instructor         | Maria Eugenia Bernaschini | eugenia.bernaschini[-at-]stat.ubc.ca|
 | 010     | Instructor         | Vivian Meng | vivian.meng[-at-]stat.ubc.ca |
 | 100     | Instructor         | Valentina Radic | vradic[-at-]eoas.ubc.ca |
-| 003     |     TA    | Bowen Cui|  |
-| 003     |     TA    | Anabel Hartanto|  |
-| 003     |     TA    | Irene Lam |  |
-| 003     |     TA    | Joshua Bird|  |
-| 004     |     TA    | Johnson Chen|  |
-| 004     |     TA    | Wakeel Kasali|  |
-| 004     |     TA    | Kaylee Li|  |
-| 004     |     TA    | Jordan Yu|  |
-| 008     |     TA    | Kelly-Anne Lessard|  |
-| 008     |     TA    | Wasay Hayat|  |
-| 008     |     TA    | Karan Anand|  |
-| 008     |     TA    | Sprihaa Khanduri|  |
-| 009     |     TA    | Alex Lin|  |
-| 009     |     TA    | Andal Abro|  |
-| 009     |     TA    | Shahrukh Prithibi|  |
-| 009     |     TA    | Norinne Arora|  |
-| 101     |     TA    | Vinicius Santos|  |
-| 101     |     TA    | Laksh Agarwal|  |
-| 101     |     TA    | Ananyaa Chopra|  |
+| 002     |     TA    | Shirlina Li|  |
+| 002     |     TA    | Gian Carlo Diluv|  |
+| 002     |     TA    | Alex Lin |  |
+| 002     |     TA    | Kaylee Li|  |
+| 005     |     TA    | Irene Lam|  |
+| 005     |     TA    | Thomas Zhang|  |
+| 005     |     TA    | Anabel Hartanto|  |
+| 005     |     TA    | Manan Daga|  |
+| 006     |     TA    | Moein Heidari|  |
+| 006     |     TA    | Bowen Cui|  |
+| 006     |     TA    | Jordan Yu|  |
+| 006     |     TA    | Ankur Bhardwaj|  |
+| 007     |     TA    | Norinne Arora|  |
+| 007     |     TA    | Billy Li|  |
+| 007     |     TA    | Shahrukh Prithibi|  |
+| 007     |     TA    | Edward Sobczak|  |
+| 010     |     TA    | Andal Abro|  |
+| 010     |     TA    | Frederick Wang|  |
+| 010     |     TA    | Kashish Joshipura|  |
+| 010     |     TA    | Phoebe Yu|  |
+| 100     |     TA    | Vinicius Santos|  |
+| 100     |     TA    | Rainie FU|  |
 
 
 
