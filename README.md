@@ -266,7 +266,13 @@ An "adequate acknowledgement" requires a detailed identification of the (parts o
 
 The above attribution policy applies only to assignments. **No code or text may be copied (with or without attribution) from any source during an exam. Answers must always be in your own words. At a minimum, copying will result in a grade of 0 for the related assignment.**
 
+
+
 **Repeated plagiarism of any form could result in larger penalties, including failure of the course.**
+
+### Use of Generative AI Tools
+
+The use of Generative Artificial Intelligence ("Gen AI") tools is strictly prohibited in all course assessments unless explicitly stated otherwise by the instructors in this course. This includes ChatGPT and other artificial intelligence tools and programs. Gen AI is not to be used to generate text or code throughout this course, and doing so is a form of academic misconduct.
 
 <!--
 ### COVID-19
