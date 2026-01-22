@@ -1,0 +1,13 @@
+landmass,size,is_continent
+Africa,11506,Continent
+Antarctica,5500,Continent
+Asia,16988,Continent
+Australia,2968,Continent
+Baffin,184,Other
+Borneo,280,Other
+Europe,3745,Continent
+Greenland,840,Other
+Madagascar,227,Other
+New Guinea,306,Other
+North America,9390,Continent
+South America,6795,Continent

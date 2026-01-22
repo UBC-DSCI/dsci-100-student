@@ -1,0 +1,186 @@
+country,year,continent,life_expectancy
+Albania,2016,Europe,78.1
+Algeria,2016,Africa,76.5
+Angola,2016,Africa,60
+Antigua and Barbuda,2016,Americas,76.5
+Argentina,2016,Americas,76.7
+Armenia,2016,Asia,74.9
+Aruba,2016,Americas,75.85
+Australia,2016,Oceania,82.3
+Austria,2016,Europe,81.4
+Azerbaijan,2016,Asia,73.3
+Bahamas,2016,Americas,73.9
+Bahrain,2016,Asia,79.1
+Bangladesh,2016,Asia,70.7
+Barbados,2016,Americas,75.8
+Belarus,2016,Europe,71.3
+Belgium,2016,Europe,80.5
+Belize,2016,Americas,71.9
+Benin,2016,Africa,62.6
+Bhutan,2016,Asia,73
+Bolivia,2016,Americas,73.5
+Bosnia and Herzegovina,2016,Europe,79.1
+Botswana,2016,Africa,60.13
+Brazil,2016,Americas,74.5
+Brunei,2016,Asia,77.1
+Bulgaria,2016,Europe,74.9
+Burkina Faso,2016,Africa,61.2
+Burundi,2016,Africa,61.4
+Cambodia,2016,Asia,69.7
+Cameroon,2016,Africa,59.7
+Canada,2016,Americas,81.7
+Cape Verde,2016,Africa,73.1
+Central African Republic,2016,Africa,51.04
+Chad,2016,Africa,58.01
+Chile,2016,Americas,79.6
+China,2016,Asia,76.5
+Colombia,2016,Americas,78.2
+Comoros,2016,Africa,68.2
+"Congo, Dem. Rep.",2016,Africa,61.51
+"Congo, Rep.",2016,Africa,61.5
+Costa Rica,2016,Americas,80.4
+Cote d'Ivoire,2016,Africa,59.71
+Croatia,2016,Europe,77.8
+Cuba,2016,Americas,78.3
+Cyprus,2016,Asia,81.9
+Czech Republic,2016,Europe,79
+Denmark,2016,Europe,80.5
+Djibouti,2016,Africa,64.51
+Dominican Republic,2016,Americas,75.5
+Ecuador,2016,Americas,76
+Egypt,2016,Africa,71.7
+El Salvador,2016,Americas,75
+Equatorial Guinea,2016,Africa,61
+Eritrea,2016,Africa,60.8
+Estonia,2016,Europe,78
+Ethiopia,2016,Africa,65.7
+Fiji,2016,Oceania,65.9
+Finland,2016,Europe,80.9
+France,2016,Europe,81.9
+French Polynesia,2016,Oceania,76.91
+Gabon,2016,Africa,66.81
+Gambia,2016,Africa,68.2
+Georgia,2016,Asia,73.2
+Germany,2016,Europe,80.9
+Ghana,2016,Africa,65.8
+Greece,2016,Europe,81
+Greenland,2016,Americas,72.2
+Grenada,2016,Americas,71.6
+Guatemala,2016,Americas,72.8
+Guinea,2016,Africa,59.6
+Guinea-Bissau,2016,Africa,55.9
+Guyana,2016,Americas,67.2
+Haiti,2016,Americas,64.8
+Honduras,2016,Americas,73.2
+"Hong Kong, China",2016,Asia,83.9
+Hungary,2016,Europe,76.9
+Iceland,2016,Europe,83.3
+India,2016,Asia,67.5
+Indonesia,2016,Asia,71.4
+Iran,2016,Asia,74.6
+Iraq,2016,Asia,67.1
+Ireland,2016,Europe,81.8
+Israel,2016,Asia,82.91
+Italy,2016,Europe,82.3
+Jamaica,2016,Americas,75.2
+Japan,2016,Asia,83.3
+Jordan,2016,Asia,78.6
+Kazakhstan,2016,Asia,70.2
+Kenya,2016,Africa,65.2
+Kiribati,2016,Oceania,63.2
+South Korea,2016,Asia,81.1
+Kuwait,2016,Asia,80.4
+Kyrgyz Republic,2016,Asia,70
+Lao,2016,Asia,67.6
+Latvia,2016,Europe,75.6
+Lebanon,2016,Asia,79.1
+Lesotho,2016,Africa,48.86
+Liberia,2016,Africa,64.63
+Libya,2016,Africa,73.21
+Lithuania,2016,Europe,75.4
+Luxembourg,2016,Europe,82.3
+"Macao, China",2016,Asia,81.03
+"Macedonia, FYR",2016,Europe,76.8
+Madagascar,2016,Africa,63.7
+Malawi,2016,Africa,60.9
+Malaysia,2016,Asia,75.5
+Maldives,2016,Asia,80
+Mali,2016,Africa,60.4
+Malta,2016,Europe,82.2
+Mauritania,2016,Africa,69.8
+Mauritius,2016,Africa,74.7
+Mexico,2016,Americas,76.2
+"Micronesia, Fed. Sts.",2016,Oceania,69
+Moldova,2016,Europe,74.2
+Mongolia,2016,Asia,67.4
+Montenegro,2016,Europe,77.3
+Morocco,2016,Africa,74.8
+Mozambique,2016,Africa,58.12
+Namibia,2016,Africa,64.3
+Nepal,2016,Asia,69.2
+Netherlands,2016,Europe,81.3
+New Caledonia,2016,Oceania,76.96
+New Zealand,2016,Oceania,81.4
+Nicaragua,2016,Americas,78.2
+Niger,2016,Africa,61.3
+Nigeria,2016,Africa,65.51
+Norway,2016,Europe,82
+Oman,2016,Asia,77.4
+Pakistan,2016,Asia,66.2
+Panama,2016,Americas,78.5
+Papua New Guinea,2016,Oceania,61.3
+Paraguay,2016,Americas,74.5
+Peru,2016,Americas,79.7
+Philippines,2016,Asia,71.3
+Poland,2016,Europe,77.8
+Portugal,2016,Europe,80.9
+Puerto Rico,2016,Americas,78.8
+Qatar,2016,Asia,79.6
+Romania,2016,Europe,75.3
+Russia,2016,Europe,71.1
+Rwanda,2016,Africa,66.1
+St. Lucia,2016,Americas,74.8
+St. Vincent and the Grenadines,2016,Americas,71.3
+Samoa,2016,Oceania,73.3
+Saudi Arabia,2016,Asia,79.6
+Senegal,2016,Africa,65.6
+Serbia,2016,Europe,76.5
+Seychelles,2016,Africa,74.2
+Sierra Leone,2016,Africa,59.07
+Singapore,2016,Asia,82.1
+Slovak Republic,2016,Europe,77.8
+Slovenia,2016,Europe,81
+Solomon Islands,2016,Oceania,64.4
+South Africa,2016,Africa,61.4
+Spain,2016,Europe,82.7
+Sri Lanka,2016,Asia,77.8
+Sudan,2016,Africa,67.8
+Suriname,2016,Americas,72.2
+Swaziland,2016,Africa,53.88
+Sweden,2016,Europe,82.1
+Switzerland,2016,Europe,83.1
+Syria,2016,Asia,69.21
+Tajikistan,2016,Asia,72.9
+Tanzania,2016,Africa,64.91
+Thailand,2016,Asia,74.8
+Timor-Leste,2016,Asia,72.5
+Togo,2016,Africa,61.9
+Tonga,2016,Oceania,71.7
+Trinidad and Tobago,2016,Americas,72.5
+Tunisia,2016,Africa,77.6
+Turkey,2016,Asia,79.3
+Turkmenistan,2016,Asia,70.4
+Uganda,2016,Africa,61.91
+Ukraine,2016,Europe,71.7
+United Arab Emirates,2016,Asia,75.4
+United Kingdom,2016,Europe,81.1
+United States,2016,Americas,79.1
+Uruguay,2016,Americas,77
+Uzbekistan,2016,Asia,72.1
+Vanuatu,2016,Oceania,65.1
+Venezuela,2016,Americas,74.8
+West Bank and Gaza,2016,Asia,74.7
+Vietnam,2016,Asia,75.6
+Yemen,2016,Asia,64.92
+Zambia,2016,Africa,57.1
+Zimbabwe,2016,Africa,61.69
