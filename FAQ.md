@@ -48,9 +48,9 @@ server.
 ## How do I get my assignment regraded?
 
 *Please see the course syllabus:* 
-
+<!--
 *Note:* We will only regrade to correct mistakes that we made when grading.
-Please see the syllabus for our policy regarding autograding.
+Please see the syllabus for our policy regarding autograding.-->
 
 ## Where do I find due dates?
 
