@@ -22,7 +22,7 @@ This document contains links that will automatically download the week's workshe
 
 9. Click an assignment link below to open a worksheet/tutorial.
 
-If you need to change your password, log in and use the link here https://dsci-100-student.stat.ubc.ca/jupyter/hub/change-password. If you forgot your password, please contact your instructor for a password reset.
+If you need to change your password, log in and use the link here https://dsci-100-student.stat.ubc.ca/jupyter/hub/change-password. If you forgot your password, please contact your instructor for a password reset. Include your username and student email address.
 
 # Worksheets
 
