@@ -22,6 +22,8 @@ This document contains links that will automatically download the week's workshe
 
 9. Click an assignment link below to open a worksheet/tutorial.
 
+If you need to change your password, log in and use the link here https://dsci-100-student.stat.ubc.ca/jupyter/hub/change-password. If you forgot your password, please contact your instructor for a password reset.
+
 # Worksheets
 
 [worksheet_intro](https://dsci-100-student.stat.ubc.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUBC-DSCI%2Fdsci-100-student&urlpath=lab%2Ftree%2Fdsci-100-student%2Fmaterials%2FR%2Fworksheet_intro%2Fworksheet_intro.ipynb&branch=master) **Due date TBD**
