@@ -30,7 +30,7 @@ Each week will have the following pattern:
   in lecture. You'll do another worksheet to practice the concept. The
 tutorial worksheets are generally harder than the lecture worksheets.
 
-There will be one midterm, one final exam, and one group project.
+There will be one midterm, one final exam, and one project.
 
 ## How do I submit an assignment?
 
