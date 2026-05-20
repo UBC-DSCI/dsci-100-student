@@ -13,6 +13,7 @@ This guide contains tips and FAQs which help to avoid common issues that arise w
 7. [View hidden files](#view-hidden-files)
 8. [Clone a GitHub repo](#clone-a-github-repo)
 9. [Get a copy of everything](#get-a-copy-of-everything)
+10. [Access your home directory](#access-your-home-directory)
 
 ### FAQs
 1. [Why did I get a zero/low-mark when I submitted everything on time?](#why-did-i-get-a-zerolow-mark-when-i-submitted-everything-on-time)
@@ -142,6 +143,14 @@ cd /home/jovyan/work/ && zip -r dsci100jupyterlab.zip *
 If you received a `Disk quota exceeded` error, then there are too many files. Delete any files or folders that you don't need (especially large .csv files) and try the command again.
 
 3. Go to your home folder [as described here](#check-solutions-or-feedback) and there should be a zip file. Right-click the file and click Download to download a copy onto your device. 
+
+## Access your Home Directory
+
+Your home directory is where your project folder, solutions, and feedback will reside.
+
+To access it, simply click the folder icon on the top left of your folder navigation menu.
+
+![Alt text](images/image2.png)
 
 ## FAQs
 
