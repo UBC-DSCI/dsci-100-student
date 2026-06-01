@@ -88,7 +88,7 @@ Database functions:
 | `group_by(tbl, columns_as_arguments)`                              | Group a tibble by the list of columns provided                        |
 | `map(tbl, function)`                                               | Apply the given function to each column, creating a list              |
 | `map_chr(tbl, function)`                                           | Apply the given function to each column, creating a character vector  |
-| `map_df(tbl, function)`                                            | Apply the given function to each column, creating a data frame        |
+| `map_dfr(tbl, function)`                                            | Apply the given function to each column, creating a data frame        |
 | `mutate(tbl, column_name = ...)`                                   | Create or modify a column in a tibble                                 |
 | `pivot_longer(tbl, column_range, names_to = ..., values_to = ...)` | Move values from column names to cells                                |
 | `pivot_wider(tbl, names_from = ..., values_from = ...)`            | Move variables from cells to column names                             |
