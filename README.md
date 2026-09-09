@@ -80,17 +80,17 @@ _Note that your TAs are students too; they may have class right before their off
 | 003     |     TA    | Fiona Fang|  |
 | 003     |     TA    | Binyue Lu|  |
 | 004     |     TA    | Kaylee Li|  |
-| 004     |     TA    | Irene Lam|  |
-| 004     |     TA    | Ananyaa Chopra|  |
+| 004     |     TA    | Jordan Yu|  |
+| 004     |     TA    | Vincy Huang|  |
 | 004     |     TA    | Bowen Cui|  |
 | 008     |     TA    | Jingyuan Liu|  |
-| 008     |     TA    | Jordan Yu|  |
+| 008     |     TA    | Irene Lam|  |
 | 008     |     TA    | Jose Damara Hadriana|  |
 | 008     |     TA    | |  |
 | 009     |     TA    | Thomas Zhang|  |
 | 009     |     TA    | Karan Anand|  |
 | 009     |     TA    | Audrey Wang|  |
-| 009     |     TA    | Vincy Huang|  |
+| 009     |     TA    | Ananyaa Chopra|  |
 | 101     |     TA    | Edward Sobczak|  |
 | 101     |     TA    | Moein Heidari|  |
 | 101     |     TA    | Chloe Zandberg|  |
