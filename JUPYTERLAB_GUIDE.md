@@ -31,6 +31,8 @@ This guide contains tips and FAQs which help to avoid common issues that arise w
 
 JupyterLab works best on a Chromium based browser (Google Chrome, Edge) running on a laptop or desktop computer. Please avoid using Android or Apple tablets to complete assignments as they may cause issues with formatting, saving, server memory limits, etc.
 
+If you're using the Canvas app you will not be able to open assignments as JupyterHub does not support the Canvas app and will throw a 405 Method Not Allowed error. Switch to using a web browser only, i.e. navigate to canvas.ubc.ca and log in there for the Canvas web interface.
+
 ## Do not change worksheet or tutorial file names
 
 The autograder relies on the file name of the worksheet or tutorial to collect it for marking. Never change the file name.
